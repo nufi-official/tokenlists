@@ -36,6 +36,18 @@
         ]
     },
     {
+        "symbol": "CUSD",
+        "name": "CUSD",
+        "address": "0xb3008E7156Ae2312b49B5200C3E1C3e80E529feb",
+        "decimals": 6,
+        "chainId": 88,
+        "logoURI": "https://assets.coingecko.com/coins/images/33816/thumb/cusd_%281%29.png?1703039824",
+        "coingeckoId": "stably-cusd",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "USDC",
         "name": "USD Coin",
         "address": "0xCCA4E6302510d555B654B3EaB9c0fCB223BCFDf0",
@@ -132,6 +144,18 @@
         ]
     },
     {
+        "symbol": "USDV",
+        "name": "Verified USD",
+        "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+        "decimals": 6,
+        "chainId": 88,
+        "logoURI": "https://assets.coingecko.com/coins/images/32948/thumb/usdv_%281%29.png?1699933314",
+        "coingeckoId": "verified-usd-foundation-usdv",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "WETH",
         "name": "WETH",
         "address": "0x2EAA73Bd0db20c64f53fEbeA7b5F5E5Bccc7fb8b",
@@ -139,6 +163,18 @@
         "chainId": 88,
         "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1628852295",
         "coingeckoId": "weth",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "C98",
+        "name": "Coin98",
+        "address": "0x0Fd0288AAAE91eaF935e2eC14b23486f86516c8C",
+        "decimals": 18,
+        "chainId": 88,
+        "logoURI": "https://assets.coingecko.com/coins/images/17117/thumb/logo.png?1696516677",
+        "coingeckoId": "coin98",
         "listedIn": [
             "coingecko"
         ]

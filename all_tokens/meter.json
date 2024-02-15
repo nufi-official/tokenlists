@@ -1,5 +1,17 @@
 [
     {
+        "symbol": "SUBTC",
+        "name": "Sumer Money suBTC",
+        "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+        "decimals": 18,
+        "chainId": 82,
+        "logoURI": "https://assets.coingecko.com/coins/images/33264/thumb/Sumer_Money_Logo.jpg?1701321397",
+        "coingeckoId": "sumer-money-subtc",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
         "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
@@ -36,6 +48,18 @@
         ]
     },
     {
+        "symbol": "WSTMTRG",
+        "name": "Meter io Wrapped stMTRG",
+        "address": "0xE2dE616fBD8cb9180B26FcFB1B761A232FE56717",
+        "decimals": 18,
+        "chainId": 82,
+        "logoURI": "https://assets.coingecko.com/coins/images/33276/thumb/MTRG_Logo.png?1701329317",
+        "coingeckoId": "meter-io-wrapped-stmtrg",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "USDC",
         "name": "USD Coin",
         "address": "0xD86e243FC0007e6226B07c9A50C9d70D78299EB5",
@@ -55,6 +79,18 @@
         "chainId": 82,
         "logoURI": "https://assets.coingecko.com/coins/images/22841/thumb/voltswap.png?1642745860",
         "coingeckoId": "voltswap",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SUUSD",
+        "name": "Sumer Money suUSD",
+        "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
+        "decimals": 18,
+        "chainId": 82,
+        "logoURI": "https://assets.coingecko.com/coins/images/33266/thumb/Sumer_Money_Logo.jpg?1701321416",
+        "coingeckoId": "sumer-money-suusd",
         "listedIn": [
             "coingecko"
         ]
@@ -103,6 +139,30 @@
         "chainId": 82,
         "logoURI": "https://assets.coingecko.com/coins/images/11848/thumb/meter.png?1660274270",
         "coingeckoId": "meter",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "STMTRG",
+        "name": "Meter io Staked MTRG",
+        "address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad",
+        "decimals": 18,
+        "chainId": 82,
+        "logoURI": "https://assets.coingecko.com/coins/images/33273/thumb/MTRG_Logo.png?1701328641",
+        "coingeckoId": "meter-io-staked-mtrg",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SUETH",
+        "name": "Sumer Money suETH",
+        "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
+        "decimals": 18,
+        "chainId": 82,
+        "logoURI": "https://assets.coingecko.com/coins/images/33265/thumb/Sumer_Money_Logo.jpg?1701321407",
+        "coingeckoId": "sumer-money-sueth",
         "listedIn": [
             "coingecko"
         ]

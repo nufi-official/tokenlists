@@ -8,9 +8,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86/logo.svg",
         "coingeckoId": "polar-token",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -22,9 +22,22 @@
         "logoURI": "https://tokens.1inch.io/0xea62791aa682d455614eaa2a12ba3d9a2fd197af.png",
         "coingeckoId": "flux-token",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
+            "rubic",
+            "1inch",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "XPOLAR",
+        "name": "XPOLAR",
+        "address": "0xeAf7665969f1DaA3726CEADa7c40Ab27B3245993",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://assets.coingecko.com/coins/images/30766/thumb/XPOLAR_LOGO.png?1696529634",
+        "coingeckoId": "xpolar",
+        "listedIn": [
+            "coingecko",
             "rubic"
         ]
     },
@@ -36,6 +49,19 @@
         "chainId": 1313161554,
         "logoURI": "https://assets.coingecko.com/coins/images/15621/thumb/alium.png?1655449806",
         "coingeckoId": "alium-finance",
+        "listedIn": [
+            "rubic",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "COR",
+        "name": "Coreto",
+        "address": "0xe62233aeAEd9b9Ea007704262E15445E0D756C0B",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://assets.coingecko.com/coins/images/12856/thumb/COR.png?1696512646",
+        "coingeckoId": "coreto",
         "listedIn": [
             "coingecko",
             "rubic"
@@ -63,10 +89,10 @@
         "logoURI": "https://tokens.1inch.io/0xe3520349f477a5f6eb06107066048508498a291b.png",
         "coingeckoId": "dai",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "1inch",
+            "coingecko"
         ]
     },
     {
@@ -78,9 +104,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xe301eD8C7630C9678c39E4E45193D1e7Dfb914f7/logo.svg",
         "coingeckoId": "dodo",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -92,10 +118,10 @@
         "logoURI": "https://tokens.1inch.io/0xdcd6d4e2b3e1d1e1e6fa8c21c8a323dcbecff970.png",
         "coingeckoId": "rose",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "1inch",
+            "coingecko"
         ]
     },
     {
@@ -120,9 +146,9 @@
         "logoURI": "https://tokens.1inch.io/0xa3fa99a148fa48d14ed51d610c367c61876997f1.png",
         "coingeckoId": "mimatic",
         "listedIn": [
-            "coingecko",
             "RouterProtocol",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -160,8 +186,8 @@
         "logoURI": "https://tokens.1inch.io/0xd126b48c072f4668e944a8895bc74044d5f2e85b.png",
         "coingeckoId": null,
         "listedIn": [
-            "1inch",
             "trisolaris",
+            "1inch",
             "rubic"
         ]
     },
@@ -187,9 +213,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xc2ac78FFdDf39e5cD6D83bbD70c1D67517C467eF/logo.png",
         "coingeckoId": "golden-banana",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -201,9 +227,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xc21Ff01229e982d7c8b8691163B0A3Cb8F357453/logo.svg",
         "coingeckoId": "meta-pool",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -228,8 +254,48 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xb39EEB9E168eF6c639f5e282FEf1F6bC4Dcae375/logo.svg",
         "coingeckoId": "stader-nearx",
         "listedIn": [
-            "coingecko",
-            "trisolaris"
+            "trisolaris",
+            "rubic",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "abBNB",
+        "name": "BNB - Allbridge",
+        "address": "0xb14674C7264eC7d948B904Aab2c0E0F906F6e762",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xb14674c7264ec7d948b904aab2c0e0f906f6e762/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "trisolaris",
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "BINARIS",
+        "name": "BINARIS",
+        "address": "0xafE0d6ca6AAbB43CDA024895D203120831Ba0370",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xafE0d6ca6AAbB43CDA024895D203120831Ba0370/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "trisolaris",
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "auUSDT",
+        "name": "auUSDT",
+        "address": "0xaD5A2437Ff55ed7A8Cad3b797b3eC7c5a19B1c54",
+        "decimals": 8,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xaD5A2437Ff55ed7A8Cad3b797b3eC7c5a19B1c54/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "trisolaris",
+            "rubic"
         ]
     },
     {
@@ -241,9 +307,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xa69d9Ba086D41425f35988613c156Db9a88a1A96/logo.svg",
         "coingeckoId": "usp",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -268,8 +334,21 @@
         "logoURI": "https://tokens.1inch.io/0xfa94348467f64d5a457f75f8bc40495d33c65abb.png",
         "coingeckoId": "trisolaris",
         "listedIn": [
-            "coingecko",
+            "trisolaris",
+            "rubic",
             "1inch",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "DLTA",
+        "name": "delta.theta",
+        "address": "0xFBD1D8dcE2F97BC14239fd507183b98Ff1354B39",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFBD1D8dcE2F97BC14239fd507183b98Ff1354B39/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
             "trisolaris",
             "rubic"
         ]
@@ -283,10 +362,10 @@
         "logoURI": "https://tokens.1inch.io/0xf4eb217ba2454613b15dbdea6e5f22276410e89e.png",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "1inch",
+            "coingecko"
         ]
     },
     {
@@ -311,9 +390,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xE9F226a228Eb58d408FdB94c3ED5A18AF6968fE1/logo.svg",
         "coingeckoId": "empyrean",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -324,6 +403,33 @@
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xE4eB03598f4DCAB740331fa432f4b85FF58AA97E/logo.svg",
         "coingeckoId": "killswitch",
+        "listedIn": [
+            "trisolaris",
+            "rubic",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FRAX",
+        "name": "Frax",
+        "address": "0xE4B9e004389d91e4134a28F19BD833cBA1d994B6",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xE4B9e004389d91e4134a28F19BD833cBA1d994B6/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "trisolaris",
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "SCM",
+        "name": "ScamFari",
+        "address": "0xE3ff873C1e104118Ec83310E39aAfDE17d18005d",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xe3ff873c1e104118ec83310e39aafde17d18005d/logo.svg",
+        "coingeckoId": "scamfari",
         "listedIn": [
             "coingecko",
             "trisolaris",
@@ -339,8 +445,8 @@
         "logoURI": "https://tokens.1inch.io/0xda2585430fef327ad8ee44af8f1f989a2a91a3d2.png",
         "coingeckoId": null,
         "listedIn": [
-            "1inch",
             "trisolaris",
+            "1inch",
             "rubic"
         ]
     },
@@ -366,9 +472,9 @@
         "logoURI": "https://tokens.1inch.io/0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb.png",
         "coingeckoId": "weth",
         "listedIn": [
-            "coingecko",
+            "rubic",
             "1inch",
-            "rubic"
+            "coingecko"
         ]
     },
     {
@@ -393,9 +499,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096/logo.svg",
         "coingeckoId": "wrapped-terra",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -407,10 +513,10 @@
         "logoURI": "https://tokens.1inch.io/0xc42c30ac6cc15fac9bd938618bcaa1a1fae8501d.png",
         "coingeckoId": "wrapped-near",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "1inch",
+            "coingecko"
         ]
     },
     {
@@ -427,6 +533,19 @@
         ]
     },
     {
+        "symbol": "AVRIT",
+        "name": "Avrit Learning",
+        "address": "0xB4530AA877D25E51c18677753ACd80fFa54009b2",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xB4530AA877D25E51c18677753ACd80fFa54009b2/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "trisolaris",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "USDC",
         "name": "USD Coin",
         "address": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802",
@@ -435,10 +554,10 @@
         "logoURI": "https://tokens.1inch.io/0xb12bfca5a55806aaf64e99521918a4bf0fc40802.png",
         "coingeckoId": "usd-coin",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "1inch",
+            "coingecko"
         ]
     },
     {
@@ -468,6 +587,19 @@
         ]
     },
     {
+        "symbol": "ROUTE",
+        "name": "Router Protocol",
+        "address": "0xA1fC14bC890a98142443B7ABc0Eeccae6186cd9a",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://assets.coingecko.com/coins/images/13709/thumb/route_token_200x200-19.png?1696513454",
+        "coingeckoId": "route",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "BSTN",
         "name": "Bastion Protocol",
         "address": "0x9f1F933C660a1DC856F0E0Fe058435879c5CCEf0",
@@ -476,10 +608,10 @@
         "logoURI": "https://tokens.1inch.io/0x9f1f933c660a1dc856f0e0fe058435879c5ccef0.png",
         "coingeckoId": "bastion-protocol",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "1inch",
+            "coingecko"
         ]
     },
     {
@@ -491,8 +623,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729/logo.svg",
         "coingeckoId": "polar-shares",
         "listedIn": [
-            "coingecko",
-            "trisolaris"
+            "trisolaris",
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -504,9 +637,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x984c2505A14DA732D7271416356f535953610340/logo.svg",
         "coingeckoId": "youminter",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -516,6 +649,19 @@
         "decimals": 18,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x951cfdC9544b726872A8faF56792ef6704731aAe/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "trisolaris",
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "HAPI",
+        "name": "HAPI",
+        "address": "0x943F4Bf75D5854E92140403255a471950aB8a26f",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x943F4Bf75D5854E92140403255a471950aB8a26f/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "trisolaris",
@@ -544,9 +690,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x918dBe087040A41b786f0Da83190c293DAe24749/logo.svg",
         "coingeckoId": "linear-protocol",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -584,10 +730,10 @@
         "logoURI": "https://tokens.1inch.io/0x8bec47865ade3b172a928df8f990bc7f2a3b9f79.png",
         "coingeckoId": "aurora-near",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "1inch",
+            "coingecko"
         ]
     },
     {
@@ -599,9 +745,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8973c9eC7B79fE880697cDBcA744892682764c37/logo.svg",
         "coingeckoId": "baked-token",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -613,10 +759,10 @@
         "logoURI": "https://tokens.1inch.io/0x885f8cf6e45bdd3fdcdc644efdcd0ac93880c781.png",
         "coingeckoId": "nearpad",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "1inch",
+            "coingecko"
         ]
     },
     {
@@ -641,9 +787,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x802119e4e253D5C19aA06A5d567C5a41596D6803/logo.svg",
         "coingeckoId": "tribar",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -655,10 +801,10 @@
         "logoURI": "https://tokens.1inch.io/0x7faa64faf54750a2e3ee621166635feaf406ab22.png",
         "coingeckoId": "wannaswap",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "1inch",
+            "coingecko"
         ]
     },
     {
@@ -670,9 +816,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x7cA1C28663b76CFDe424A9494555B94846205585/logo.svg",
         "coingeckoId": "chronicle",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -684,8 +830,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/11035/thumb/0xmnr.PNG?1587357680",
         "coingeckoId": "0xmonero",
         "listedIn": [
-            "coingecko",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -710,8 +856,8 @@
         "logoURI": "https://tokens.1inch.io/0x74974575d2f1668c63036d51ff48dbaa68e52408.png",
         "coingeckoId": null,
         "listedIn": [
-            "1inch",
             "trisolaris",
+            "1inch",
             "rubic"
         ]
     },
@@ -737,9 +883,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x68e401B61eA53889505cc1366710f733A60C2d41/logo.png",
         "coingeckoId": "shitzu",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -764,9 +910,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x60527a2751A827ec0Adf861EfcAcbf111587d748/logo.png",
         "coingeckoId": "tripolar",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -778,10 +924,10 @@
         "logoURI": "https://tokens.1inch.io/0x5ce9f0b6afb36135b5ddbf11705ceb65e634a9dc.png",
         "coingeckoId": "wrapped-ust",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "1inch",
+            "coingecko"
         ]
     },
     {
@@ -819,10 +965,10 @@
         "logoURI": "https://tokens.1inch.io/0x5183e1b1091804bc2602586919e6880ac1cf2896.png",
         "coingeckoId": "usn",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "1inch",
+            "coingecko"
         ]
     },
     {
@@ -834,9 +980,22 @@
         "logoURI": "https://tokens.1inch.io/0x501ace9c35e60f03a2af4d484f49f9b1efde9f40.png",
         "coingeckoId": "solace",
         "listedIn": [
-            "coingecko",
+            "trisolaris",
             "1inch",
-            "trisolaris"
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "auUSDC",
+        "name": "auUSDC",
+        "address": "0x4f0d864b1ABf4B701799a0b30b57A22dFEB5917b",
+        "decimals": 8,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4f0d864b1ABf4B701799a0b30b57A22dFEB5917b/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "trisolaris",
+            "rubic"
         ]
     },
     {
@@ -861,10 +1020,10 @@
         "logoURI": "https://tokens.1inch.io/0x4988a896b1227218e4a686fde5eabdcabd91571f.png",
         "coingeckoId": "tether",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "1inch",
+            "coingecko"
         ]
     },
     {
@@ -881,6 +1040,19 @@
         ]
     },
     {
+        "symbol": "axlUSDC",
+        "name": "Axelar Wrapped USDC",
+        "address": "0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3",
+        "decimals": 6,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "trisolaris",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "BBT",
         "name": "BlueBit",
         "address": "0x4148d2Ce7816F0AE378d98b40eB3A7211E1fcF0D",
@@ -889,9 +1061,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4148d2Ce7816F0AE378d98b40eB3A7211E1fcF0D/logo.svg",
         "coingeckoId": "bluebit",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -903,9 +1075,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x3AC55eA8D2082fAbda674270cD2367dA96092889/logo.svg",
         "coingeckoId": "polaris-finance-orbital",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -917,9 +1089,22 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x34F291934b88c7870B7A17835B926B264fc13a81/logo.svg",
         "coingeckoId": "smartpad-2",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "GTFX",
+        "name": "Gitshock Finance",
+        "address": "0x306e974624511E3937F37E551C5736F1b2aD21eb",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://assets.coingecko.com/coins/images/28033/thumb/Logo_Gitshock_HD.png?1667117754",
+        "coingeckoId": "gitshock-finance",
+        "listedIn": [
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -957,8 +1142,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/26183/thumb/atocha_icon_1142x1142.png?1656383611",
         "coingeckoId": "atocha-coin",
         "listedIn": [
-            "coingecko",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -970,10 +1155,10 @@
         "logoURI": "https://tokens.1inch.io/0x2bae00c8bc1868a5f7a216e881bae9e662630111.png",
         "coingeckoId": "allbridge",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "1inch",
+            "coingecko"
         ]
     },
     {
@@ -985,10 +1170,10 @@
         "logoURI": "https://tokens.1inch.io/0x291c8fceaca3342b29cc36171deb98106f712c66.png",
         "coingeckoId": "pickle-finance",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "1inch",
+            "coingecko"
         ]
     },
     {
@@ -1000,9 +1185,9 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2451dB68DeD81900C4F16ae1af597E9658689734/logo.svg",
         "coingeckoId": "vaporwave",
         "listedIn": [
-            "coingecko",
             "trisolaris",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -1014,8 +1199,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12704/thumb/token.png?1601876182",
         "coingeckoId": "beefy-finance",
         "listedIn": [
-            "coingecko",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -1066,8 +1251,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/25840/thumb/pea-big.1f28f16.png?1654077801",
         "coingeckoId": "pinkpea-finance",
         "listedIn": [
-            "coingecko",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -1079,9 +1264,35 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x17cbd9C274e90C537790C51b4015a65cD015497e/logo.svg",
         "coingeckoId": "ethernal",
         "listedIn": [
-            "coingecko",
+            "trisolaris",
+            "rubic",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "BIVE",
+        "name": "Bizverse",
+        "address": "0x130E6203F05805cd8C44093a53C7b50775eb4ca3",
+        "decimals": 4,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x130E6203F05805cd8C44093a53C7b50775eb4ca3/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
             "trisolaris",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "BRL",
+        "name": "Borealis",
+        "address": "0x12c87331f086c3C926248f964f8702C0842Fd77F",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://assets.coingecko.com/coins/images/22089/thumb/auroraswap.png?1640774528",
+        "coingeckoId": "borealis",
+        "listedIn": [
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -1106,9 +1317,10 @@
         "logoURI": "https://tokens.1inch.io/0x09c9d464b58d96837f8d8b6f4d9fe4ad408d3a4f.png",
         "coingeckoId": "aurigami",
         "listedIn": [
-            "coingecko",
+            "trisolaris",
+            "rubic",
             "1inch",
-            "trisolaris"
+            "coingecko"
         ]
     },
     {
@@ -1133,6 +1345,20 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30/logo.svg",
         "coingeckoId": "staked-near",
         "listedIn": [
+            "trisolaris",
+            "rubic",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "NSTART",
+        "name": "NEARStarter",
+        "address": "0x06aEBB0f3D9eBe9829E1B67bD3dd608F711D3412",
+        "decimals": 24,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x06aEBB0f3D9eBe9829E1B67bD3dd608F711D3412/logo.svg",
+        "coingeckoId": "nearstarter",
+        "listedIn": [
             "coingecko",
             "trisolaris",
             "rubic"
@@ -1147,7 +1373,20 @@
         "logoURI": "https://tokens.1inch.io/0x026dda7f0f0a2e42163c9c80d2a5b6958e35fc49.png",
         "coingeckoId": null,
         "listedIn": [
+            "trisolaris",
             "1inch",
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "BRRR",
+        "name": "BRRR",
+        "address": "0x0240aE04c9F47B91Cf47Ca2E7ef44c9De0D385Ac",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x0240aE04c9F47B91Cf47Ca2E7ef44c9De0D385Ac/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
             "trisolaris",
             "rubic"
         ]
@@ -1161,8 +1400,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/25859/thumb/spaces_ebXpMFLzH2sowWKTINL3_uploads_git-blob-99be8625d129c1d92248059e04dffebe380e34b7_Izanagi_light_blue_-_transparent_%282%29.png?1654214255",
         "coingeckoId": "amaterasufi-izanagi",
         "listedIn": [
-            "coingecko",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -1174,8 +1413,8 @@
         "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
         "coingeckoId": "ethereum",
         "listedIn": [
-            "1inch",
-            "rubic"
+            "rubic",
+            "1inch"
         ]
     }
 ]

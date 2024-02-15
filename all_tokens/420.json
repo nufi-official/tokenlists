@@ -1,6 +1,18 @@
 [
     {
         "symbol": "INSURE",
+        "name": "AltInsureToken",
+        "address": "0xfb0a8CF5B2302f880aA26461C78A8DC20A02aE25",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/INSURE/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "INSURE",
         "name": "InsureToken",
         "address": "0xeF26Ca2844b0b470AfC1b0aeF5F65e677dE6CD1f",
         "decimals": 18,
@@ -36,12 +48,84 @@
         ]
     },
     {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0xe05606174bac4A6364B31bd0eCA4bf4dD368f8C6",
+        "decimals": 6,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "LINK",
         "name": "Chainlink",
         "address": "0xdc2CC710e42857672E7907CF474a69B63B93089f",
         "decimals": 18,
         "chainId": 420,
         "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "cbETH",
+        "name": "Coinbase Wrapped Staked ETH",
+        "address": "0xd6909e9e702024eb93312B989ee46794c0fB1C9D",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "STT",
+        "name": "Status Test Token",
+        "address": "0xcAD273fA2bb77875333439FDf4417D995159c3E1",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "RPL",
+        "name": "Rocket Pool Protocol",
+        "address": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/RPL/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "HANeP",
+        "name": "HANePlatform",
+        "address": "0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/HANeP/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "TGIV",
+        "name": "Giveth Test Token",
+        "address": "0xEf6301DA234fC7b0545c6E877D3359FE0B9E50a4",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/GIV/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -84,6 +168,18 @@
         ]
     },
     {
+        "symbol": "ECO",
+        "name": "Eco",
+        "address": "0xD2f598c826429EEe7c071C02735549aCd88F2c09",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/ECO/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "HAN",
         "name": "HanChain",
         "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
@@ -96,12 +192,48 @@
         ]
     },
     {
+        "symbol": "wOpenX",
+        "name": "OpenX Optimism",
+        "address": "0x9c4d82Ff5d1562287000bAE8fFCDbDDa475bdA2A",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/wOpenX/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "PIP",
+        "name": "PIP",
+        "address": "0x8BE06E6ed3eb7121A42fC710B2BF16e83227ab97",
+        "decimals": 9,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/PIP/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "USDT",
         "name": "Tether USD",
         "address": "0x853eb4bA5D0Ba2B77a0A5329Fd2110d5CE149ECE",
         "decimals": 6,
         "chainId": 420,
         "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "weETH",
+        "name": "Wrapped eETH",
+        "address": "0x7e7d4467112689329f7E06571eD0E8CbAd4910eE",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/weETH/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -132,12 +264,60 @@
         ]
     },
     {
+        "symbol": "COMP",
+        "name": "Compound",
+        "address": "0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/COMP/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "SAIL",
+        "name": "SAIL Token",
+        "address": "0x4c16dD6e9b402Ea4FB5bE647Be2F49e3d59BB08A",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/SAIL/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "mpETH",
+        "name": "MetaPoolETH",
+        "address": "0x4A36562d5D7074f8EE664922b320e066e67C2a24",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/mpETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "MOM",
         "name": "Monetum",
         "address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191",
         "decimals": 18,
         "chainId": 420,
         "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -186,6 +366,18 @@
         "decimals": 18,
         "chainId": 420,
         "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "rETH",
+        "name": "Rocket Pool ETH",
+        "address": "0x1010824414d822cd2167F9aD73a2a99bd2e0E4aE",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
