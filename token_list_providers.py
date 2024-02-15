@@ -174,7 +174,7 @@ class SushiswapTokenLists(TokenListProvider):
 
 class OneInchTokenLists(TokenListProvider):
     name = "1inch"
-    base_url = "https://api.1inch.io/v4.0/{}/tokens"
+    base_url = "https://tokens.1inch.io/v1.2/{}"
     chains = {
         "1": "1",
         "56": "56",
@@ -279,7 +279,7 @@ class TrisolarisLabsLists(TokenListProvider):
 
 class RubicLists(TokenListProvider):
     name = "rubic"
-    base_url = "https://api.rubic.exchange/api/tokens/?network={}"
+    base_url = "https://tokens.rubic.exchange/api/v1/tokens/?network={}"
     chains = {
         "-2": "near",
         "-1": "solana",
@@ -363,22 +363,22 @@ class Lifinance(TokenListProvider):
     _get_chain_id_key = True
 
     chains = {
-        "1": "1",
-        "10": "10",
-        "25": "25",
-        "56": "56",
-        "66": "66",
-        "100": "100",
-        "122": "122",
-        "137": "137",
-        "250": "250",
-        "1284": "1284",
-        "1285": "1285",
-        "9001": "9001",
-        "42161": "42161",
-        "42220": "42220",
-        "43114": "43114",
-        "1666600000": "1666600000",
+        "1": "1", # eth
+        "10": "10", # optimism
+        # "25": "25", // cronos mainnet
+        # "56": "56",
+        # "66": "66",
+        # "100": "100",
+        # "122": "122",
+        "137": "137", # polygon
+        # "250": "250",
+        # "1284": "1284",
+        # "1285": "1285",
+        # "9001": "9001",
+        # "42161": "42161",
+        # "42220": "42220",
+        # "43114": "43114",
+        # "1666600000": "1666600000",
     }
 
 
@@ -414,14 +414,14 @@ class Pangolin(TokenListProvider):
 
 class TraderJoe(TokenListProvider):
     name = "joe"
-    base_url = "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/joe.tokenlist.json"
+    base_url = "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/mc.tokenlist.json"
 
     chains = {"43114": "43114"}
 
 
 class ArbitrumBridge(TokenListProvider):
     name = "arbitrum_bridge"
-    base_url = "https://bridge.arbitrum.io/token-list-42161.json"
+    base_url = "https://tokenlist.arbitrum.io/ArbTokenLists/arbed_arb_whitelist_era.json"
 
     chains = {"42161": "42161", "1": "1"}
 
@@ -462,7 +462,7 @@ tokenlists_providers = [
     OneInchTokenLists,
     UniswapTokenLists,
     SushiswapTokenLists,
-    OpenOceanTokenLists,
+    # OpenOceanTokenLists,
     OneSolTokenLists,
     QuickSwapTokenLists,
     FuseSwapTokenLists,
