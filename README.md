@@ -10,11 +10,11 @@ most likely not a scam.
 ## Usage example
 If you want to use tokenlist in your dApp — simply download json with needed chain tokens. Head for raw link like 
 
-https://raw.githubusercontent.com/viaprotocol/tokenlists/main/tokenlists/ethereum.json (Ethereum tokenlist)
+https://raw.githubusercontent.com/nufi-official/tokenlists/main/tokenlists/ethereum.json (Ethereum tokenlist)
 
 or 
 
-https://raw.githubusercontent.com/viaprotocol/tokenlists/main/tokenlists/bsc.json (Binance Smart Chain Tokenlist)
+https://raw.githubusercontent.com/nufi-official/tokenlists/main/tokenlists/bsc.json (Binance Smart Chain Tokenlist)
 
 ## Providers
 
@@ -95,4 +95,4 @@ python generate_readme.py
 ## Contribute
 Feel free to open issues and PRs with tokens, chains or providers that you want to add.
 
-Developed by [Via.Exchange](https://Via.Exchange) team
+Developed by [Via.Exchange](https://Via.Exchange) team, forked and modified by [Nu.Fi](https://nu.fi).
