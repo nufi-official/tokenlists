@@ -12,6 +12,19 @@
         ]
     },
     {
+        "symbol": "SUB",
+        "name": "Subsocial",
+        "address": "0xfFfFffFf43B4560Bc0C451a3386E082bff50aC90",
+        "decimals": 10,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/15880/thumb/icon___gradient_1.png?1696515495",
+        "coingeckoId": "subsocial",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "xcaUSD",
         "name": "Acala Dollar",
         "address": "0xfFfFFFFF52C56A9257bB97f4B2b6F7B2D624ecda",
@@ -20,7 +33,9 @@
         "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xfFfFFFFF52C56A9257bB97f4B2b6F7B2D624ecda/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance"
+            "rubic",
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -32,6 +47,7 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -49,6 +65,19 @@
         ]
     },
     {
+        "symbol": "SFRXETH",
+        "name": "Staked Frax Ether",
+        "address": "0xecf91116348aF1cfFe335e9807f0051332BE128D",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/28285/thumb/sfrxETH_icon.png?1696527285",
+        "coingeckoId": "staked-frax-ether",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "USDT",
         "name": "Tether",
         "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
@@ -57,9 +86,21 @@
         "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether.png?1668148663",
         "coingeckoId": "tether",
         "listedIn": [
-            "coingecko",
             "rubic",
-            "lifinance"
+            "lifinance",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "anyBEANS",
+        "name": "MoonBeans (Multichain)",
+        "address": "0xe5CF1558A1470cb5C166c2e8651eD0F3c5fb8F42",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0xe5cf1558a1470cb5c166c2e8651ed0f3c5fb8f42/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
         ]
     },
     {
@@ -71,8 +112,21 @@
         "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1620281018",
         "coingeckoId": "mimatic",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "rubic",
+            "lifinance",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "OATH",
+        "name": "Oath Token",
+        "address": "0xd20523b39fAF1D6e9023a4D6085f87B7b0DE7926",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0xd20523b39faf1d6e9023a4d6085f87b7b0de7926/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
         ]
     },
     {
@@ -84,9 +138,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1642845813",
         "coingeckoId": "beamswap",
         "listedIn": [
-            "coingecko",
             "rubic",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -98,6 +152,7 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -115,6 +170,19 @@
         ]
     },
     {
+        "symbol": "D2O",
+        "name": "Deuterium",
+        "address": "0xc806B0600cbAfA0B197562a9F7e3B9856866E9bF",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/28732/thumb/LinkedIn_d2o_Icon_300x300px.png?1696527712",
+        "coingeckoId": "dam-finance",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "DAI",
         "name": "Dai Stablecoin",
         "address": "0xc234A67a4F840E61adE794be47de455361b52413",
@@ -127,6 +195,31 @@
         ]
     },
     {
+        "symbol": "STDOT",
+        "name": "StellaSwap Staked DOT",
+        "address": "0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4",
+        "decimals": 10,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/33872/thumb/stDOT.png?1703132036",
+        "coingeckoId": "stellaswap-staked-dot",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "axlWMAI",
+        "name": "Axelar Wrapped WMAI",
+        "address": "0xbFE3Acdca835bB60A6B51Ee6B947779A02eCE911",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0xbfe3acdca835bb60a6b51ee6b947779a02ece911/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
         "symbol": "LASM",
         "name": "LasMeta",
         "address": "0xbC2E674dFe0d885081f429b296D7aE2B784D1198",
@@ -135,6 +228,7 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -159,9 +253,22 @@
         "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1655372947",
         "coingeckoId": "xcdot",
         "listedIn": [
-            "coingecko",
             "rubic",
-            "lifinance"
+            "lifinance",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "XCASTR",
+        "name": "Astar  Moonbeam ",
+        "address": "0xFfFFFfffA893AD19e540E172C10d78D4d479B5Cf",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/29986/thumb/astar.jpg?1696528911",
+        "coingeckoId": "astar-moonbeam",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -173,8 +280,22 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27306/thumb/Raresama_Logo.png?1663238966",
         "coingeckoId": "raresama",
         "listedIn": [
+            "rubic",
+            "lifinance",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "XCPHA",
+        "name": "Phala  Moonbeam ",
+        "address": "0xFFFfFfFf63d24eCc8eB8a7b5D0803e900F7b6cED",
+        "decimals": 12,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/29988/thumb/phala.jpg?1696528913",
+        "coingeckoId": "phala-moonbeam",
+        "listedIn": [
             "coingecko",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -186,7 +307,9 @@
         "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFFFFFfFf5AC1f9A51A93F5C527385edF7Fe98A52/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance"
+            "rubic",
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -198,7 +321,21 @@
         "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFFFFFFfFea09FB06d082fd1275CD48b191cbCD1d/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance"
+            "rubic",
+            "lifinance",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FPI",
+        "name": "Frax Price Index",
+        "address": "0xFA3fd4CDAf85f65849A13a6Af9c3e5c20f71aD60",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0xfa3fd4cdaf85f65849a13a6af9c3e5c20f71ad60/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
         ]
     },
     {
@@ -214,6 +351,18 @@
         ]
     },
     {
+        "symbol": "HUAHUA",
+        "name": "Chihuahua native asset",
+        "address": "0xF7C79FfDa0d13b68081761BB0a5a66cFC48D97f5",
+        "decimals": 6,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0xf7c79ffda0d13b68081761bb0a5a66cfc48d97f5/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
         "symbol": "TOAD",
         "name": "Toad Network",
         "address": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
@@ -222,6 +371,7 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -234,7 +384,9 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
-            "lifinance"
+            "rubic",
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -246,6 +398,7 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -258,6 +411,7 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -270,7 +424,67 @@
         "logoURI": "https://assets.coingecko.com/coins/images/24310/thumb/Solarflare.png?1647334977",
         "coingeckoId": "solarflare",
         "listedIn": [
-            "coingecko",
+            "rubic",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "TFA",
+        "name": "Take Flight Alpha",
+        "address": "0xE065ffaf3f7dED69BB5cf5FDd1Fd1dDA2EEe8493",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0xe065ffaf3f7ded69bb5cf5fdd1fd1dda2eee8493/logo.png",
+        "coingeckoId": "take-flight-alpha-dao",
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "MOONBEANS_Dividend_Tracker",
+        "name": "MOONBEANS_Dividend_Tracker",
+        "address": "0xDc8cb2E48D0A6283E50DE3F59fC9F60fBc709792",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0xdc8cb2e48d0a6283e50de3f59fc9f60fbc709792/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "axlUSDT",
+        "name": "Axelar Wrapped USDT",
+        "address": "0xDFd74aF792bC6D45D1803F425CE62Dd16f8Ae038",
+        "decimals": 6,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0xdfd74af792bc6d45d1803f425ce62dd16f8ae038/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "BRZ",
+        "name": "BRZ",
+        "address": "0xD65A1872f2E2E26092A443CB86bb5d8572027E6E",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0xd65a1872f2e2e26092a443cb86bb5d8572027e6e/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "GLMB",
+        "name": "Bananas",
+        "address": "0xD10078FDbc835726c79533a4a19db40CFAd69d7f",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0xd10078fdbc835726c79533a4a19db40cfad69d7f/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
             "rubic"
         ]
     },
@@ -283,6 +497,7 @@
         "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xCb4A7569a61300C50Cf80A2be16329AD9F5F8F9e/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -295,9 +510,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/axlUSDC.png?1658207579",
         "coingeckoId": "axlusdc",
         "listedIn": [
-            "coingecko",
             "rubic",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -309,8 +524,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/26922/thumb/logo.png?1660817620",
         "coingeckoId": "athos-finance",
         "listedIn": [
-            "coingecko",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -327,6 +542,18 @@
         ]
     },
     {
+        "symbol": "WALBT",
+        "name": "Wrapped AllianceBlock Token",
+        "address": "0xB2991Ae5FE9593aB2978A2388acd4ce19B053a12",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0xb2991ae5fe9593ab2978a2388acd4ce19b053a12/logo.png",
+        "coingeckoId": "allianceblock",
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
         "symbol": "WGLMR",
         "name": "Wrapped Moonbeam",
         "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
@@ -335,10 +562,10 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png",
         "coingeckoId": "wrapped-moonbeam",
         "listedIn": [
-            "coingecko",
-            "sushiswap",
+            "lifinance",
             "rubic",
-            "lifinance"
+            "sushiswap",
+            "coingecko"
         ]
     },
     {
@@ -350,9 +577,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
         "coingeckoId": "binance-usd",
         "listedIn": [
-            "coingecko",
             "rubic",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -364,9 +591,21 @@
         "logoURI": "https://assets.coingecko.com/coins/images/23498/thumb/fbb562_28b2de266adc4c63b6d58e3021158c44_mv2.png?1656132886",
         "coingeckoId": "energyfi",
         "listedIn": [
-            "coingecko",
             "rubic",
-            "lifinance"
+            "lifinance",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "stellaMAI-4pool",
+        "name": "StellaSwap Mai:4pool",
+        "address": "0xA0AA99F71033378864Ed6E499eb03612264e319a",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0xa0aa99f71033378864ed6e499eb03612264e319a/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
         ]
     },
     {
@@ -378,7 +617,21 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "ATHUSD",
+        "name": "Athos Finance USD",
+        "address": "0x9D5d41D8C03e38194A577347206F8829B9cF7C9a",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/28512/thumb/athusd.png?1696527505",
+        "coingeckoId": "athos-finance-usd",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -390,9 +643,21 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22298/thumb/STATIK_200x200.png?1641424859",
         "coingeckoId": "statik",
         "listedIn": [
-            "coingecko",
             "rubic",
-            "lifinance"
+            "lifinance",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0x931715FEE2d06333043d11F658C8CE934aC61D0c",
+        "decimals": 6,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0x931715fee2d06333043d11f658c8ce934ac61d0c/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
         ]
     },
     {
@@ -404,9 +669,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1548822744",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
-            "coingecko",
             "rubic",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -418,8 +683,9 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
         "coingeckoId": "usd-coin",
         "listedIn": [
-            "coingecko",
-            "sushiswap"
+            "rubic",
+            "sushiswap",
+            "coingecko"
         ]
     },
     {
@@ -431,8 +697,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap",
-            "rubic"
+            "rubic",
+            "sushiswap"
         ]
     },
     {
@@ -444,7 +710,34 @@
         "logoURI": "https://assets.coingecko.com/coins/images/21418/thumb/image2.jpg?1640222935",
         "coingeckoId": "lemon",
         "listedIn": [
+            "rubic",
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "WELLE",
+        "name": "Welle",
+        "address": "0x8389cf5BE8f1e56211D226668A8B8f6cADE61Ee4",
+        "decimals": 16,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/32715/thumb/WELLE-TKN-1.png?1699000890",
+        "coingeckoId": "riverex-welle",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "FRXETH",
+        "name": "Frax Ether",
+        "address": "0x82bbd1b6f6De2B7bb63D3e1546e6b1553508BE99",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/28284/thumb/frxETH_icon.png?1696527284",
+        "coingeckoId": "frax-ether",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -456,6 +749,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/28089/thumb/b77170dd-1dd1-4581-91b2-e352794fa045.jpg?1667446200",
         "coingeckoId": "hippopotamus",
         "listedIn": [
+            "rubic",
             "coingecko"
         ]
     },
@@ -481,7 +775,33 @@
         "coingeckoId": "usd-coin",
         "listedIn": [
             "rubic",
-            "lifinance"
+            "lifinance",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "MATIC",
+        "name": "Matic Token",
+        "address": "0x7d8aF5dc9E573156849f1d6E5Bbe6393E0ee324e",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0x7d8af5dc9e573156849f1d6e5bbe6393e0ee324e/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "ZOO",
+        "name": "ZooDAO",
+        "address": "0x7cd3e6e1A69409deF0D78D17a492e8e143F40eC5",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/24305/thumb/Zt2BM_8D_400x400.jpg?1696523486",
+        "coingeckoId": "zoodao",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -493,6 +813,7 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -505,6 +826,7 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -517,6 +839,7 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -529,6 +852,7 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -541,9 +865,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png?1636636734",
         "coingeckoId": "dai",
         "listedIn": [
-            "coingecko",
             "rubic",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -555,9 +879,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22297/thumb/THO_200x200.png?1641425001",
         "coingeckoId": "thorus",
         "listedIn": [
-            "coingecko",
             "rubic",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -569,8 +893,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/24823/thumb/usdc.png?1649041374",
         "coingeckoId": "usd-coin-celer",
         "listedIn": [
-            "coingecko",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -582,7 +906,32 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "axlFIL",
+        "name": "Axelar Wrapped FIL",
+        "address": "0x6A7b717aE5Ed65F85BA25403D5063D368239828e",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0x6a7b717ae5ed65f85ba25403d5063d368239828e/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "BUSD",
+        "name": "BUSD Token",
+        "address": "0x692C57641fc054c2Ad6551Ccc6566EbA599de1BA",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0x692c57641fc054c2ad6551ccc6566eba599de1ba/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
         ]
     },
     {
@@ -599,6 +948,18 @@
         ]
     },
     {
+        "symbol": "axlFRAX",
+        "name": "Axelar Wrapped FRAX",
+        "address": "0x61C82805453a989E99B544DFB7031902e9bac448",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0x61c82805453a989e99b544dfb7031902e9bac448/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
         "symbol": "OWL",
         "name": "Athena Money Owl",
         "address": "0x5C2dA48241d3bE9626dd0c48081c76DBb6D1046E",
@@ -611,6 +972,31 @@
         ]
     },
     {
+        "symbol": "RUM",
+        "name": "DPS Rum",
+        "address": "0x5B08c27c10927eCd8b75EDd8e16cfc448D4bf1e4",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/29753/thumb/rum.png?1696528685",
+        "coingeckoId": "dps-rum-2",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "axlKNC",
+        "name": "Axelar Wrapped KNC",
+        "address": "0x5Ac3aD1acC0A3EFd6fB89791967656128e86d8C5",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0x5ac3ad1acc0a3efd6fb89791967656128e86d8c5/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
         "symbol": "BIFI",
         "name": "beefy.finance",
         "address": "0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8",
@@ -619,6 +1005,7 @@
         "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x595c8481c48894771ce8fade54ac6bf59093f9e8/98a5cc0f4596cbdeb9abe5125ae7e9e7.png",
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -631,8 +1018,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/62b2bd0f0d661a0001b640eb_artemis.png?1656040613",
         "coingeckoId": "moonwell-artemis",
         "listedIn": [
-            "coingecko",
-            "rubic"
+            "rubic",
+            "coingecko"
         ]
     },
     {
@@ -644,7 +1031,20 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22383/thumb/sTHO_200x200.png?1641786706",
         "coingeckoId": "stakedthorus",
         "listedIn": [
+            "rubic",
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "sFRAX",
+        "name": "Staked FRAX",
+        "address": "0x481Fbf0d866b777e817bbC3f96970B44fc929Ba7",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0x481fbf0d866b777e817bbc3f96970b44fc929ba7/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
         ]
     },
     {
@@ -656,9 +1056,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12559/thumb/coin-round-red.png?1604021818",
         "coingeckoId": "avalanche-2",
         "listedIn": [
-            "coingecko",
             "rubic",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -670,7 +1070,20 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27277/thumb/V-65_xQ1_400x400.jpeg?1663121730",
         "coingeckoId": "axelar",
         "listedIn": [
+            "rubic",
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "AAVE",
+        "name": "Aave Token",
+        "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0x461d52769884ca6235b685ef2040f47d30c94eb5/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
         ]
     },
     {
@@ -682,6 +1095,7 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -706,6 +1120,7 @@
         "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x3f56e0c36d275367b8c502090edf38289b3dea0d/c0524dfb9be687e8e26191eed8774fd3.png",
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -718,6 +1133,7 @@
         "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0x3D632d9e1a60a0880Dd45E61f279D919b5748377/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -742,6 +1158,7 @@
         "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0x3795C36e7D12A8c252A20C5a7B455f7c57b60283/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -754,9 +1171,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
         "coingeckoId": "matic-network",
         "listedIn": [
-            "coingecko",
             "rubic",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -768,8 +1185,9 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap",
+            "coingecko",
             "rubic",
+            "sushiswap",
             "lifinance"
         ]
     },
@@ -782,6 +1200,7 @@
         "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x31dab3430f3081dff3ccd80f17ad98583437b213/b3446ee43ebbc2e32f8d13ba4b4f94a4.png",
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -794,9 +1213,9 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
         "coingeckoId": "weth",
         "listedIn": [
-            "coingecko",
+            "rubic",
             "sushiswap",
-            "rubic"
+            "coingecko"
         ]
     },
     {
@@ -808,6 +1227,7 @@
         "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x2dfc76901bb2ac2a5fa5fc479590a490bbb10a5f/40b0b77c20fe0adbb0f21ae261c41786.png",
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -820,6 +1240,7 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg",
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "sushiswap",
             "lifinance"
         ]
@@ -833,7 +1254,33 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg",
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "sushiswap"
+        ]
+    },
+    {
+        "symbol": "frxETH",
+        "name": "Frax Ether",
+        "address": "0x29C795559e4Db87054Ba70fafC454214c20aDbD4",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0x29c795559e4db87054ba70fafc454214c20adbd4/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "DBL",
+        "name": "DPS Doubloon",
+        "address": "0x2758b57E3C052aE2B66be2E175c8F1980723d7aF",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/29755/thumb/doubloon.jpg?1696528687",
+        "coingeckoId": "dps-doubloon-2",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -845,6 +1292,7 @@
         "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0x27292cf0016E5dF1d8b37306B2A98588aCbD6fCA/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -857,6 +1305,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17984/small/9285.png",
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -893,8 +1342,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27791/thumb/stDOT.png?1665818581",
         "coingeckoId": "lido-staked-polkadot",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "rubic",
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -906,7 +1356,19 @@
         "logoURI": "https://assets.coingecko.com/coins/images/15621/thumb/alium.png?1655449806",
         "coingeckoId": "alium-finance",
         "listedIn": [
-            "coingecko",
+            "rubic",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FXS",
+        "name": "Frax Share",
+        "address": "0x151904806a266EEe52700E195D2937891fb8eD59",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0x151904806a266eee52700e195d2937891fb8ed59/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
             "rubic"
         ]
     },
@@ -919,7 +1381,21 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
+            "rubic",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "TMAP",
+        "name": "DPS TreasureMaps",
+        "address": "0x0e67601818237834fF8A280312a6F4F4934e6283",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/29754/thumb/tmap.png?1696528686",
+        "coingeckoId": "dps-treasuremaps-2",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -931,9 +1407,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22801/thumb/stellaswap.jpg?1642584268",
         "coingeckoId": "stellaswap",
         "listedIn": [
-            "coingecko",
             "rubic",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -971,6 +1447,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "TORI",
+        "name": "Teritori",
+        "address": "0x010cddfA5518f74c43Efe911db29Af71b44b4E1C",
+        "decimals": 6,
+        "chainId": 1284,
+        "logoURI": "https://assets.rubic.exchange/assets/moonbeam/0x010cddfa5518f74c43efe911db29af71b44b4e1c/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
         ]
     },
     {

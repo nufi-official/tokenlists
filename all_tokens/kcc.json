@@ -56,8 +56,8 @@
         "logoURI": "https://elk.finance/tokens/logos/kcc/0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "mojitoswap",
-            "elkfinance"
+            "elkfinance",
+            "mojitoswap"
         ]
     },
     {
@@ -69,8 +69,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/23894/small/fjPuciCc_400x400.jpg?1645607690",
         "coingeckoId": "coolmining",
         "listedIn": [
-            "mojitoswap",
-            "xyfinance"
+            "xyfinance",
+            "mojitoswap"
         ]
     },
     {
@@ -94,8 +94,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22087/small/1_Wyot-SDGZuxbjdkaOeT2-A.png?1640764238",
         "coingeckoId": null,
         "listedIn": [
-            "mojitoswap",
-            "xyfinance"
+            "xyfinance",
+            "mojitoswap"
         ]
     },
     {
@@ -143,8 +143,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/24383/small/apecoin.jpg?1647476455",
         "coingeckoId": null,
         "listedIn": [
-            "mojitoswap",
-            "xyfinance"
+            "xyfinance",
+            "mojitoswap"
         ]
     },
     {
@@ -229,8 +229,8 @@
         "logoURI": "https://cdn.jsdelivr.net/gh/MojitoFinance/mjtTokenList@master/sax.png",
         "coingeckoId": "sax-token",
         "listedIn": [
-            "mojitoswap",
-            "xyfinance"
+            "xyfinance",
+            "mojitoswap"
         ]
     },
     {
@@ -254,8 +254,8 @@
         "logoURI": "https://elk.finance/tokens/logos/kcc/0x6665D66aFA48F527d86623723342CfA258cB8666/logo.png",
         "coingeckoId": "kudoge",
         "listedIn": [
-            "mojitoswap",
-            "elkfinance"
+            "elkfinance",
+            "mojitoswap"
         ]
     },
     {
@@ -339,9 +339,9 @@
         "logoURI": "https://elk.finance/tokens/logos/kcc/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521/logo.png",
         "coingeckoId": "wrapped-kcs",
         "listedIn": [
-            "mojitoswap",
+            "elkfinance",
             "xyfinance",
-            "elkfinance"
+            "mojitoswap"
         ]
     },
     {
@@ -381,6 +381,18 @@
         ]
     },
     {
+        "symbol": "PZP",
+        "name": "PZP",
+        "address": "0x22648C12acD87912EA1710357B1302c6a4154Ebc",
+        "decimals": 18,
+        "chainId": 321,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22556.png",
+        "coingeckoId": "playzap",
+        "listedIn": [
+            "xyfinance"
+        ]
+    },
+    {
         "symbol": "OLE",
         "name": "Openleverage",
         "address": "0x1CcCA1cE62c62F7Be95d4A67722a8fDbed6EEcb4",
@@ -414,6 +426,18 @@
         "coingeckoId": null,
         "listedIn": [
             "mojitoswap"
+        ]
+    },
+    {
+        "symbol": "BBC",
+        "name": "Better Bits Club",
+        "address": "0x006d6f38234be7f0519286011A5bf39A35D501b7",
+        "decimals": 18,
+        "chainId": 321,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0x006d6f38234be7f0519286011A5bf39A35D501b7/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
         ]
     },
     {

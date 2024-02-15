@@ -20,8 +20,8 @@
         "logoURI": "https://elk.finance/tokens/logos/fuji/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap",
             "joe",
+            "sushiswap",
             "elkfinance"
         ]
     },
@@ -74,6 +74,30 @@
         ]
     },
     {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0xB6076C93701D6a07266c31066B298AeC6dd65c2d",
+        "decimals": 6,
+        "chainId": 43113,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB6076C93701D6a07266c31066B298AeC6dd65c2d/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe"
+        ]
+    },
+    {
+        "symbol": "USDT",
+        "name": "USD Tether",
+        "address": "0xAb231A5744C8E6c45481754928cCfFFFD4aa0732",
+        "decimals": 6,
+        "chainId": 43113,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAb231A5744C8E6c45481754928cCfFFFD4aa0732/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe"
+        ]
+    },
+    {
         "symbol": "fujiPNG",
         "name": "Fuji PNG",
         "address": "0xAF5D473b3f8F96A5B21c6bbB97e09b491335acb9",
@@ -107,6 +131,18 @@
         "coingeckoId": null,
         "listedIn": [
             "joe"
+        ]
+    },
+    {
+        "symbol": "BTT",
+        "name": "BTT",
+        "address": "0x307b4826Ce27ab596F9EC8f93CeF48b871b927E8",
+        "decimals": 18,
+        "chainId": 43113,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuji/0x307b4826Ce27ab596F9EC8f93CeF48b871b927E8/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
         ]
     },
     {
