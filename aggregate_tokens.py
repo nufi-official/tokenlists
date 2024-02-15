@@ -14,6 +14,27 @@ ALL_TOKENS_FOLDER = "all_tokens"
 log = logging.getLogger(__name__)
 
 
+def merge_tokens(old_tokens: dict[int, dict[Address, Token]], new_tokens: dict[int, dict[Address, Token]]) -> dict[int, dict[Address, Token]]:
+    merged_tokens = {
+        int(k): {a: t for a, t in v.items()} for k, v in old_tokens.items()
+    }
+
+    for chain_id, tokens in new_tokens.items():
+        if merged_tokens.get(chain_id) is None:
+            merged_tokens[chain_id] = {}
+        
+        for _, token in tokens.items():
+            addr = token.address
+            if merged_tokens[chain_id].get(addr) is not None:                
+                current_listed_in = merged_tokens[chain_id][addr].listedIn
+                current_listed_in.extend(token.listedIn)
+                merged_tokens[chain_id][addr].listedIn = list(set(current_listed_in))
+            else:
+                merged_tokens[chain_id][addr] = token
+    
+    return merged_tokens
+
+
 async def collect_trusted_tokens() -> dict[int, list[Token]]:
     data = await asyncio.gather(
         *[provider.get_tokenlists() for provider in
@@ -55,8 +76,20 @@ async def collect_trusted_tokens() -> dict[int, list[Token]]:
                     res[chain_id][addr] = token
                     res[chain_id][addr].listedIn.append(provider_name)
 
+    old_tokens: dict[int, dict[Address, Token]] = {}
+    with open(f"{ALL_TOKENS_FOLDER}/all.json", "r", encoding="utf-8") as f:
+        old_tokens = {
+            int(k): {t.address: t for t in [Token(**t) for t in v]} for k, v in json.load(f).items()
+        }
+        
+    new_tokens = {
+        int(k): {t.address: t for _, t in v.items()} for k, v in res.items() if len(v) > 0
+    }
+
+    merged_tokens = merge_tokens(old_tokens, new_tokens)
+
     all_tokens = {
-        k: list(sorted(v.values(), key=lambda x: x.address, reverse=True)) for k, v in res.items() if len(v) > 0
+        k: list(sorted(v.values(), key=lambda x: x.address, reverse=True)) for k, v in merged_tokens.items() if len(v) > 0
     }
 
     trusted = {k: [t for t in v if len(t.listedIn) > 1] for k, v in all_tokens.items()}
