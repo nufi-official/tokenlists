@@ -382,10 +382,10 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png",
         "coingeckoId": "wrapped-moonbeam",
         "listedIn": [
-            "lifinance",
             "rubic",
-            "sushiswap",
-            "coingecko"
+            "lifinance",
+            "coingecko",
+            "sushiswap"
         ]
     },
     {
@@ -480,8 +480,8 @@
         "coingeckoId": "usd-coin",
         "listedIn": [
             "rubic",
-            "sushiswap",
-            "coingecko"
+            "coingecko",
+            "sushiswap"
         ]
     },
     {
@@ -696,6 +696,19 @@
         ]
     },
     {
+        "symbol": "CP",
+        "name": "Cypress",
+        "address": "0x6021D2C27B6FBd6e7608D1F39B41398CAee2F824",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/35286/thumb/Cp200.jpg?1708055711",
+        "coingeckoId": "cypress",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "RUM",
         "name": "DPS Rum",
         "address": "0x5B08c27c10927eCd8b75EDd8e16cfc448D4bf1e4",
@@ -719,6 +732,19 @@
         "listedIn": [
             "rubic",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "RMRK",
+        "name": "RMRK",
+        "address": "0x524d524B4c9366be706D3A90dcf70076ca037aE3",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/18656/thumb/download_%281%29_%281%29.png?1696518126",
+        "coingeckoId": "rmrk",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -850,9 +876,9 @@
         "coingeckoId": null,
         "listedIn": [
             "coingecko",
+            "lifinance",
             "rubic",
-            "sushiswap",
-            "lifinance"
+            "sushiswap"
         ]
     },
     {
@@ -878,8 +904,8 @@
         "coingeckoId": "weth",
         "listedIn": [
             "rubic",
-            "sushiswap",
-            "coingecko"
+            "coingecko",
+            "sushiswap"
         ]
     },
     {
@@ -905,8 +931,8 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "sushiswap",
-            "lifinance"
+            "lifinance",
+            "sushiswap"
         ]
     },
     {

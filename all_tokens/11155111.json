@@ -24,6 +24,30 @@
         ]
     },
     {
+        "symbol": "wstETH",
+        "name": "Wrapped liquid staked Ether 2.0",
+        "address": "0xB82381A3fBD3FaFA77B3a7bE693342618240067b",
+        "decimals": 18,
+        "chainId": 11155111,
+        "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "BKN",
+        "name": "Brickken",
+        "address": "0x97a13487f889dc770Ac925Be2d3b6c833FA7746a",
+        "decimals": 18,
+        "chainId": 11155111,
+        "logoURI": "https://ethereum-optimism.github.io/data/BKN/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "send",
         "name": "Send Token",
         "address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
