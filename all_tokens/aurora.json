@@ -34,10 +34,10 @@
         "logoURI": "https://tokens.1inch.io/0xea62791aa682d455614eaa2a12ba3d9a2fd197af.png",
         "coingeckoId": "flux-token",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -113,10 +113,10 @@
         "logoURI": "https://tokens.1inch.io/0xe3520349f477a5f6eb06107066048508498a291b.png",
         "coingeckoId": "dai",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -154,10 +154,10 @@
         "logoURI": "https://tokens.1inch.io/0xdcd6d4e2b3e1d1e1e6fa8c21c8a323dcbecff970.png",
         "coingeckoId": "rose",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -183,8 +183,8 @@
         "coingeckoId": "mimatic",
         "listedIn": [
             "rubic",
-            "RouterProtocol",
-            "coingecko"
+            "coingecko",
+            "RouterProtocol"
         ]
     },
     {
@@ -270,9 +270,9 @@
         "logoURI": "https://tokens.1inch.io/0xd126b48c072f4668e944a8895bc74044d5f2e85b.png",
         "coingeckoId": null,
         "listedIn": [
+            "1inch",
             "rubic",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -442,10 +442,10 @@
         "logoURI": "https://tokens.1inch.io/0xfa94348467f64d5a457f75f8bc40495d33c65abb.png",
         "coingeckoId": "trisolaris",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -470,10 +470,10 @@
         "logoURI": "https://tokens.1inch.io/0xf4eb217ba2454613b15dbdea6e5f22276410e89e.png",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -565,9 +565,9 @@
         "logoURI": "https://tokens.1inch.io/0xda2585430fef327ad8ee44af8f1f989a2a91a3d2.png",
         "coingeckoId": null,
         "listedIn": [
+            "1inch",
             "rubic",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -657,10 +657,10 @@
         "logoURI": "https://tokens.1inch.io/0xc42c30ac6cc15fac9bd938618bcaa1a1fae8501d.png",
         "coingeckoId": "wrapped-near",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -734,10 +734,10 @@
         "logoURI": "https://tokens.1inch.io/0xb12bfca5a55806aaf64e99521918a4bf0fc40802.png",
         "coingeckoId": "usd-coin",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -788,10 +788,10 @@
         "logoURI": "https://tokens.1inch.io/0x9f1f933c660a1dc856f0e0fe058435879c5ccef0.png",
         "coingeckoId": "bastion-protocol",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -922,10 +922,10 @@
         "logoURI": "https://tokens.1inch.io/0x8bec47865ade3b172a928df8f990bc7f2a3b9f79.png",
         "coingeckoId": "aurora-near",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -963,10 +963,10 @@
         "logoURI": "https://tokens.1inch.io/0x885f8cf6e45bdd3fdcdc644efdcd0ac93880c781.png",
         "coingeckoId": "nearpad",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -992,6 +992,18 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic"
+        ]
+    },
+    {
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "address": "0x80Da25Da4D783E57d2FCdA0436873A193a4BEccF",
+        "decimals": 6,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x80Da25Da4D783E57d2FCdA0436873A193a4BEccF/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "trisolaris"
         ]
     },
     {
@@ -1029,10 +1041,10 @@
         "logoURI": "https://tokens.1inch.io/0x7faa64faf54750a2e3ee621166635feaf406ab22.png",
         "coingeckoId": "wannaswap",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -1108,9 +1120,9 @@
         "logoURI": "https://tokens.1inch.io/0x74974575d2f1668c63036d51ff48dbaa68e52408.png",
         "coingeckoId": null,
         "listedIn": [
+            "1inch",
             "rubic",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -1249,10 +1261,10 @@
         "logoURI": "https://tokens.1inch.io/0x5ce9f0b6afb36135b5ddbf11705ceb65e634a9dc.png",
         "coingeckoId": "wrapped-ust",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -1326,10 +1338,10 @@
         "logoURI": "https://tokens.1inch.io/0x5183e1b1091804bc2602586919e6880ac1cf2896.png",
         "coingeckoId": "usn",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -1365,9 +1377,9 @@
         "logoURI": "https://tokens.1inch.io/0x501ace9c35e60f03a2af4d484f49f9b1efde9f40.png",
         "coingeckoId": "solace",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -1405,10 +1417,10 @@
         "logoURI": "https://tokens.1inch.io/0x4988a896b1227218e4a686fde5eabdcabd91571f.png",
         "coingeckoId": "tether",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -1576,10 +1588,10 @@
         "logoURI": "https://tokens.1inch.io/0x2bae00c8bc1868a5f7a216e881bae9e662630111.png",
         "coingeckoId": "allbridge",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -1603,10 +1615,10 @@
         "logoURI": "https://tokens.1inch.io/0x291c8fceaca3342b29cc36171deb98106f712c66.png",
         "coingeckoId": "pickle-finance",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -1870,10 +1882,10 @@
         "logoURI": "https://tokens.1inch.io/0x09c9d464b58d96837f8d8b6f4d9fe4ad408d3a4f.png",
         "coingeckoId": "aurigami",
         "listedIn": [
+            "1inch",
             "rubic",
             "coingecko",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
@@ -1962,9 +1974,9 @@
         "logoURI": "https://tokens.1inch.io/0x026dda7f0f0a2e42163c9c80d2a5b6958e35fc49.png",
         "coingeckoId": null,
         "listedIn": [
+            "1inch",
             "rubic",
-            "trisolaris",
-            "1inch"
+            "trisolaris"
         ]
     },
     {
