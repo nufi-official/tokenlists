@@ -40,6 +40,7 @@ CHAIN_NAMES_BY_ID = {
     '4689': 'iotex',
     '592': 'astar',
     '5': 'goerli',
+    '11155111': 'sepolia',
     '56': 'bsc',
     '1818': 'cube',
     '65': 'okex-testnet',

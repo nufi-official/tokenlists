@@ -127,6 +127,7 @@ class UniswapTokenLists(TokenListProvider):
     base_url = "https://raw.githubusercontent.com/Uniswap/default-token-list/main/src/tokens/{}.json"
     chains = {
         "5": "goerli",
+        "11155111": "sepolia",
         "42": "kovan",
         "1": "mainnet",
         "80001": "mumbai",
