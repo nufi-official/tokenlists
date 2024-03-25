@@ -71,6 +71,7 @@ Testnets:
 - Ropsten
 - Goerli
 - Mumbai
+- Sepolia
 - etc.
 
 ## How are tokenlists formed
