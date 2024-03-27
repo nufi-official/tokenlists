@@ -104,8 +104,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "optimism"
+            "optimism",
+            "elkfinance"
         ]
     },
     {
@@ -589,6 +589,18 @@
         ]
     },
     {
+        "symbol": "FOAM",
+        "name": "FOAM Token",
+        "address": "0x6059d0ed9368c36941514d2864fD114a84853d5a",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/FOAM/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "DRODEC",
         "name": "DRODEC",
         "address": "0x5a01BDaA010938Eb7615c63cB22cf3e94e8505df",
@@ -607,6 +619,30 @@
         "decimals": 18,
         "chainId": 8453,
         "logoURI": "https://ethereum-optimism.github.io/data/TETU/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "ATH",
+        "name": "AthenaDAO Token",
+        "address": "0x58D75a1c4477914f9a98A8708fEaeD1DbE40b8a3",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/ATH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "OLAS",
+        "name": "Autonolas",
+        "address": "0x54330d28ca3357F294334BDC454a032e7f353416",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/OLAS/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -681,8 +717,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x4200000000000000000000000000000000000006/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "optimism"
+            "optimism",
+            "elkfinance"
         ]
     },
     {
@@ -971,6 +1007,18 @@
         "coingeckoId": null,
         "listedIn": [
             "optimism"
+        ]
+    },
+    {
+        "symbol": "PR",
+        "name": "Project Ralph",
+        "address": "0x05F1938646a897008e813fb03CE7C575eAE45738",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x05F1938646a897008e813fb03CE7C575eAE45738/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
         ]
     }
 ]
