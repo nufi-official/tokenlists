@@ -104,8 +104,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "elkfinance"
+            "elkfinance",
+            "optimism"
         ]
     },
     {
@@ -513,6 +513,7 @@
         "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "elkfinance",
             "optimism"
         ]
     },
@@ -717,8 +718,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x4200000000000000000000000000000000000006/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "elkfinance"
+            "elkfinance",
+            "optimism"
         ]
     },
     {
@@ -836,6 +837,18 @@
         "decimals": 18,
         "chainId": 8453,
         "logoURI": "https://ethereum-optimism.github.io/data/BLUE/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "BITCOIN",
+        "name": "HarryPotterObamaSonic10Inu",
+        "address": "0x2a06A17CBC6d0032Cac2c6696DA90f29D39a1a29",
+        "decimals": 8,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/BITCOIN/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
