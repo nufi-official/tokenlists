@@ -20,8 +20,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "cronaswap",
-            "lifinance"
+            "lifinance",
+            "cronaswap"
         ]
     },
     {
@@ -34,8 +34,8 @@
         "coingeckoId": "meerkat-shares",
         "listedIn": [
             "lifinance",
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -84,8 +84,8 @@
         "logoURI": "https://elk.finance/tokens/logos/cronos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
         "coingeckoId": "elk-finance",
         "listedIn": [
-            "elkfinance",
-            "coingecko"
+            "coingecko",
+            "elkfinance"
         ]
     },
     {
@@ -109,8 +109,8 @@
         "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/bcro.png",
         "coingeckoId": "bonded-cronos",
         "listedIn": [
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -123,8 +123,8 @@
         "coingeckoId": "beefy-finance",
         "listedIn": [
             "lifinance",
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -161,10 +161,10 @@
         "coingeckoId": "weth",
         "listedIn": [
             "xyfinance",
-            "coingecko",
             "elkfinance",
             "cronaswap",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -176,10 +176,10 @@
         "logoURI": "https://elk.finance/tokens/logos/cronos/0xe243CCab9E66E6cF1215376980811ddf1eb7F689/logo.png",
         "coingeckoId": "crodex",
         "listedIn": [
-            "elkfinance",
             "lifinance",
+            "coingecko",
             "xyfinance",
-            "coingecko"
+            "elkfinance"
         ]
     },
     {
@@ -203,8 +203,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD/logo.png",
         "coingeckoId": "v3s-share",
         "listedIn": [
-            "cronaswap",
-            "coingecko"
+            "coingecko",
+            "cronaswap"
         ]
     },
     {
@@ -264,8 +264,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xc9FDE867a14376829Ab759F4C4871F67e2d3E441/logo.png",
         "coingeckoId": "cronosphere",
         "listedIn": [
-            "cronaswap",
-            "coingecko"
+            "coingecko",
+            "cronaswap"
         ]
     },
     {
@@ -277,8 +277,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "cronaswap",
-            "lifinance"
+            "lifinance",
+            "cronaswap"
         ]
     },
     {
@@ -290,8 +290,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xc82eA25896F065cB6E3ae298cD1f23FE58516A35/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "cronaswap"
+            "cronaswap",
+            "elkfinance"
         ]
     },
     {
@@ -316,10 +316,10 @@
         "coingeckoId": "usd-coin",
         "listedIn": [
             "xyfinance",
-            "coingecko",
             "elkfinance",
             "cronaswap",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -331,8 +331,8 @@
         "logoURI": "https://elk.finance/tokens/logos/cronos/0xbdd4e5660839a088573191A9889A262c0Efc0983/logo.png",
         "coingeckoId": "photonswap",
         "listedIn": [
-            "elkfinance",
-            "coingecko"
+            "coingecko",
+            "elkfinance"
         ]
     },
     {
@@ -356,8 +356,8 @@
         "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/AutoS.svg",
         "coingeckoId": "autosingle",
         "listedIn": [
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -370,9 +370,9 @@
         "coingeckoId": "cronaswap",
         "listedIn": [
             "lifinance",
-            "xyfinance",
+            "coingecko",
             "cronaswap",
-            "coingecko"
+            "xyfinance"
         ]
     },
     {
@@ -408,7 +408,19 @@
         "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/CLMRS.png",
         "coingeckoId": "crolon-mars",
         "listedIn": [
-            "xyfinance",
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
+        "symbol": "SPHYNX",
+        "name": "Sphynx Labs",
+        "address": "0xa776f5b86cC520861F55a261515264E3bd86E72e",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/30142/thumb/photo_2023-05-03_21.44.17.jpeg?1696529063",
+        "coingeckoId": "sphynx-labs-bae5b42e-5e37-4607-8691-b56d3a5f344c",
+        "listedIn": [
             "coingecko"
         ]
     },
@@ -445,9 +457,9 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353/logo.png",
         "coingeckoId": "croissant-games",
         "listedIn": [
-            "xyfinance",
+            "coingecko",
             "cronaswap",
-            "coingecko"
+            "xyfinance"
         ]
     },
     {
@@ -496,10 +508,10 @@
         "coingeckoId": "dai",
         "listedIn": [
             "xyfinance",
-            "coingecko",
             "elkfinance",
             "cronaswap",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -560,8 +572,8 @@
         "coingeckoId": "darkness-share",
         "listedIn": [
             "lifinance",
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -609,8 +621,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/21982/small/TONIC_logo.png?1640575290",
         "coingeckoId": "tectonic",
         "listedIn": [
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -695,8 +707,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xD3ceCBE5639D05Aed446Da11F08D495CA6bF359F/logo.png",
         "coingeckoId": "croblanc",
         "listedIn": [
-            "cronaswap",
-            "coingecko"
+            "coingecko",
+            "cronaswap"
         ]
     },
     {
@@ -733,8 +745,8 @@
         "coingeckoId": "crystl-finance",
         "listedIn": [
             "lifinance",
-            "cronaswap",
-            "coingecko"
+            "coingecko",
+            "cronaswap"
         ]
     },
     {
@@ -794,8 +806,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/24903/small/transparent.png?1649335022",
         "coingeckoId": "crogecoin",
         "listedIn": [
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -832,8 +844,8 @@
         "coingeckoId": "mad-meerkat-etf",
         "listedIn": [
             "lifinance",
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -845,8 +857,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "cronaswap",
-            "lifinance"
+            "lifinance",
+            "cronaswap"
         ]
     },
     {
@@ -870,8 +882,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "cronaswap",
-            "lifinance"
+            "lifinance",
+            "cronaswap"
         ]
     },
     {
@@ -908,8 +920,8 @@
         "coingeckoId": "liquidus",
         "listedIn": [
             "lifinance",
-            "cronaswap",
-            "coingecko"
+            "coingecko",
+            "cronaswap"
         ]
     },
     {
@@ -945,8 +957,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xA4434AFEae0dECb9820D906BF01b13291D00651a/logo.png",
         "coingeckoId": "agile",
         "listedIn": [
-            "cronaswap",
-            "coingecko"
+            "coingecko",
+            "cronaswap"
         ]
     },
     {
@@ -1043,8 +1055,8 @@
         "coingeckoId": "darkcrypto-share",
         "listedIn": [
             "lifinance",
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -1093,8 +1105,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/24088/thumb/monetone_solo.png?1646295290",
         "coingeckoId": "grave",
         "listedIn": [
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -1119,8 +1131,8 @@
         "coingeckoId": "mmfinance",
         "listedIn": [
             "lifinance",
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -1145,8 +1157,8 @@
         "coingeckoId": "mad-usd",
         "listedIn": [
             "lifinance",
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -1256,9 +1268,9 @@
         "coingeckoId": "darkcrypto",
         "listedIn": [
             "lifinance",
-            "xyfinance",
+            "coingecko",
             "cronaswap",
-            "coingecko"
+            "xyfinance"
         ]
     },
     {
@@ -1282,9 +1294,9 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x8174BaC1453c3AC7CaED909c20ceaDeb5E1CDA00/logo.png",
         "coingeckoId": "cronodes",
         "listedIn": [
-            "xyfinance",
+            "coingecko",
             "cronaswap",
-            "coingecko"
+            "xyfinance"
         ]
     },
     {
@@ -1308,8 +1320,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x7aE97042a4A0eB4D1eB370C34BfEC71042a056B7/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "cronaswap",
-            "lifinance"
+            "lifinance",
+            "cronaswap"
         ]
     },
     {
@@ -1429,8 +1441,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "cronaswap",
-            "lifinance"
+            "lifinance",
+            "cronaswap"
         ]
     },
     {
@@ -1526,8 +1538,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "cronaswap",
-            "lifinance"
+            "lifinance",
+            "cronaswap"
         ]
     },
     {
@@ -1565,8 +1577,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x6B66fCB66Dba37F99876a15303b759c73fc54ed0/logo.png",
         "coingeckoId": "hibiki-finance",
         "listedIn": [
-            "cronaswap",
-            "coingecko"
+            "coingecko",
+            "cronaswap"
         ]
     },
     {
@@ -1590,8 +1602,8 @@
         "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/%24Troll.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -1629,10 +1641,10 @@
         "coingeckoId": "tether",
         "listedIn": [
             "xyfinance",
-            "coingecko",
             "elkfinance",
             "cronaswap",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -1644,8 +1656,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/24319/small/DUSD_Logo.png?1647355734",
         "coingeckoId": "darkness-dollar",
         "listedIn": [
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -1658,8 +1670,8 @@
         "coingeckoId": "savanna",
         "listedIn": [
             "lifinance",
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -1733,10 +1745,10 @@
         "coingeckoId": "wrapped-cro",
         "listedIn": [
             "xyfinance",
-            "coingecko",
             "elkfinance",
             "cronaswap",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -1796,8 +1808,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "cronaswap"
+            "cronaswap",
+            "elkfinance"
         ]
     },
     {
@@ -1809,8 +1821,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27724/small/phenix.png?1666262269",
         "coingeckoId": "phenix-finance-2",
         "listedIn": [
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -1823,8 +1835,8 @@
         "coingeckoId": "mad-meerkat-optimizer",
         "listedIn": [
             "lifinance",
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -1934,8 +1946,8 @@
         "coingeckoId": "mmf-money",
         "listedIn": [
             "lifinance",
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -1959,8 +1971,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/25381/small/argo-protocol.jpeg?1651468819",
         "coingeckoId": "argo-finance",
         "listedIn": [
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -1996,8 +2008,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/25088/large/evoToken.png?1650269135",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "RouterProtocol"
+            "RouterProtocol",
+            "dfyn"
         ]
     },
     {
@@ -2156,8 +2168,8 @@
         "coingeckoId": "vvs-finance",
         "listedIn": [
             "lifinance",
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -2193,10 +2205,10 @@
         "logoURI": "https://elk.finance/tokens/logos/cronos/0x2Ae35c8E3D4bD57e8898FF7cd2bBff87166EF8cb/logo.png",
         "coingeckoId": "mimatic",
         "listedIn": [
-            "elkfinance",
+            "lifinance",
             "RouterProtocol",
             "coingecko",
-            "lifinance"
+            "elkfinance"
         ]
     },
     {
@@ -2233,8 +2245,8 @@
         "coingeckoId": "mad-bucks",
         "listedIn": [
             "lifinance",
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -2426,8 +2438,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0/logo.svg",
         "coingeckoId": "wrapped-ada",
         "listedIn": [
-            "cronaswap",
-            "coingecko"
+            "coingecko",
+            "cronaswap"
         ]
     },
     {
@@ -2439,9 +2451,9 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
+            "lifinance",
             "cronaswap",
-            "lifinance"
+            "elkfinance"
         ]
     },
     {
@@ -2478,8 +2490,8 @@
         "coingeckoId": "single-finance",
         "listedIn": [
             "lifinance",
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -2503,8 +2515,8 @@
         "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/CANDY.jpg",
         "coingeckoId": "bored-candy-city",
         "listedIn": [
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -2528,8 +2540,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22667/small/Logo_200x200.png?1642403624",
         "coingeckoId": "croking",
         "listedIn": [
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -2542,10 +2554,10 @@
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
             "xyfinance",
-            "coingecko",
             "elkfinance",
             "cronaswap",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -2605,8 +2617,8 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0422b63182798ae9876cae3caBd225d96B284D14/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "cronaswap",
-            "lifinance"
+            "lifinance",
+            "cronaswap"
         ]
     },
     {
@@ -2643,8 +2655,8 @@
         "coingeckoId": "dogelon-mars",
         "listedIn": [
             "lifinance",
-            "cronaswap",
-            "coingecko"
+            "coingecko",
+            "cronaswap"
         ]
     },
     {
@@ -2680,8 +2692,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/24505/thumb/logo_v13.jpg?1647882353",
         "coingeckoId": "goal",
         "listedIn": [
-            "elkfinance",
-            "coingecko"
+            "coingecko",
+            "elkfinance"
         ]
     },
     {
@@ -2694,8 +2706,8 @@
         "coingeckoId": "versagames",
         "listedIn": [
             "lifinance",
-            "xyfinance",
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -2707,8 +2719,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/7310/small/oCw2s3GI_400x400.jpeg?1645172042",
         "coingeckoId": "crypto-com-chain",
         "listedIn": [
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     }
 ]
