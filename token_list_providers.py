@@ -131,6 +131,7 @@ class UniswapTokenLists(TokenListProvider):
         "42": "kovan",
         "1": "mainnet",
         "80001": "mumbai",
+        "80002": "amoy",
         "137": "polygon",
         "4": "rinkeby",
         "3": "ropsten",
