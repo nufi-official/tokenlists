@@ -12,6 +12,18 @@
         ]
     },
     {
+        "symbol": "OMI",
+        "name": "OMI Token",
+        "address": "0xfF36224B9CF97e7791D99fE19281Ff78B0b24208",
+        "decimals": 18,
+        "chainId": 11155111,
+        "logoURI": "https://ethereum-optimism.github.io/data/OMI/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "EVERY",
         "name": "Everyrealm Token",
         "address": "0xbABedB663F3E70E6CEdb26558e8ceFB12d321Caa",
@@ -96,12 +108,48 @@
         ]
     },
     {
+        "symbol": "DF",
+        "name": "dForce",
+        "address": "0x4ed818eDd4a0c36A3F43826A60630879b8164401",
+        "decimals": 18,
+        "chainId": 11155111,
+        "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "UDT",
+        "name": "Unlock Discount Token",
+        "address": "0x447B1492C5038203f1927eB2a374F5Fcdc25999d",
+        "decimals": 18,
+        "chainId": 11155111,
+        "logoURI": "https://ethereum-optimism.github.io/data/UDT/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "send",
         "name": "Send Token",
         "address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
         "decimals": 0,
         "chainId": 11155111,
         "logoURI": "https://ethereum-optimism.github.io/data/send/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "BOBA",
+        "name": "Boba Token",
+        "address": "0x33faF65b3DfcC6A1FccaD4531D9ce518F0FDc896",
+        "decimals": 18,
+        "chainId": 11155111,
+        "logoURI": "https://ethereum-optimism.github.io/data/BOBA/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -117,6 +165,18 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap"
+        ]
+    },
+    {
+        "symbol": "MCADE",
+        "name": "Metacade",
+        "address": "0x1391E5032b3523E6A86dDF1D85605D6180B962d8",
+        "decimals": 18,
+        "chainId": 11155111,
+        "logoURI": "https://ethereum-optimism.github.io/data/MCADE/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
         ]
     },
     {
