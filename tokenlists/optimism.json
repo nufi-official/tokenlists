@@ -131,6 +131,19 @@
         ]
     },
     {
+        "symbol": "FUSE",
+        "name": "Fuse",
+        "address": "0xe453d6649643F1F460C371dC3D1da98F7922fe51",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/10347/thumb/fuse.png?1696510348",
+        "coingeckoId": "fuse-network-token",
+        "listedIn": [
+            "lifinance",
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "ALTA",
         "name": "Alta Finance",
         "address": "0xe0cCa86B254005889aC3a81e737f56a14f4A38F5",
@@ -152,9 +165,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
         "coingeckoId": "oxbitcoin",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -179,8 +192,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/wTBT/logo.svg",
         "coingeckoId": "wtbt",
         "listedIn": [
-            "optimism",
-            "coingecko"
+            "coingecko",
+            "optimism"
         ]
     },
     {
@@ -193,9 +206,9 @@
         "coingeckoId": "mimatic",
         "listedIn": [
             "coingecko",
+            "openocean",
             "1inch",
             "RouterProtocol",
-            "openocean",
             "lifinance"
         ]
     },
@@ -208,9 +221,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/WLD/logo.svg",
         "coingeckoId": "worldcoin-wld",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -248,9 +261,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/PSP/logo.svg",
         "coingeckoId": "paraswap",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -275,9 +288,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/28225/thumb/logo_OPX.png?1668501930",
         "coingeckoId": "opx-finance",
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance",
+            "coingecko",
             "dfyn"
         ]
     },
@@ -290,9 +303,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -358,9 +371,9 @@
         "coingeckoId": "hop-protocol",
         "listedIn": [
             "1inch",
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -398,9 +411,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
         "coingeckoId": "liquity-usd",
         "listedIn": [
-            "coingecko",
             "lifinance",
             "optimism",
+            "coingecko",
             "xyfinance"
         ]
     },
@@ -426,9 +439,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/USX/logo.svg",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -505,9 +518,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -545,9 +558,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
         "coingeckoId": "coinbase-wrapped-staked-eth",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -611,9 +624,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
         "coingeckoId": "kyber-network-crystal",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -625,9 +638,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/ACX/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -639,9 +652,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
         "coingeckoId": "lido-dao",
         "listedIn": [
-            "coingecko",
             "lifinance",
             "optimism",
+            "coingecko",
             "xyfinance"
         ]
     },
@@ -680,9 +693,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
         "coingeckoId": "balancer",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -707,8 +720,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22910/small/zip.png?1642949795",
         "coingeckoId": "zipswap",
         "listedIn": [
-            "coingecko",
             "lifinance",
+            "coingecko",
             "xyfinance"
         ]
     },
@@ -722,9 +735,9 @@
         "coingeckoId": "kromatika",
         "listedIn": [
             "1inch",
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -736,9 +749,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/FOX/logo.svg",
         "coingeckoId": "shapeshift-fox-token",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -776,9 +789,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
         "coingeckoId": "rigoblock",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -790,9 +803,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
         "coingeckoId": "cartesi",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -844,9 +857,9 @@
         "coingeckoId": "seth",
         "listedIn": [
             "coingecko",
-            "1inch",
-            "optimism",
             "openocean",
+            "optimism",
+            "1inch",
             "lifinance"
         ]
     },
@@ -885,13 +898,26 @@
         "logoURI": "https://elk.finance/tokens/logos/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
         "coingeckoId": "dai",
         "listedIn": [
-            "elkfinance",
-            "coingecko",
-            "1inch",
-            "optimism",
             "xyfinance",
+            "coingecko",
             "openocean",
+            "optimism",
+            "1inch",
+            "elkfinance",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "TLX",
+        "name": "TLX DAO Token",
+        "address": "0xD9cC3D70E730503E7f28c1B407389198c4B75FA2",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -956,9 +982,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/crvUSD/logo.svg",
         "coingeckoId": "crvusd",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -970,9 +996,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/HANeP/logo.svg",
         "coingeckoId": "haneplatform",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -984,8 +1010,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/AMKT/logo.svg",
         "coingeckoId": "alongside-crypto-market-index",
         "listedIn": [
-            "optimism",
-            "coingecko"
+            "coingecko",
+            "optimism"
         ]
     },
     {
@@ -1023,9 +1049,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/PENDLE/logo.png",
         "coingeckoId": "pendle",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1051,8 +1077,21 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
+            "optimism",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BNRY",
+        "name": "Binary Coin",
+        "address": "0xB5090D514BcacA7daFB7E52763658844121f346d",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance",
-            "optimism"
+            "coingecko"
         ]
     },
     {
@@ -1078,9 +1117,9 @@
         "coingeckoId": "bob",
         "listedIn": [
             "1inch",
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1107,9 +1146,9 @@
         "coingeckoId": "dhedge-dao",
         "listedIn": [
             "1inch",
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1147,11 +1186,11 @@
         "logoURI": "https://tokens.1inch.io/0x9e1028f5f1d5ede59748ffcee5532509976840e0.png",
         "coingeckoId": "perpetual-protocol",
         "listedIn": [
-            "coingecko",
-            "1inch",
-            "optimism",
             "xyfinance",
+            "coingecko",
             "openocean",
+            "optimism",
+            "1inch",
             "lifinance"
         ]
     },
@@ -1218,9 +1257,9 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch",
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1285,12 +1324,12 @@
         "logoURI": "https://tokens.1inch.io/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58.png",
         "coingeckoId": "tether",
         "listedIn": [
-            "elkfinance",
-            "coingecko",
-            "1inch",
-            "optimism",
             "xyfinance",
+            "coingecko",
             "openocean",
+            "optimism",
+            "1inch",
+            "elkfinance",
             "lifinance"
         ]
     },
@@ -1316,9 +1355,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/MTA/logo.svg",
         "coingeckoId": "meta",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1357,9 +1396,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/YFI/logo.svg",
         "coingeckoId": "yearn-finance",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1371,11 +1410,11 @@
         "logoURI": "https://tokens.1inch.io/0x57ab1ec28d129707052df4df418d58a2d46d5f51.png",
         "coingeckoId": "nusd",
         "listedIn": [
-            "coingecko",
-            "1inch",
-            "optimism",
             "xyfinance",
+            "coingecko",
             "openocean",
+            "optimism",
+            "1inch",
             "lifinance"
         ]
     },
@@ -1389,9 +1428,9 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch",
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1455,11 +1494,11 @@
         "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
         "coingeckoId": "havven",
         "listedIn": [
-            "coingecko",
-            "1inch",
-            "optimism",
             "xyfinance",
+            "coingecko",
             "openocean",
+            "optimism",
+            "1inch",
             "lifinance"
         ]
     },
@@ -1485,8 +1524,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/NFTE/logo.png",
         "coingeckoId": "nftearth",
         "listedIn": [
-            "optimism",
-            "coingecko"
+            "coingecko",
+            "optimism"
         ]
     },
     {
@@ -1512,9 +1551,9 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch",
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1578,9 +1617,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/EST/logo.png",
         "coingeckoId": "erica-social-token",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1592,6 +1631,7 @@
         "logoURI": "https://ethereum-optimism.github.io/data/SAIL/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
             "optimism"
         ]
@@ -1606,9 +1646,9 @@
         "coingeckoId": "rai",
         "listedIn": [
             "1inch",
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1620,12 +1660,12 @@
         "logoURI": "https://tokens.1inch.io/0x7f5c764cbc14f9669b88837ca1490cca17c31607.png",
         "coingeckoId": "usd-coin",
         "listedIn": [
-            "elkfinance",
-            "coingecko",
-            "1inch",
-            "optimism",
             "xyfinance",
+            "coingecko",
             "openocean",
+            "optimism",
+            "1inch",
+            "elkfinance",
             "lifinance"
         ]
     },
@@ -1664,9 +1704,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
         "coingeckoId": "aave",
         "listedIn": [
-            "coingecko",
             "lifinance",
             "optimism",
+            "coingecko",
             "xyfinance"
         ]
     },
@@ -1719,9 +1759,9 @@
         "coingeckoId": "usd",
         "listedIn": [
             "1inch",
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1772,9 +1812,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
         "coingeckoId": "uniswap",
         "listedIn": [
-            "coingecko",
             "lifinance",
             "optimism",
+            "coingecko",
             "xyfinance"
         ]
     },
@@ -1852,9 +1892,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/POP/logo.svg",
         "coingeckoId": "popcorn",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1879,9 +1919,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/19592/thumb/eherian.jpg?1697038777",
         "coingeckoId": "ethereans",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1893,12 +1933,12 @@
         "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
-            "elkfinance",
-            "coingecko",
-            "1inch",
-            "optimism",
             "xyfinance",
+            "coingecko",
             "openocean",
+            "optimism",
+            "1inch",
+            "elkfinance",
             "lifinance"
         ]
     },
@@ -1911,9 +1951,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png?1696527284",
         "coingeckoId": "frax-ether",
         "listedIn": [
-            "coingecko",
             "lifinance",
             "optimism",
+            "coingecko",
             "xyfinance"
         ]
     },
@@ -2005,9 +2045,9 @@
         "coingeckoId": "aelin",
         "listedIn": [
             "coingecko",
-            "1inch",
-            "optimism",
             "openocean",
+            "optimism",
+            "1inch",
             "lifinance"
         ]
     },
@@ -2151,9 +2191,9 @@
         "coingeckoId": "lyra-finance",
         "listedIn": [
             "coingecko",
-            "1inch",
-            "optimism",
             "openocean",
+            "optimism",
+            "1inch",
             "lifinance"
         ]
     },
@@ -2166,9 +2206,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
         "coingeckoId": "hanchain",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2180,9 +2220,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
         "coingeckoId": "bitant",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2246,9 +2286,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/sfrxETH/logo.svg",
         "coingeckoId": "staked-frax-ether",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2273,10 +2313,10 @@
         "logoURI": "https://tokens.1inch.io/0x47536f17f4ff30e64a96a7555826b8f9e66ec468.png",
         "coingeckoId": "mummy-finance",
         "listedIn": [
-            "coingecko",
-            "1inch",
             "xyfinance",
+            "coingecko",
             "dfyn",
+            "1inch",
             "lifinance"
         ]
     },
@@ -2315,12 +2355,12 @@
         "logoURI": "https://tokens.1inch.io/0x4200000000000000000000000000000000000042.png",
         "coingeckoId": "optimism",
         "listedIn": [
-            "elkfinance",
-            "coingecko",
-            "1inch",
-            "optimism",
             "xyfinance",
+            "coingecko",
             "openocean",
+            "optimism",
+            "1inch",
+            "elkfinance",
             "lifinance"
         ]
     },
@@ -2333,12 +2373,12 @@
         "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
         "coingeckoId": "weth",
         "listedIn": [
-            "elkfinance",
-            "coingecko",
-            "1inch",
-            "optimism",
             "xyfinance",
+            "coingecko",
             "openocean",
+            "optimism",
+            "1inch",
+            "elkfinance",
             "lifinance"
         ]
     },
@@ -2377,9 +2417,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
         "coingeckoId": "barnbridge",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2392,9 +2432,9 @@
         "coingeckoId": "velodrome-finance",
         "listedIn": [
             "coingecko",
-            "1inch",
-            "optimism",
             "openocean",
+            "optimism",
+            "1inch",
             "lifinance"
         ]
     },
@@ -2472,8 +2512,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/XMT/logo.svg",
         "coingeckoId": "metalswap",
         "listedIn": [
-            "optimism",
-            "coingecko"
+            "coingecko",
+            "optimism"
         ]
     },
     {
@@ -2486,9 +2526,9 @@
         "coingeckoId": "alchemix-eth",
         "listedIn": [
             "1inch",
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2513,9 +2553,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/POOL/logo.svg",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2540,9 +2580,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/PREMIA/logo.svg",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2554,11 +2594,11 @@
         "logoURI": "https://tokens.1inch.io/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6.png",
         "coingeckoId": "chainlink",
         "listedIn": [
-            "coingecko",
-            "1inch",
-            "optimism",
             "xyfinance",
+            "coingecko",
             "openocean",
+            "optimism",
+            "1inch",
             "lifinance"
         ]
     },
@@ -2637,10 +2677,10 @@
         "logoURI": "https://cloudstorage.openocean.finance/images/1656664682747_6323500197263012.png",
         "coingeckoId": "frax",
         "listedIn": [
+            "coingecko",
             "openocean",
-            "lifinance",
             "optimism",
-            "coingecko"
+            "lifinance"
         ]
     },
     {
@@ -2665,9 +2705,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/BANK/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2693,8 +2733,8 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "lifinance",
-            "optimism"
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -2706,10 +2746,10 @@
         "logoURI": "https://tokens.1inch.io/0x296f55f8fb28e498b858d0bcda06d955b2cb3f97.png",
         "coingeckoId": "stargate-finance",
         "listedIn": [
-            "openocean",
             "1inch",
-            "lifinance",
-            "coingecko"
+            "openocean",
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2734,8 +2774,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/OCEAN/logo.png",
         "coingeckoId": "ocean-protocol",
         "listedIn": [
-            "optimism",
-            "coingecko"
+            "coingecko",
+            "optimism"
         ]
     },
     {
@@ -2800,9 +2840,9 @@
         "coingeckoId": "thales",
         "listedIn": [
             "1inch",
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2828,9 +2868,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
         "coingeckoId": "dentacoin",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2855,11 +2895,11 @@
         "logoURI": "https://tokens.1inch.io/0x1f32b1c2345538c0c6f582fcb022739c4a194ebb.png",
         "coingeckoId": "wrapped-steth",
         "listedIn": [
-            "coingecko",
-            "1inch",
-            "optimism",
             "xyfinance",
+            "coingecko",
             "openocean",
+            "optimism",
+            "1inch",
             "lifinance"
         ]
     },
@@ -3028,11 +3068,11 @@
         "logoURI": "https://tokens.1inch.io/0x0b2c639c533813f4aa9d7837caf62653d097ff85.png",
         "coingeckoId": "usd-coin",
         "listedIn": [
-            "elkfinance",
-            "coingecko",
-            "1inch",
-            "optimism",
             "xyfinance",
+            "coingecko",
+            "optimism",
+            "1inch",
+            "elkfinance",
             "lifinance"
         ]
     },
@@ -3097,10 +3137,10 @@
         "logoURI": "https://elk.finance/tokens/logos/optimism/0x0994206dfe8de6ec6920ff4d779b0d950605fb53/logo.png",
         "coingeckoId": "curve-dao-token",
         "listedIn": [
-            "elkfinance",
+            "xyfinance",
             "coingecko",
             "optimism",
-            "xyfinance",
+            "elkfinance",
             "lifinance"
         ]
     },
@@ -3166,9 +3206,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/PAPER/logo.svg",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -3193,10 +3233,10 @@
         "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
         "coingeckoId": "ethereum",
         "listedIn": [
-            "openocean",
             "1inch",
-            "lifinance",
-            "xyfinance"
+            "openocean",
+            "xyfinance",
+            "lifinance"
         ]
     }
 ]
