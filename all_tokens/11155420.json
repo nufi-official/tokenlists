@@ -36,6 +36,18 @@
         ]
     },
     {
+        "symbol": "USDC",
+        "name": "USDC",
+        "address": "0x5fd84259d66Cd46123540766Be93DFE6D43130D7",
+        "decimals": 6,
+        "chainId": 11155420,
+        "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "wstETH",
         "name": "Wrapped liquid staked Ether 2.0",
         "address": "0x24B47cd3A74f1799b32B2de11073764Cb1bb318B",
