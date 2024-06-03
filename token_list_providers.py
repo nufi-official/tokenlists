@@ -464,7 +464,7 @@ tokenlists_providers = [
     UniswapTokenLists,
     SushiswapTokenLists,
     # OpenOceanTokenLists,
-    OneSolTokenLists,
+    # OneSolTokenLists,  started failing at some point
     QuickSwapTokenLists,
     FuseSwapTokenLists,
     TrisolarisLabsLists,
