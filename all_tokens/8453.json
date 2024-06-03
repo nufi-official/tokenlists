@@ -12,12 +12,36 @@
         ]
     },
     {
+        "symbol": "WGC",
+        "name": "Wild Goat Coin",
+        "address": "0xfB18511F1590a494360069F3640c27d55c2B5290",
+        "decimals": 6,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/WGC/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "PRIME",
         "name": "Prime",
         "address": "0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b",
         "decimals": 18,
         "chainId": 8453,
         "logoURI": "https://ethereum-optimism.github.io/data/PRIME/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "CIG",
+        "name": "Cigarette Token",
+        "address": "0xf88Cf71B891a89A1CB02ec17ce3aD80e5Ae31e1b",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/CIG/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -116,8 +140,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "optimism"
+            "optimism",
+            "elkfinance"
         ]
     },
     {
@@ -849,8 +873,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "optimism"
+            "optimism",
+            "elkfinance"
         ]
     },
     {
@@ -1138,8 +1162,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "optimism"
+            "optimism",
+            "elkfinance"
         ]
     },
     {
@@ -1247,8 +1271,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x4200000000000000000000000000000000000006/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "optimism"
+            "optimism",
+            "elkfinance"
         ]
     },
     {

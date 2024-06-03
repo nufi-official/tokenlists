@@ -12,6 +12,30 @@
         ]
     },
     {
+        "symbol": "USDC.e",
+        "name": "Bridged USDC",
+        "address": "0x8C4aCd74Ff4385f3B7911432FA6787Aa14406f8B",
+        "decimals": 6,
+        "chainId": 10242,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x8C4aCd74Ff4385f3B7911432FA6787Aa14406f8B/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "address": "0x6C45E28A76977a96e263f84F95912B47F927B687",
+        "decimals": 6,
+        "chainId": 10242,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x6C45E28A76977a96e263f84F95912B47F927B687/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "WAA",
         "name": "Wrapped AA",
         "address": "0x69D349E2009Af35206EFc3937BaD6817424729F7",
