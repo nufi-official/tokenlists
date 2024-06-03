@@ -474,7 +474,7 @@ tokenlists_providers = [
     Optimism,
     ArbitrumBridge,
     TraderJoe,
-    Pangolin,
+    # Pangolin,  started failing at some point
     PancakeSwap,
     MojitoSwap,
     RubicLists,
