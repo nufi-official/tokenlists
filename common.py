@@ -47,6 +47,7 @@ CHAIN_NAMES_BY_ID = {
     '66': 'okex',
     '70': 'hoo',
     '80001': 'mumbai',
+    "80002": "amoy",
     '82': 'meter',
     '88': 'tomochain',
     '97': 'bsc-testnet',

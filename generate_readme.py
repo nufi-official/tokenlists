@@ -54,6 +54,7 @@ Testnets:
 - Goerli
 - Mumbai
 - Sepolia
+- Amoy
 - etc.
 
 ## How are tokenlists formed
