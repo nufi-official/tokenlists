@@ -44,8 +44,8 @@
         "logoURI": "https://tokens.1inch.io/0xfdeffc7ad816bf7867c642df7ebc2cc5554ec265.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "1inch"
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -277,9 +277,9 @@
         "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "1inch",
-            "elkfinance"
+            "elkfinance",
+            "lifinance"
         ]
     },
     {
@@ -489,9 +489,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
         "coingeckoId": "oxbitcoin",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -553,10 +553,10 @@
         "logoURI": "https://tokens.1inch.io/0xa3fa99a148fa48d14ed51d610c367c61876997f1.png",
         "coingeckoId": "mimatic",
         "listedIn": [
-            "lifinance",
-            "openocean",
-            "1inch",
             "coingecko",
+            "1inch",
+            "openocean",
+            "lifinance",
             "RouterProtocol"
         ]
     },
@@ -605,9 +605,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/WLD/logo.svg",
         "coingeckoId": "worldcoin-wld",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -663,6 +663,18 @@
         "symbol": "3CRV-OP",
         "name": "TriCRV-OPTIMISM",
         "address": "0xd8dD9a8b2AcA88E68c46aF9008259d0EC04b7751",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "UP",
+        "name": "Position Up",
+        "address": "0xd83f835aA9A798283f563f976C7d508B61A14cA2",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
@@ -777,9 +789,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/PSP/logo.svg",
         "coingeckoId": "paraswap",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -876,10 +888,10 @@
         "logoURI": "https://assets.coingecko.com/coins/images/28225/thumb/logo_OPX.png?1668501930",
         "coingeckoId": "opx-finance",
         "listedIn": [
-            "lifinance",
-            "dfyn",
             "1inch",
-            "coingecko"
+            "lifinance",
+            "coingecko",
+            "dfyn"
         ]
     },
     {
@@ -939,9 +951,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1100,8 +1112,8 @@
         "logoURI": "https://tokens.1inch.io/0xc55e93c62874d8100dbd2dfe307edc1036ad5434.png",
         "coingeckoId": "staked-bifi",
         "listedIn": [
-            "lifinance",
             "1inch",
+            "lifinance",
             "coingecko"
         ]
     },
@@ -1126,10 +1138,10 @@
         "logoURI": "https://tokens.1inch.io/0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc.png",
         "coingeckoId": "hop-protocol",
         "listedIn": [
-            "lifinance",
-            "optimism",
             "1inch",
-            "coingecko"
+            "coingecko",
+            "lifinance",
+            "optimism"
         ]
     },
     {
@@ -1191,10 +1203,10 @@
         "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
         "coingeckoId": "liquity-usd",
         "listedIn": [
-            "lifinance",
-            "optimism",
+            "xyfinance",
             "coingecko",
-            "xyfinance"
+            "lifinance",
+            "optimism"
         ]
     },
     {
@@ -1315,9 +1327,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/USX/logo.svg",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1623,9 +1635,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1663,9 +1675,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
         "coingeckoId": "coinbase-wrapped-staked-eth",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1873,9 +1885,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
         "coingeckoId": "kyber-network-crystal",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1887,9 +1899,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/ACX/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -1901,10 +1913,10 @@
         "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
         "coingeckoId": "lido-dao",
         "listedIn": [
-            "lifinance",
-            "optimism",
+            "xyfinance",
             "coingecko",
-            "xyfinance"
+            "lifinance",
+            "optimism"
         ]
     },
     {
@@ -1954,9 +1966,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
         "coingeckoId": "balancer",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2017,9 +2029,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22910/small/zip.png?1642949795",
         "coingeckoId": "zipswap",
         "listedIn": [
+            "xyfinance",
             "lifinance",
-            "coingecko",
-            "xyfinance"
+            "coingecko"
         ]
     },
     {
@@ -2031,10 +2043,10 @@
         "logoURI": "https://tokens.1inch.io/0xf98dcd95217e15e05d8638da4c91125e59590b07.png",
         "coingeckoId": "kromatika",
         "listedIn": [
-            "lifinance",
-            "optimism",
             "1inch",
-            "coingecko"
+            "coingecko",
+            "lifinance",
+            "optimism"
         ]
     },
     {
@@ -2082,9 +2094,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/FOX/logo.svg",
         "coingeckoId": "shapeshift-fox-token",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2182,9 +2194,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
         "coingeckoId": "rigoblock",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2196,9 +2208,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
         "coingeckoId": "cartesi",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2346,10 +2358,10 @@
         "coingeckoId": "seth",
         "listedIn": [
             "optimism",
-            "lifinance",
-            "openocean",
+            "coingecko",
             "1inch",
-            "coingecko"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -2520,12 +2532,12 @@
         "coingeckoId": "dai",
         "listedIn": [
             "optimism",
-            "xyfinance",
-            "lifinance",
-            "openocean",
-            "1inch",
             "elkfinance",
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "openocean",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -2711,6 +2723,18 @@
         ]
     },
     {
+        "symbol": "mooVeloV2WETH-HOP",
+        "name": "Moo VeloV2 WETH-HOP",
+        "address": "0xCe6A02C3456f2518D5F02002ecEFFFDc4539247f",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "vaETH",
         "name": "vaETH Pool",
         "address": "0xCcF3d1AcF799bAe67F6e354d685295557cf64761",
@@ -2792,8 +2816,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14114/thumb/Alchemix_USD.png?1614410406",
         "coingeckoId": "alchemix-usd",
         "listedIn": [
-            "lifinance",
             "1inch",
+            "lifinance",
             "coingecko"
         ]
     },
@@ -2879,9 +2903,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/crvUSD/logo.svg",
         "coingeckoId": "crvusd",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -2918,9 +2942,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/HANeP/logo.svg",
         "coingeckoId": "haneplatform",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -3067,9 +3091,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/PENDLE/logo.png",
         "coingeckoId": "pendle",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -3126,6 +3150,18 @@
         "symbol": "USDpy",
         "name": "Perpetual Delta Neutral Yield",
         "address": "0xB9243C495117343981EC9f8AA2ABfFEe54396Fc0",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mooHopETH",
+        "name": "Moo Hop ETH",
+        "address": "0xB8Ce10759feb3B63B75557f5f9933bD22127f0eC",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
@@ -3303,10 +3339,10 @@
         "logoURI": "https://tokens.1inch.io/0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b.png",
         "coingeckoId": "bob",
         "listedIn": [
-            "lifinance",
-            "optimism",
             "1inch",
-            "coingecko"
+            "coingecko",
+            "lifinance",
+            "optimism"
         ]
     },
     {
@@ -3342,9 +3378,9 @@
         "logoURI": "https://tokens.1inch.io/0xae31207ac34423c41576ff59bfb4e036150f9cf7.png",
         "coingeckoId": null,
         "listedIn": [
+            "1inch",
             "lifinance",
-            "optimism",
-            "1inch"
+            "optimism"
         ]
     },
     {
@@ -3380,10 +3416,10 @@
         "logoURI": "https://ethereum-optimism.github.io/data/DHT/logo.svg",
         "coingeckoId": "dhedge-dao",
         "listedIn": [
-            "lifinance",
-            "optimism",
             "1inch",
-            "coingecko"
+            "coingecko",
+            "lifinance",
+            "optimism"
         ]
     },
     {
@@ -3519,6 +3555,18 @@
         ]
     },
     {
+        "symbol": "cowUniswapOpUSDC-OP",
+        "name": "Cow Uniswap Op USDC-OP",
+        "address": "0xA2A8B06aa9d211e02E1F8CEb7706aE8bF3362Dfb",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "UP",
         "name": "Position Up",
         "address": "0xA0AEd47A5F36b092DC87eD7A1Fa6573604a2Cf02",
@@ -3568,6 +3616,18 @@
         ]
     },
     {
+        "symbol": "UP",
+        "name": "Position Up",
+        "address": "0x9ea9404D3CaFe121c8080fEE59386d8e04cdF334",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "DF",
         "name": "dForce",
         "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
@@ -3590,11 +3650,11 @@
         "coingeckoId": "perpetual-protocol",
         "listedIn": [
             "optimism",
-            "xyfinance",
-            "lifinance",
-            "openocean",
+            "coingecko",
             "1inch",
-            "coingecko"
+            "openocean",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -3662,6 +3722,18 @@
         "symbol": "vAMMV2-TAROT/USDC",
         "name": "VolatileV2 AMM - TAROT/USDC",
         "address": "0x9c78dA24F2843CCDD02085bDEc2484106554ca48",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "cowUniswapOpWETH-USDT",
+        "name": "Cow Uniswap Op WETH-USDT",
+        "address": "0x9b9EB6B79b09A43e5d4118ED7124147Fb3c8d250",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
@@ -3778,8 +3850,8 @@
         "logoURI": "https://tokens.1inch.io/0x9c9e5fd8bbc25984b178fdce6117defa39d2db39.png",
         "coingeckoId": "binance-peg-busd",
         "listedIn": [
-            "lifinance",
             "1inch",
+            "lifinance",
             "coingecko"
         ]
     },
@@ -3793,10 +3865,10 @@
         "coingeckoId": null,
         "listedIn": [
             "optimism",
-            "xyfinance",
-            "lifinance",
+            "coingecko",
             "1inch",
-            "coingecko"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -3955,8 +4027,8 @@
         "logoURI": "https://tokens.1inch.io/0x9560e827af36c94d2ac33a39bce1fe78631088db.png",
         "coingeckoId": "velodrome-finance",
         "listedIn": [
-            "lifinance",
             "1inch",
+            "lifinance",
             "coingecko"
         ]
     },
@@ -3982,12 +4054,12 @@
         "coingeckoId": "tether",
         "listedIn": [
             "optimism",
-            "xyfinance",
-            "lifinance",
-            "openocean",
-            "1inch",
             "elkfinance",
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "openocean",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -4060,9 +4132,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/MTA/logo.svg",
         "coingeckoId": "meta",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -4076,6 +4148,18 @@
         "listedIn": [
             "lifinance",
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "amuletToken",
+        "name": "amuletToken",
+        "address": "0x923917304012C7E14d122eb1D6A8f49f608bC06B",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -4099,8 +4183,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27409/thumb/kwenta.png?1668768595",
         "coingeckoId": "kwenta",
         "listedIn": [
-            "lifinance",
             "1inch",
+            "lifinance",
             "coingecko"
         ]
     },
@@ -4125,9 +4209,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/YFI/logo.svg",
         "coingeckoId": "yearn-finance",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -4188,11 +4272,11 @@
         "coingeckoId": "nusd",
         "listedIn": [
             "optimism",
-            "xyfinance",
-            "lifinance",
-            "openocean",
+            "coingecko",
             "1inch",
-            "coingecko"
+            "openocean",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -4216,10 +4300,10 @@
         "logoURI": "https://tokens.1inch.io/0x8ae125e8653821e851f12a49f7765db9a9ce7384.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "optimism",
             "1inch",
-            "coingecko"
+            "coingecko",
+            "lifinance",
+            "optimism"
         ]
     },
     {
@@ -4430,6 +4514,18 @@
         ]
     },
     {
+        "symbol": "DOWN",
+        "name": "Position Down",
+        "address": "0x87DF86b13018F37c48Ff05db243C240a7D77B173",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "iUSDT",
         "name": "Iron Bank Tether USD",
         "address": "0x874C01c2d1767EFA01Fa54b2Ac16be96fAd5a742",
@@ -4464,11 +4560,11 @@
         "coingeckoId": "havven",
         "listedIn": [
             "optimism",
-            "xyfinance",
-            "lifinance",
-            "openocean",
+            "coingecko",
             "1inch",
-            "coingecko"
+            "openocean",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -4699,10 +4795,10 @@
         "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "optimism",
             "1inch",
-            "coingecko"
+            "coingecko",
+            "lifinance",
+            "optimism"
         ]
     },
     {
@@ -4718,12 +4814,36 @@
         ]
     },
     {
+        "symbol": "UP",
+        "name": "Position Up",
+        "address": "0x81Db6498eb5f7085F7B732Fc6fAf8a1f6b83F8F6",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "sMATIC",
         "name": "Synth sMATIC",
         "address": "0x81DDfAc111913d3d5218DEA999216323B7CD6356",
         "decimals": 18,
         "chainId": 10,
         "logoURI": "https://static.debank.com/image/op_token/logo_url/0x81ddfac111913d3d5218dea999216323b7cd6356/df0c1df2288736f4078889e7681a075b.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "vAMMV2-VELO/alUSD",
+        "name": "VolatileV2 AMM - VELO/alUSD",
+        "address": "0x81D2340E30589Eec66eF3D2017A029DbF31B0897",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -4816,6 +4936,18 @@
         ]
     },
     {
+        "symbol": "mooCurveCrvUSD-USDC",
+        "name": "Moo Curve crvUSD-USDC",
+        "address": "0x7f5651A60739308217D68cce2Bb48Fa7980aB45E",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "AXLUSDT",
         "name": "Bridged Tether  Axelar ",
         "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
@@ -4898,9 +5030,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/EST/logo.png",
         "coingeckoId": "erica-social-token",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -4936,9 +5068,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/SAIL/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -4950,10 +5082,10 @@
         "logoURI": "https://tokens.1inch.io/0x7fb688ccf682d58f86d7e38e03f9d22e7705448b.png",
         "coingeckoId": "rai",
         "listedIn": [
-            "lifinance",
-            "optimism",
             "1inch",
-            "coingecko"
+            "coingecko",
+            "lifinance",
+            "optimism"
         ]
     },
     {
@@ -4978,12 +5110,12 @@
         "coingeckoId": "usd-coin",
         "listedIn": [
             "optimism",
-            "xyfinance",
-            "lifinance",
-            "openocean",
-            "1inch",
             "elkfinance",
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "openocean",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -5297,10 +5429,10 @@
         "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
         "coingeckoId": "aave",
         "listedIn": [
-            "lifinance",
-            "optimism",
+            "xyfinance",
             "coingecko",
-            "xyfinance"
+            "lifinance",
+            "optimism"
         ]
     },
     {
@@ -5387,10 +5519,22 @@
         "logoURI": "https://tokens.1inch.io/0x73cb180bf0521828d8849bc8cf2b920918e23032.png",
         "coingeckoId": "usd",
         "listedIn": [
-            "lifinance",
-            "optimism",
             "1inch",
-            "coingecko"
+            "coingecko",
+            "lifinance",
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "sAMMV2-USDV/USDC",
+        "name": "StableV2 AMM - USDV/USDC",
+        "address": "0x73DaC4c0e02CC9d66e5Fe00569360845C241d3aE",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -5434,6 +5578,18 @@
         "symbol": "vAMMV2-USDC/SNX",
         "name": "VolatileV2 AMM - USDC/SNX",
         "address": "0x71d53B5B7141E1ec9A3Fc9Cc48b4766102d14A4A",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "vAMMV2-wstETH/OP",
+        "name": "VolatileV2 AMM - wstETH/OP",
+        "address": "0x7178F61694ba9109205B8d6F686282307625e62D",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
@@ -5501,10 +5657,10 @@
         "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
         "coingeckoId": "uniswap",
         "listedIn": [
-            "lifinance",
-            "optimism",
+            "xyfinance",
             "coingecko",
-            "xyfinance"
+            "lifinance",
+            "optimism"
         ]
     },
     {
@@ -5690,9 +5846,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/POP/logo.svg",
         "coingeckoId": "popcorn",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -5753,9 +5909,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/19592/thumb/eherian.jpg?1697038777",
         "coingeckoId": "ethereans",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -5780,12 +5936,12 @@
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
             "optimism",
-            "xyfinance",
-            "lifinance",
-            "openocean",
-            "1inch",
             "elkfinance",
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "openocean",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -5797,10 +5953,10 @@
         "logoURI": "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png?1696527284",
         "coingeckoId": "frax-ether",
         "listedIn": [
-            "lifinance",
-            "optimism",
+            "xyfinance",
             "coingecko",
-            "xyfinance"
+            "lifinance",
+            "optimism"
         ]
     },
     {
@@ -5967,6 +6123,18 @@
         "symbol": "anyMAI",
         "name": "Mai Stablecoin",
         "address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mooVeloV2wstETH-OP",
+        "name": "Moo VeloV2 wstETH-OP",
+        "address": "0x65F4e00687f4059E4A9bF8E4338dbC9f0292fe2A",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
@@ -6155,16 +6323,28 @@
         "coingeckoId": "aelin",
         "listedIn": [
             "optimism",
-            "lifinance",
-            "openocean",
+            "coingecko",
             "1inch",
-            "coingecko"
+            "openocean",
+            "lifinance"
         ]
     },
     {
         "symbol": "vAMMV2-USDC/BLU",
         "name": "VolatileV2 AMM - USDC/BLU",
         "address": "0x615B9dd61f1F9a80f5bcD33A53Eb79c37b20adDC",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "vAMMV2-OP/alUSD",
+        "name": "VolatileV2 AMM - OP/alUSD",
+        "address": "0x60BE3FB22DDF30C17604b86eC005F6173B1170Aa",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
@@ -6202,6 +6382,18 @@
         "symbol": "UP",
         "name": "Position Up",
         "address": "0x5e057d1794870cFA30be9d21F01383D8d8F3Ac80",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "UP",
+        "name": "Position Up",
+        "address": "0x5dEE8e014f7d129198F86b80655239221b358bf0",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
@@ -6684,9 +6876,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/GIV/logo.svg",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -6748,10 +6940,10 @@
         "coingeckoId": "lyra-finance",
         "listedIn": [
             "optimism",
-            "lifinance",
-            "openocean",
+            "coingecko",
             "1inch",
-            "coingecko"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -6763,9 +6955,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
         "coingeckoId": "hanchain",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -6777,9 +6969,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
         "coingeckoId": "bitant",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -7035,9 +7227,21 @@
         "logoURI": "https://ethereum-optimism.github.io/data/sfrxETH/logo.svg",
         "coingeckoId": "staked-frax-ether",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "mooVeloV2USDV-USDCe",
+        "name": "Moo VeloV2 USDV-USDCe",
+        "address": "0x480E3FC888044e038d9261A38437DeEC13C84AC5",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -7062,11 +7266,11 @@
         "logoURI": "https://tokens.1inch.io/0x47536f17f4ff30e64a96a7555826b8f9e66ec468.png",
         "coingeckoId": "mummy-finance",
         "listedIn": [
+            "coingecko",
             "dfyn",
-            "xyfinance",
-            "lifinance",
             "1inch",
-            "coingecko"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -7213,12 +7417,12 @@
         "coingeckoId": "optimism",
         "listedIn": [
             "optimism",
-            "xyfinance",
-            "lifinance",
-            "openocean",
-            "1inch",
             "elkfinance",
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "openocean",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -7231,12 +7435,12 @@
         "coingeckoId": "weth",
         "listedIn": [
             "optimism",
-            "xyfinance",
-            "lifinance",
-            "openocean",
-            "1inch",
             "elkfinance",
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "openocean",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -7346,9 +7550,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
         "coingeckoId": "barnbridge",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -7361,10 +7565,10 @@
         "coingeckoId": "velodrome-finance",
         "listedIn": [
             "optimism",
-            "lifinance",
-            "openocean",
+            "coingecko",
             "1inch",
-            "coingecko"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -7478,10 +7682,10 @@
         "logoURI": "https://assets.coingecko.com/coins/images/16271/thumb/uS04dyYy_400x400.jpeg?1663051098",
         "coingeckoId": "alchemix-eth",
         "listedIn": [
-            "lifinance",
-            "optimism",
             "1inch",
-            "coingecko"
+            "coingecko",
+            "lifinance",
+            "optimism"
         ]
     },
     {
@@ -7590,9 +7794,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/POOL/logo.svg",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -7653,9 +7857,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/PREMIA/logo.svg",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -7704,11 +7908,11 @@
         "coingeckoId": "chainlink",
         "listedIn": [
             "optimism",
-            "xyfinance",
-            "lifinance",
-            "openocean",
+            "coingecko",
             "1inch",
-            "coingecko"
+            "openocean",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -7810,6 +8014,18 @@
         ]
     },
     {
+        "symbol": "s_aOptWETH",
+        "name": "Static Aave Optimism WETH",
+        "address": "0x337B4B933d60F40CB57DD19AE834Af103F049810",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ARPA",
         "name": "ARPA Token",
         "address": "0x334cc734866E97D8452Ae6261d68Fd9bc9BFa31E",
@@ -7854,8 +8070,8 @@
         "logoURI": "https://tokens.1inch.io/0x323665443cef804a3b5206103304bd4872ea4253.png",
         "coingeckoId": "verified-usd-foundation-usdv",
         "listedIn": [
-            "lifinance",
             "1inch",
+            "lifinance",
             "coingecko"
         ]
     },
@@ -7944,8 +8160,8 @@
         "listedIn": [
             "openocean",
             "optimism",
-            "lifinance",
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -7974,6 +8190,18 @@
         ]
     },
     {
+        "symbol": "UP",
+        "name": "Position Up",
+        "address": "0x2A19D9a4CBe525Cc7732BaEfc15637c5A10B6529",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BANK",
         "name": "Bankless Token",
         "address": "0x29FAF5905bfF9Cfcc7CF56a5ed91E0f091F8664B",
@@ -7982,9 +8210,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/BANK/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -8035,8 +8263,8 @@
         "logoURI": "https://tokens.1inch.io/0x296f55f8fb28e498b858d0bcda06d955b2cb3f97.png",
         "coingeckoId": "stargate-finance",
         "listedIn": [
-            "openocean",
             "1inch",
+            "openocean",
             "lifinance",
             "coingecko"
         ]
@@ -8308,10 +8536,10 @@
         "logoURI": "https://tokens.1inch.io/0x217d47011b23bb961eb6d93ca9945b7501a5bb11.png",
         "coingeckoId": "thales",
         "listedIn": [
-            "lifinance",
-            "optimism",
             "1inch",
-            "coingecko"
+            "coingecko",
+            "lifinance",
+            "optimism"
         ]
     },
     {
@@ -8383,8 +8611,8 @@
         "logoURI": "https://tokens.1inch.io/0x1e925de1c68ef83bd98ee3e130ef14a50309c01b.png",
         "coingeckoId": "exa",
         "listedIn": [
-            "lifinance",
             "1inch",
+            "lifinance",
             "coingecko"
         ]
     },
@@ -8409,9 +8637,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
         "coingeckoId": "dentacoin",
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -8485,11 +8713,11 @@
         "coingeckoId": "wrapped-steth",
         "listedIn": [
             "optimism",
-            "xyfinance",
-            "lifinance",
-            "openocean",
+            "coingecko",
             "1inch",
-            "coingecko"
+            "openocean",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -8573,6 +8801,18 @@
         "name": "Sonne USD Coin",
         "address": "0x1AfD1fF9E441973B7D34c7B8AbE91d94F1B23ce0",
         "decimals": 8,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "vAMMV2-alETH/alUSD",
+        "name": "VolatileV2 AMM - alETH/alUSD",
+        "address": "0x1AB1C7d93EE5055406A3217260C3697A2c146095",
+        "decimals": 18,
         "chainId": 10,
         "logoURI": null,
         "coingeckoId": null,
@@ -8851,6 +9091,18 @@
         ]
     },
     {
+        "symbol": "sAMMV2-USDC/alUSD",
+        "name": "StableV2 AMM - USDC/alUSD",
+        "address": "0x124D69DaeDA338b1b31fFC8e429e39c9A991164e",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WETH",
         "name": "Wrapped Ether",
         "address": "0x121ab82b49B2BC4c7901CA46B8277962b4350204",
@@ -8962,6 +9214,18 @@
         ]
     },
     {
+        "symbol": "vAMMV2-WETH/HOP",
+        "name": "VolatileV2 AMM - WETH/HOP",
+        "address": "0x0e88a5bfF34d39DA66bdD32B82dC89a32D7Bb6c9",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "vAMMV2-OP/USDC",
         "name": "VolatileV2 AMM - OP/USDC",
         "address": "0x0df083de449F75691fc5A36477a6f3284C269108",
@@ -9007,11 +9271,11 @@
         "coingeckoId": "usd-coin",
         "listedIn": [
             "optimism",
-            "xyfinance",
-            "lifinance",
-            "1inch",
             "elkfinance",
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -9139,6 +9403,18 @@
         ]
     },
     {
+        "symbol": "cowUniswapOpWETH-USDC.e",
+        "name": "Cow Uniswap Op WETH-USDC.e",
+        "address": "0x0A90c02d6Be2EF93e939702Efc74BEC58659a4D3",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CRV",
         "name": "Curve DAO",
         "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
@@ -9148,10 +9424,10 @@
         "coingeckoId": "curve-dao-token",
         "listedIn": [
             "optimism",
-            "xyfinance",
-            "lifinance",
             "elkfinance",
-            "coingecko"
+            "coingecko",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -9288,6 +9564,18 @@
         ]
     },
     {
+        "symbol": "mooVeloV2OP-VELO",
+        "name": "Moo VeloV2 OP-VELO",
+        "address": "0x04c4a21D7439eD05fd33469565541bF6464F7157",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "iSUSD",
         "name": "Iron Bank Synth sUSD",
         "address": "0x04F0fd3CD03B17a3E5921c0170ca6dD3952841cA",
@@ -9333,6 +9621,18 @@
         "coingeckoId": null,
         "listedIn": [
             "optimism"
+        ]
+    },
+    {
+        "symbol": "crvUSDC",
+        "name": "crvUSD/USDC",
+        "address": "0x03771e24b7C9172d163Bf447490B142a15be3485",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -9406,8 +9706,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22902/thumb/ironbank.png?1642872464",
         "coingeckoId": "iron-bank",
         "listedIn": [
-            "lifinance",
             "1inch",
+            "lifinance",
             "coingecko"
         ]
     },
@@ -9420,9 +9720,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/PAPER/logo.svg",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "lifinance",
-            "optimism",
-            "coingecko"
+            "optimism"
         ]
     },
     {
@@ -9483,8 +9783,8 @@
         "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
         "coingeckoId": "ethereum",
         "listedIn": [
-            "openocean",
             "1inch",
+            "openocean",
             "lifinance",
             "xyfinance"
         ]
