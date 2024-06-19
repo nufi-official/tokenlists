@@ -35,6 +35,24 @@ def merge_tokens(old_tokens: dict[int, dict[Address, Token]], new_tokens: dict[i
     return merged_tokens
 
 
+def filter_ignored_tokens(
+    tokens: dict[int, dict[Address, Token]]
+) -> dict[int, dict[Address, Token]]:
+    # {chain_id: set(addresses)}
+    IGNORE_LIST = {42161: set(["walc.near"])}
+
+    filtered = {
+        k: {
+            a: t
+            for a, t in v.items()
+            if k not in IGNORE_LIST or a not in IGNORE_LIST[k]
+        }
+        for k, v in tokens.items()
+    }
+
+    return filtered
+
+
 async def collect_trusted_tokens() -> dict[int, list[Token]]:
     data = await asyncio.gather(
         *[provider.get_tokenlists() for provider in
@@ -88,8 +106,10 @@ async def collect_trusted_tokens() -> dict[int, list[Token]]:
 
     merged_tokens = merge_tokens(old_tokens, new_tokens)
 
+    filtered_tokens = filter_ignored_tokens(merged_tokens)
+
     all_tokens = {
-        k: list(sorted(v.values(), key=lambda x: x.address, reverse=True)) for k, v in merged_tokens.items() if len(v) > 0
+        k: list(sorted(v.values(), key=lambda x: x.address, reverse=True)) for k, v in filtered_tokens.items() if len(v) > 0
     }
 
     trusted = {k: [t for t in v if len(t.listedIn) > 1] for k, v in all_tokens.items()}
