@@ -34,19 +34,26 @@ class TokenListProvider:
         for chain_id, chain_name in cls.chains.items():
             try:
                 resp = await httpx.AsyncClient().get(
-                    cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
+                    cls.base_url.format(chain_id if cls._by_chain_id else chain_name)
+                )
             except httpx.ReadTimeout:
                 await asyncio.sleep(0.5)
                 continue
             num_retries = 0
             while resp.status_code != 200:
                 if num_retries > 60:
-                    raise Exception(f"failed to get tokenlits {cls.base_url} after {num_retries} retries")
+                    raise Exception(
+                        f"failed to get tokenlits {cls.base_url} after {num_retries} retries"
+                    )
                 sleep_time = int(resp.headers.get("Retry-After", 1))
                 num_retries += 1
-                log.info(f"[{cls.name}] {chain_id} {chain_name} waiting {sleep_time} seconds")
+                log.info(
+                    f"[{cls.name}] {chain_id} {chain_name} waiting {sleep_time} seconds"
+                )
                 await asyncio.sleep(sleep_time)
-                resp = await httpx.AsyncClient().get(cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
+                resp = await httpx.AsyncClient().get(
+                    cls.base_url.format(chain_id if cls._by_chain_id else chain_name)
+                )
 
             try:
                 tokenlist = resp.json()
@@ -82,7 +89,9 @@ class TokenListProvider:
                         log.error(f"{cls.name} chain id absent")
                         continue
                 if not t.get("coingeckoId"):
-                    t["coingeckoId"] = coingecko_ids.get(str(t["chainId"]), {}).get(t["address"].lower())
+                    t["coingeckoId"] = coingecko_ids.get(str(t["chainId"]), {}).get(
+                        t["address"].lower()
+                    )
                 parsed_token = Token.parse_obj(t)
                 res[parsed_token.chainId].append(parsed_token)
             log.info(f"[{cls.name}] {chain_id} {chain_name} OK")
@@ -169,7 +178,7 @@ class SushiswapTokenLists(TokenListProvider):
         "4": "rinkeby",
         "3": "ropsten",
         "40": "telos",
-        "100": "xdai"
+        "100": "xdai",
     }
 
 
@@ -214,7 +223,9 @@ class OpenOceanTokenLists(TokenListProvider):
 
 class ElkFinanceTokenLists(TokenListProvider):
     name = "elkfinance"
-    base_url = "https://raw.githubusercontent.com/elkfinance/tokens/main/{}.tokenlist.json"
+    base_url = (
+        "https://raw.githubusercontent.com/elkfinance/tokens/main/{}.tokenlist.json"
+    )
     chains = {
         "42161": "farms",
         "43114": "avax",
@@ -236,7 +247,7 @@ class ElkFinanceTokenLists(TokenListProvider):
         "80001": "mumbai",
         "66": "okex",
         "40": "telos",
-        "100": "xdai"
+        "100": "xdai",
     }
     # "all", "top"
 
@@ -249,25 +260,19 @@ class RefFinanceTokenLists(TokenListProvider):
 class OneSolTokenLists(TokenListProvider):
     name = "1sol"
     base_url = "https://api.1sol.io/2/101/token-list"
-    chains = {
-        "-1": "solana"
-    }
+    chains = {"-1": "solana"}
 
 
 class QuickSwapTokenLists(TokenListProvider):
     name = "quickswap"
     base_url = "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/src/tokens/mainnet.json"
-    chains = {
-        "137": "polygon"
-    }
+    chains = {"137": "polygon"}
 
 
 class FuseSwapTokenLists(TokenListProvider):
     name = "fuseswap"
     base_url = "https://raw.githubusercontent.com/fuseio/fuseswap-default-token-list/master/src/tokens/fuse.json"
-    chains = {
-        "122": "fuse"
-    }
+    chains = {"122": "fuse"}
 
 
 class TrisolarisLabsLists(TokenListProvider):
@@ -354,7 +359,9 @@ class MojitoSwap(TokenListProvider):
 
 class CapricornFinance(TokenListProvider):
     name = "capricorn_finance"
-    base_url = "https://raw.githubusercontent.com/capricorn-finance/info-blist/main/list.json"
+    base_url = (
+        "https://raw.githubusercontent.com/capricorn-finance/info-blist/main/list.json"
+    )
     chains = {"1818": "1818"}
 
 
@@ -364,14 +371,14 @@ class Lifinance(TokenListProvider):
     _get_chain_id_key = True
 
     chains = {
-        "1": "1", # eth
-        "10": "10", # optimism
+        "1": "1",  # eth
+        "10": "10",  # optimism
         # "25": "25", // cronos mainnet
         # "56": "56",
         # "66": "66",
         # "100": "100",
         # "122": "122",
-        "137": "137", # polygon
+        "137": "137",  # polygon
         # "250": "250",
         # "1284": "1284",
         # "1285": "1285",
@@ -385,7 +392,9 @@ class Lifinance(TokenListProvider):
 
 class Dfyn(TokenListProvider):
     name = "dfyn"
-    base_url = "https://raw.githubusercontent.com/dfyn/new-host/main/list-token.tokenlist.json"
+    base_url = (
+        "https://raw.githubusercontent.com/dfyn/new-host/main/list-token.tokenlist.json"
+    )
 
     chains = {
         "1": "1",
@@ -422,7 +431,9 @@ class TraderJoe(TokenListProvider):
 
 class ArbitrumBridge(TokenListProvider):
     name = "arbitrum_bridge"
-    base_url = "https://tokenlist.arbitrum.io/ArbTokenLists/arbed_arb_whitelist_era.json"
+    base_url = (
+        "https://tokenlist.arbitrum.io/ArbTokenLists/arbed_arb_whitelist_era.json"
+    )
 
     chains = {"42161": "42161", "1": "1"}
 
@@ -431,7 +442,10 @@ class Optimism(TokenListProvider):
     name = "optimism"
     base_url = "https://static.optimism.io/optimism.tokenlist.json"
 
-    chains = {"1": "1", "10": "10", }
+    chains = {
+        "1": "1",
+        "10": "10",
+    }
 
 
 class SpookySwap(TokenListProvider):

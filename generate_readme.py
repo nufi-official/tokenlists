@@ -83,7 +83,7 @@ Developed by [Via.Exchange](https://Via.Exchange) team, forked and modified by [
 
 
 def _count_tokens(json_file_name: str, file) -> dict[str, int]:
-    name_without_json = json_file_name.split('.')[0].lower()
+    name_without_json = json_file_name.split(".")[0].lower()
     if name_without_json == "all":
         return {}
 
@@ -96,22 +96,26 @@ MIN_TOKEN_COUNT_TO_INCLUDE_IN_DOCS = 5
 
 def generate_readme() -> None:
     _counts: dict[str, int] = {}
-    for filename in glob.glob('tokenlists/*.json'):
-        with open(os.path.join(os.getcwd(), filename), 'r') as f:  # open in readonly mode
-            json_file_name = filename.split('/')[-1]
+    for filename in glob.glob("tokenlists/*.json"):
+        with open(
+            os.path.join(os.getcwd(), filename), "r"
+        ) as f:  # open in readonly mode
+            json_file_name = filename.split("/")[-1]
             _counts |= _count_tokens(json_file_name, f)
 
     _token_count_by_chain_name = {
-        chain_name: tokens_count for chain_name, tokens_count in sorted(
+        chain_name: tokens_count
+        for chain_name, tokens_count in sorted(
             _counts.items(), key=lambda item: -item[1]
         )
         if tokens_count >= MIN_TOKEN_COUNT_TO_INCLUDE_IN_DOCS
     }
     token_count_by_chain_name = [
-        f"- {chain_name}, {count} tokens" for chain_name, count in _token_count_by_chain_name.items()
+        f"- {chain_name}, {count} tokens"
+        for chain_name, count in _token_count_by_chain_name.items()
     ]
 
-    text = _template.format(tokens_count_by_chain='\n'.join(token_count_by_chain_name))
+    text = _template.format(tokens_count_by_chain="\n".join(token_count_by_chain_name))
     with open("README.md", "w") as readme_file:
         readme_file.write(text)
 
