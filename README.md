@@ -1,4 +1,5 @@
-# Multi-chain token list standard.
+
+# Multi-chain token list standard. 
 
 ## TLDR
 
@@ -7,19 +8,17 @@ if it appeared in 2 or more different tokenlists. So we believe that if 2 or mor
 most likely not a scam.
 
 ## Usage example
-
-If you want to use tokenlist in your dApp — simply download json with needed chain tokens. Head for raw link like
+If you want to use tokenlist in your dApp — simply download json with needed chain tokens. Head for raw link like 
 
 https://raw.githubusercontent.com/nufi-official/tokenlists/main/tokenlists/ethereum.json (Ethereum tokenlist)
 
-or
+or 
 
 https://raw.githubusercontent.com/nufi-official/tokenlists/main/tokenlists/bsc.json (Binance Smart Chain Tokenlist)
 
 ## Providers
 
 We collect tokenlists from github repos or open APIs from various platforms, currently:
-
 - [CoinGecko](https://www.coingecko.com/)
 - [1inch](https://app.1inch.io/)
 - [Uniswap](https://uniswap.org/)
@@ -33,7 +32,7 @@ We collect tokenlists from github repos or open APIs from various platforms, cur
 - [TrisolarisLabs](https://www.trisolaris.io/#/swap)
 - [Rubic](https://app.rubic.exchange/)
 
-Feel free to add new provider if you think it is trusted and if it has opensource tokenlists, on github
+Feel free to add new provider if you think it is trusted and if it has opensource tokenlists, on github 
 or in API.
 
 ## Chains with trusted tokens
@@ -41,16 +40,16 @@ or in API.
 Here are chains presented in our tokenlists with current token count. You can find out more in `/tokenlists` folder.
 Token counts are approximate and may vary as providers update their tokenlists.
 
-- Ethereum, 4729 tokens
-- Polygon, 1226 tokens
-- Bsc, 1202 tokens
+- Ethereum, 4739 tokens
+- Polygon, 1229 tokens
+- Bsc, 1204 tokens
 - 101, 507 tokens
-- Avax, 458 tokens
+- Avax, 459 tokens
 - Solana, 457 tokens
 - Ftm, 363 tokens
 - Gnosis, 347 tokens
-- Arbitrum, 320 tokens
-- Optimism, 245 tokens
+- Arbitrum, 321 tokens
+- Optimism, 246 tokens
 - Heco, 197 tokens
 - Aurora, 106 tokens
 - Cronos, 84 tokens
@@ -77,25 +76,24 @@ Testnets:
 
 ## How are tokenlists formed
 
-We collect many tokenlists from many providers, then we aggregate them by chains and tokens addresses.
-For each token we check whether it is listed in 2 or more tokenlists from different providers. If so,
+We collect many tokenlists from many providers, then we aggregate them by chains and tokens addresses. 
+For each token we check whether it is listed in 2 or more tokenlists from different providers. If so, 
 we add it to our trusted tokenlist.
 
-## Run aggregation script yourself
 
+## Run aggregation script yourself
 Install requirements
-`$ pip3 install -r requirements.txt`
+```$ pip3 install -r requirements.txt```
 Run the script from repo root folder
-`python3 aggregate_tokens.py`
+```python3 aggregate_tokens.py```
 
 ## Generate readme.md based on aggregated data
-
 ```bash
 python generate_readme.py
 ```
 
-## Contribute
 
+## Contribute
 Feel free to open issues and PRs with tokens, chains or providers that you want to add.
 
 Developed by [Via.Exchange](https://Via.Exchange) team, forked and modified by [Nu.Fi](https://nu.fi).
