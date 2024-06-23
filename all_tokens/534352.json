@@ -1,5 +1,17 @@
 [
     {
+        "symbol": "ELK",
+        "name": "Elk",
+        "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+        "decimals": 18,
+        "chainId": 534352,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "izumi Token",
         "name": "iZi",
         "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
@@ -9,6 +21,18 @@
         "coingeckoId": null,
         "listedIn": [
             "dfyn"
+        ]
+    },
+    {
+        "symbol": "WETH",
+        "name": "Wrapped Ether on Scroll",
+        "address": "0x5300000000000000000000000000000000000004",
+        "decimals": 18,
+        "chainId": 534352,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/scroll/0x5300000000000000000000000000000000000004/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
         ]
     }
 ]

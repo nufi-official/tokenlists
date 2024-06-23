@@ -36,6 +36,18 @@
         ]
     },
     {
+        "symbol": "ELK",
+        "name": "Elk",
+        "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+        "decimals": 18,
+        "chainId": 288,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "GIN",
         "name": "Gin Finance",
         "address": "0xe48703F5AdfE59d271D951c2E602F654B86736E7",
@@ -133,6 +145,7 @@
         "coingeckoId": "weth",
         "listedIn": [
             "openocean",
+            "elkfinance",
             "coingecko"
         ]
     },
@@ -404,8 +417,8 @@
         "coingeckoId": "bobadoge",
         "listedIn": [
             "openocean",
-            "coingecko",
-            "oolongswap"
+            "oolongswap",
+            "coingecko"
         ]
     },
     {
