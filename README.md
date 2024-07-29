@@ -40,7 +40,7 @@ or in API.
 Here are chains presented in our tokenlists with current token count. You can find out more in `/tokenlists` folder.
 Token counts are approximate and may vary as providers update their tokenlists.
 
-- Ethereum, 4880 tokens
+- Ethereum, 4883 tokens
 - Polygon, 1257 tokens
 - Bsc, 1213 tokens
 - 101, 507 tokens
@@ -53,8 +53,8 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Heco, 197 tokens
 - Aurora, 107 tokens
 - Cronos, 85 tokens
+- Moonbeam, 82 tokens
 - Moonriver, 82 tokens
-- Moonbeam, 81 tokens
 - Harmony, 76 tokens
 - Celo, 75 tokens
 - Okex, 48 tokens

@@ -271,6 +271,19 @@
         ]
     },
     {
+        "symbol": "NCTR",
+        "name": "Apillon",
+        "address": "0xFfFFfFfF8A9736B44EbF188972725bED67BF694E",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/39413/thumb/round_icon_dark_on_bright_background_%281%29.png?1722180372",
+        "coingeckoId": "apillon",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "XCASTR",
         "name": "Astar  Moonbeam ",
         "address": "0xFfFFFfffA893AD19e540E172C10d78D4d479B5Cf",
@@ -599,10 +612,10 @@
         "coingeckoId": "wrapped-moonbeam",
         "listedIn": [
             "rubic",
-            "elkfinance",
-            "lifinance",
             "sushiswap",
-            "coingecko"
+            "elkfinance",
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -721,8 +734,8 @@
         "coingeckoId": "usd-coin",
         "listedIn": [
             "sushiswap",
-            "rubic",
-            "coingecko"
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -1261,8 +1274,8 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "rubic",
             "coingecko",
+            "rubic",
             "lifinance"
         ]
     },
@@ -1289,8 +1302,8 @@
         "coingeckoId": "weth",
         "listedIn": [
             "sushiswap",
-            "rubic",
-            "coingecko"
+            "coingecko",
+            "rubic"
         ]
     },
     {
