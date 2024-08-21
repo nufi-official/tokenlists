@@ -1,5 +1,17 @@
 [
     {
+        "symbol": "QUACK",
+        "name": "Quack Token",
+        "address": "0xf79A36F6f440392C63AD61252a64d5d3C43F860D",
+        "decimals": 18,
+        "chainId": 88,
+        "logoURI": "https://assets.coingecko.com/coins/images/31436/thumb/0x639C0D019C257966C4907bD4E68E3F349bB58109.png?1696530251",
+        "coingeckoId": "quack-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "MASQ",
         "name": "MASQ",
         "address": "0xeA478716a70DC086707E23De17965aCB5C7b7840",
@@ -43,6 +55,18 @@
         "chainId": 88,
         "logoURI": "https://assets.coingecko.com/coins/images/33816/thumb/cusd_%281%29.png?1703039824",
         "coingeckoId": "stably-cusd",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "DACKIE",
+        "name": "DackieSwap",
+        "address": "0xaEdc38bD52b0380b2Af4980948925734fD54FbF4",
+        "decimals": 18,
+        "chainId": 88,
+        "logoURI": "https://assets.coingecko.com/coins/images/30752/thumb/dackieswap_large.png?1707290196",
+        "coingeckoId": "dackieswap",
         "listedIn": [
             "coingecko"
         ]
