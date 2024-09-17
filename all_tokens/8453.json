@@ -60,6 +60,18 @@
         ]
     },
     {
+        "symbol": "RICE",
+        "name": "DAOSquare Governance Token",
+        "address": "0xf501E4c51dBd89B95de24b9D53778Ff97934cd9c",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/RICE/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "THALES",
         "name": "Optimistic Thales Token",
         "address": "0xf34e0cff046e154CAfCae502C7541b9E5FD8C249",
@@ -176,8 +188,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "elkfinance"
+            "elkfinance",
+            "optimism"
         ]
     },
     {
@@ -307,6 +319,18 @@
         "decimals": 18,
         "chainId": 8453,
         "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "wPAW",
+        "name": "Wrapped PAW",
+        "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/WPAW/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -505,12 +529,36 @@
         ]
     },
     {
+        "symbol": "MUGLOO",
+        "name": "Mugloo",
+        "address": "0xE009e453Ac69B0E9602BA091D5331B31B03D3039",
+        "decimals": 4,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/MUGLOO/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "wHOGE",
         "name": "Wrapped HOGE",
         "address": "0xDf690C65d067035364a58369C26820D3696D7799",
         "decimals": 9,
         "chainId": 8453,
         "logoURI": "https://ethereum-optimism.github.io/data/wHOGE/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "CBX",
+        "name": "CropBytes",
+        "address": "0xD988824d7fA1998D0ABBab2F79A82aF762886caC",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/CBX/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -589,6 +637,18 @@
         ]
     },
     {
+        "symbol": "yETH",
+        "name": "Yearn Ether",
+        "address": "0xCaf1c21DE4214ab2bCDb3A55deEB0114C8EeADa1",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/yETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "KIBSHI",
         "name": "KiboShib",
         "address": "0xC7DcCA0a3e69bD762C8DB257f868f76Be36c8514",
@@ -631,6 +691,18 @@
         "decimals": 18,
         "chainId": 8453,
         "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "LRDS",
+        "name": "BLOCKLORDS",
+        "address": "0xB676f87A6E701f0DE8De5Ab91B56b66109766DB1",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/LRDS/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -1017,8 +1089,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "elkfinance"
+            "elkfinance",
+            "optimism"
         ]
     },
     {
@@ -1310,6 +1382,18 @@
         ]
     },
     {
+        "symbol": "DYP",
+        "name": "Dypius",
+        "address": "0x5b2124D427fAc9C80c902cbDD74b03Dd85d7d3FE",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/DYP/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "DRODEC",
         "name": "DRODEC",
         "address": "0x5a01BDaA010938Eb7615c63cB22cf3e94e8505df",
@@ -1378,8 +1462,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "elkfinance"
+            "elkfinance",
+            "optimism"
         ]
     },
     {
@@ -1487,8 +1571,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x4200000000000000000000000000000000000006/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "elkfinance"
+            "elkfinance",
+            "optimism"
         ]
     },
     {
