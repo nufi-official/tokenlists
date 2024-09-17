@@ -56,7 +56,17 @@ def filter_ignored_tokens(
     tokens: dict[int, dict[Address, Token]]
 ) -> dict[int, dict[Address, Token]]:
     # {chain_id: set(addresses)}
-    IGNORE_LIST = {42161: set(["walc.near"])}
+    IGNORE_LIST = {
+        # bsc scam coins (all addresses have some balance)
+        56: set(
+            [
+                "0x683e9dCf085E5efCc7925858aAcE94D4b8882024",
+                "0xD22202d23fE7dE9E3DbE11a2a88F42f4CB9507cf",
+                "0x5CA42204cDaa70d5c773946e69dE942b85CA6706",
+            ]
+        ),
+        42161: set(["walc.near"]),
+    }
 
     filtered = {
         k: {
