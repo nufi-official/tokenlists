@@ -35,6 +35,7 @@ CHAIN_ID_TO_NATIVE_COIN_COINGECKO_ID = {
     1818: "cube-network",
     42220: "celo",
     288: "ethereum",
+    59144: "ethereum",
 }
 
 
@@ -72,6 +73,7 @@ def get_coingecko_ids() -> dict[str, dict[Address, str]]:
         "40": "telos",
         "-1": "solana",
         "9001": "evmos",
+        "59144": "linea",
     }
     coingecko_platform_to_chain_id = {
         v: k for k, v in chain_id_to_coingecko_platform.items()
