@@ -1,1 +1,54 @@
-[]
+[
+    {
+        "symbol": "WETH",
+        "name": "Linea Wrapped Ether",
+        "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "BUSD",
+        "name": "Linea Wrapped Binance USD",
+        "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0x7d43AABC515C356145049227CeE54B608342c0ad/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "izumi Token",
+        "name": "iZi",
+        "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "dfyn",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "name": "Bridged USD Coin  Linea ",
+        "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+        "decimals": 6,
+        "chainId": 59144,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0x176211869cA2b568f2A7D4EE941E073a821EE1ff/logo.png",
+        "coingeckoId": "bridged-usd-coin-linea",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    }
+]
