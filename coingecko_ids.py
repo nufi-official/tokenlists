@@ -74,6 +74,7 @@ def get_coingecko_ids() -> dict[str, dict[Address, str]]:
         "-1": "solana",
         "9001": "evmos",
         "59144": "linea",
+        "81457": "blast",
     }
     coingecko_platform_to_chain_id = {
         v: k for k, v in chain_id_to_coingecko_platform.items()
