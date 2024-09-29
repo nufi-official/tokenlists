@@ -800,8 +800,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/blast/0x4300000000000000000000000000000000000004/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "coingecko"
+            "coingecko",
+            "elkfinance"
         ]
     },
     {
@@ -1016,6 +1016,18 @@
         "chainId": 81457,
         "logoURI": "https://assets.coingecko.com/coins/images/13403/thumb/aETHc.png?1696513165",
         "coingeckoId": "ankreth",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "MACHI",
+        "name": "MACHI",
+        "address": "0x010392305558d58e1Cb0Eec5529a65bf3545f82e",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/50378/thumb/machi.png?1727403678",
+        "coingeckoId": "machi",
         "listedIn": [
             "coingecko"
         ]
