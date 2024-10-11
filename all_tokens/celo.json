@@ -211,8 +211,8 @@
         "coingeckoId": "metacelo",
         "listedIn": [
             "sushiswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -330,9 +330,9 @@
         "coingeckoId": "celo-euro",
         "listedIn": [
             "sushiswap",
-            "coingecko",
             "ubeswap",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -358,9 +358,9 @@
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
             "sushiswap",
-            "coingecko",
             "ubeswap",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -373,8 +373,8 @@
         "coingeckoId": "sushi",
         "listedIn": [
             "sushiswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -653,11 +653,11 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSD.png",
         "coingeckoId": "celo-dollar",
         "listedIn": [
-            "elkfinance",
+            "lifinance",
+            "sushiswap",
             "ubeswap",
             "coingecko",
-            "sushiswap",
-            "lifinance"
+            "elkfinance"
         ]
     },
     {
@@ -670,9 +670,9 @@
         "coingeckoId": "resource-protocol",
         "listedIn": [
             "sushiswap",
-            "coingecko",
             "ubeswap",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -685,9 +685,9 @@
         "coingeckoId": "mobius-money",
         "listedIn": [
             "sushiswap",
-            "coingecko",
             "ubeswap",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -713,8 +713,8 @@
         "coingeckoId": "moola-celo-atoken",
         "listedIn": [
             "sushiswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -768,8 +768,8 @@
         "coingeckoId": "beefy-finance",
         "listedIn": [
             "sushiswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -795,8 +795,8 @@
         "coingeckoId": "celolaunch",
         "listedIn": [
             "sushiswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -859,11 +859,11 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png",
         "coingeckoId": "celo",
         "listedIn": [
-            "elkfinance",
+            "lifinance",
+            "sushiswap",
             "ubeswap",
             "coingecko",
-            "sushiswap",
-            "lifinance"
+            "elkfinance"
         ]
     },
     {
@@ -876,9 +876,9 @@
         "coingeckoId": "impactmarket",
         "listedIn": [
             "sushiswap",
-            "coingecko",
             "ubeswap",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -1009,9 +1009,9 @@
         "coingeckoId": "weth",
         "listedIn": [
             "sushiswap",
-            "coingecko",
             "ubeswap",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
@@ -1214,6 +1214,18 @@
         ]
     },
     {
+        "symbol": "PUSO",
+        "name": "PUSO",
+        "address": "0x105d4A9306D2E55a71d2Eb95B81553AE1dC20d7B",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://assets.coingecko.com/coins/images/50608/thumb/PUSO_transparent.png?1728473971",
+        "coingeckoId": "puso",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "BUSD",
         "name": "Binance-Peg BUSD Token",
         "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
@@ -1273,9 +1285,9 @@
         "coingeckoId": "ubeswap",
         "listedIn": [
             "sushiswap",
-            "coingecko",
             "ubeswap",
-            "lifinance"
+            "lifinance",
+            "coingecko"
         ]
     },
     {
