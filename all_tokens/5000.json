@@ -84,6 +84,18 @@
         ]
     },
     {
+        "symbol": "CAI",
+        "name": "Chasm",
+        "address": "0xF793Ac038E7688Aa3220005852836108cdDB065c",
+        "decimals": 18,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/39473/thumb/IMG_2A1EB0FC7749-1.jpeg?1724512678",
+        "coingeckoId": "chasm-ai",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "AXLUSDC",
         "name": "Axelar Bridged USDC",
         "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
@@ -248,8 +260,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mantle/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "coingecko"
+            "coingecko",
+            "elkfinance"
         ]
     },
     {
@@ -309,8 +321,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "dfyn"
+            "dfyn",
+            "coingecko"
         ]
     },
     {
