@@ -108,6 +108,18 @@
         ]
     },
     {
+        "symbol": "CMETH",
+        "name": "Mantle Restaked ETH",
+        "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
+        "decimals": 18,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/51114/thumb/symbol.png?1730117724",
+        "coingeckoId": "mantle-restaked-eth",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "MNT",
         "name": "Mantle",
         "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
@@ -321,8 +333,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "coingecko"
+            "coingecko",
+            "dfyn"
         ]
     },
     {
@@ -489,6 +501,18 @@
         "chainId": 5000,
         "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083",
         "coingeckoId": "mantle-bridged-usdc-mantle",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "AUSD",
+        "name": "AUSD",
+        "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+        "decimals": 6,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274",
+        "coingeckoId": "agora-dollar",
         "listedIn": [
             "coingecko"
         ]
