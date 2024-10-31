@@ -204,6 +204,18 @@
         ]
     },
     {
+        "symbol": "COOK",
+        "name": "mETH Protocol",
+        "address": "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D",
+        "decimals": 18,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/50969/thumb/Logomark-Gradient_Official.png?1729620221",
+        "coingeckoId": "meth-protocol",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "TAROT",
         "name": "Tarot",
         "address": "0x981Bd9F77c8AAFC14EBC86769503f86A3CC29aF5",
@@ -235,6 +247,18 @@
         "chainId": 5000,
         "logoURI": "https://assets.coingecko.com/coins/images/33115/thumb/0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917.png?1700731571",
         "coingeckoId": "stable-usdlr",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "NGL",
+        "name": "Entangle",
+        "address": "0x8A3ed1F2D15b5015396F494cc1Da977da38A6773",
+        "decimals": 18,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/34522/thumb/entangle.jpeg?1705302451",
+        "coingeckoId": "entangle",
         "listedIn": [
             "coingecko"
         ]
@@ -272,8 +296,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mantle/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {

@@ -12,6 +12,18 @@
         ]
     },
     {
+        "symbol": "USDC.e",
+        "name": "Bridged USDC (Lisk)",
+        "address": "0xF242275d3a6527d877f2c927a82D9b057609cc71",
+        "decimals": 6,
+        "chainId": 1135,
+        "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "TRB",
         "name": "Tellor",
         "address": "0x665060707c3Ea3c31b3eaBaD7F409072446E1D50",
