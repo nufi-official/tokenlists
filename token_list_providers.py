@@ -129,6 +129,7 @@ class CoinGeckoTokenLists(TokenListProvider):
         "59144": "linea",
         "81457": "blast",
         "5000": "mantle",
+        "747": "flow-evm",
         # sora
     }
     absent_chain_id = True
