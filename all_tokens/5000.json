@@ -296,8 +296,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mantle/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -537,6 +537,18 @@
         "chainId": 5000,
         "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083",
         "coingeckoId": "mantle-bridged-usdc-mantle",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "USDA",
+        "name": "USDa",
+        "address": "0x075df695b8E7f4361FA7F8c1426C63f11B06e326",
+        "decimals": 18,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/51599/thumb/SUSDA.png?1731604761",
+        "coingeckoId": "usda-2",
         "listedIn": [
             "coingecko"
         ]
