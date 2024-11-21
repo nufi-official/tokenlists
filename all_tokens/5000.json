@@ -296,8 +296,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mantle/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "coingecko"
+            "coingecko",
+            "elkfinance"
         ]
     },
     {
@@ -357,8 +357,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "dfyn"
+            "dfyn",
+            "coingecko"
         ]
     },
     {
@@ -393,6 +393,18 @@
         "chainId": 5000,
         "logoURI": "https://assets.coingecko.com/coins/images/33646/thumb/coin_strat.png?1702541330",
         "coingeckoId": "stratum-exchange",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SUSDA",
+        "name": "sUSDa",
+        "address": "0x5A61B1d8272B250729EA3F5eD3Ef843f4D66BC6e",
+        "decimals": 18,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/51821/thumb/USDA.png?1732035172",
+        "coingeckoId": "susda",
         "listedIn": [
             "coingecko"
         ]
