@@ -228,6 +228,18 @@
         ]
     },
     {
+        "symbol": "UNIBTC",
+        "name": "Universal BTC",
+        "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+        "decimals": 8,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
+        "coingeckoId": "universal-btc",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "APTR",
         "name": "Aperture Finance",
         "address": "0x91824fc3573c5043837F6357b72F60014A710501",
@@ -296,8 +308,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mantle/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
