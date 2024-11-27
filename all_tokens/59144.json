@@ -434,6 +434,18 @@
         ]
     },
     {
+        "symbol": "ABTC",
+        "name": "XLink Bridged BTC",
+        "address": "0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "https://assets.coingecko.com/coins/images/33363/thumb/abtc_%281%29.png?1701606956",
+        "coingeckoId": "xlink-bridged-btc-stacks",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "DUCKIES",
         "name": "Yellow Duckies",
         "address": "0x796000FAd0d00B003B9dd8e531BA90cff39E01E0",
@@ -526,8 +538,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "coingecko"
+            "coingecko",
+            "dfyn"
         ]
     },
     {

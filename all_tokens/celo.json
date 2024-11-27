@@ -135,8 +135,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -172,8 +172,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mceur.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -222,9 +222,9 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61/logo.png",
         "coingeckoId": "metacelo",
         "listedIn": [
-            "lifinance",
+            "sushiswap",
             "coingecko",
-            "sushiswap"
+            "lifinance"
         ]
     },
     {
@@ -274,8 +274,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -301,8 +301,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -328,8 +328,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cdoge.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -384,9 +384,9 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg",
         "coingeckoId": "sushi",
         "listedIn": [
-            "lifinance",
+            "sushiswap",
             "coingecko",
-            "sushiswap"
+            "lifinance"
         ]
     },
     {
@@ -423,8 +423,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -462,8 +462,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1620281018",
         "coingeckoId": "mimatic",
         "listedIn": [
-            "lifinance",
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -618,6 +618,18 @@
         ]
     },
     {
+        "symbol": "COMMONS",
+        "name": "Commons",
+        "address": "0x7b97031b6297bc8e030B07Bd84Ce92FEa1B00c3e",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_COMMONS.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "ubeswap"
+        ]
+    },
+    {
         "symbol": "MENTO",
         "name": "MENTO",
         "address": "0x7FF62f59e3e89EA34163EA1458EEBCc81177Cfb6",
@@ -665,10 +677,10 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSD.png",
         "coingeckoId": "celo-dollar",
         "listedIn": [
-            "lifinance",
-            "sushiswap",
             "ubeswap",
+            "sushiswap",
             "coingecko",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -724,9 +736,9 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mcelo.jpg",
         "coingeckoId": "moola-celo-atoken",
         "listedIn": [
-            "lifinance",
+            "sushiswap",
             "coingecko",
-            "sushiswap"
+            "lifinance"
         ]
     },
     {
@@ -766,8 +778,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mcusd.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -779,9 +791,9 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png",
         "coingeckoId": "beefy-finance",
         "listedIn": [
-            "lifinance",
+            "sushiswap",
             "coingecko",
-            "sushiswap"
+            "lifinance"
         ]
     },
     {
@@ -806,9 +818,9 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x5927fd244E11dB1c7b1215619144d2aAbAc80a4F/logo.png",
         "coingeckoId": "celolaunch",
         "listedIn": [
-            "lifinance",
+            "sushiswap",
             "coingecko",
-            "sushiswap"
+            "lifinance"
         ]
     },
     {
@@ -871,10 +883,10 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png",
         "coingeckoId": "celo",
         "listedIn": [
-            "lifinance",
-            "sushiswap",
             "ubeswap",
+            "sushiswap",
             "coingecko",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1035,8 +1047,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -1089,8 +1101,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cshiba.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -1141,8 +1153,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets//logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
