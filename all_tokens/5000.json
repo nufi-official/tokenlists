@@ -120,6 +120,18 @@
         ]
     },
     {
+        "symbol": "BLADE",
+        "name": "Blade",
+        "address": "0xE8B201BE5357c07F0Aa58693F98FB048323777f9",
+        "decimals": 18,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/52991/thumb/Token_Logo.png?1734944384",
+        "coingeckoId": "blade-2",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "CMETH",
         "name": "Mantle Restaked ETH",
         "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
@@ -320,8 +332,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mantle/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
