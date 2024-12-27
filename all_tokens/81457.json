@@ -384,6 +384,18 @@
         ]
     },
     {
+        "symbol": "IBEX",
+        "name": "Impermax",
+        "address": "0x9f04B6CEfd5BCd67d76aB708F17553Ce40188e6A",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/27606/thumb/IqwOmX-c_400x400.jpeg?1696526637",
+        "coingeckoId": "impermax-2",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "OMNI",
         "name": "OmniCat",
         "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
@@ -463,6 +475,18 @@
         "chainId": 81457,
         "logoURI": "https://assets.coingecko.com/coins/images/36591/thumb/logo-black-removebg-preview.png?1720047847",
         "coingeckoId": "digicask-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FRAX",
+        "name": "Bridged FRAX",
+        "address": "0x909DBdE1eBE906Af95660033e478D59EFe831fED",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/53060/thumb/frax.jpg?1735171829",
+        "coingeckoId": "bridged-frax",
         "listedIn": [
             "coingecko"
         ]
@@ -896,8 +920,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/blast/0x4300000000000000000000000000000000000004/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "coingecko"
+            "coingecko",
+            "elkfinance"
         ]
     },
     {

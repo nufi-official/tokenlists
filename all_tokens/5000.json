@@ -332,8 +332,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mantle/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "coingecko"
+            "coingecko",
+            "elkfinance"
         ]
     },
     {
@@ -501,6 +501,18 @@
         "chainId": 5000,
         "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927",
         "coingeckoId": "moe-3",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FRAX",
+        "name": "Bridged FRAX",
+        "address": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040",
+        "decimals": 18,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/53060/thumb/frax.jpg?1735171829",
+        "coingeckoId": "bridged-frax",
         "listedIn": [
             "coingecko"
         ]
