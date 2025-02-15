@@ -24,6 +24,18 @@
         ]
     },
     {
+        "symbol": "STGUSDC",
+        "name": "Stargate Bridged USDC  Flow ",
+        "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+        "decimals": 6,
+        "chainId": 747,
+        "logoURI": "https://assets.coingecko.com/coins/images/54417/thumb/USDC_200.png?1739556316",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "FROTH",
         "name": "Froth",
         "address": "0xB73BF8e6A4477a952E0338e6CC00cC0ce5AD04bA",
@@ -42,6 +54,30 @@
         "decimals": 6,
         "chainId": 747,
         "logoURI": "https://assets.coingecko.com/coins/images/50488/thumb/usdc.png?1727927821",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "USDF",
+        "name": "Flow Bridged PYUSD  Flow ",
+        "address": "0x2aaBea2058b5aC2D339b163C6Ab6f2b6d53aabED",
+        "decimals": 6,
+        "chainId": 747,
+        "logoURI": "https://assets.coingecko.com/coins/images/54418/thumb/USDF_Logo_200x200.png?1739556351",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "STGWETH",
+        "name": "Stargate Bridged WETH  Flow ",
+        "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+        "decimals": 18,
+        "chainId": 747,
+        "logoURI": "https://assets.coingecko.com/coins/images/54419/thumb/weth200.png?1739556384",
         "coingeckoId": null,
         "listedIn": [
             "coingecko"
