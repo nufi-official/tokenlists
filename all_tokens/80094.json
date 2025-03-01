@@ -24,6 +24,18 @@
         ]
     },
     {
+        "symbol": "ELK",
+        "name": "Elk",
+        "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+        "decimals": 18,
+        "chainId": 80094,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "ylpumpBTC",
         "name": "CIAN yield layer pumpBTC",
         "address": "0xdCB3D91555385DaE23e6B966b5626aa7A75Be940",
@@ -176,6 +188,7 @@
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x6969696969696969696969696969696969696969/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "elkfinance",
             "joe"
         ]
     },
