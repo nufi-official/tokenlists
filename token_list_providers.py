@@ -281,7 +281,7 @@ class FuseSwapTokenLists(TokenListProvider):
 
 class TrisolarisLabsLists(TokenListProvider):
     name = "trisolaris"
-    base_url = "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/lists/{}/list.json"
+    base_url = "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/lists/tokens.json"
     chains = {
         "1313161554": "1313161554",
     }
