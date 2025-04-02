@@ -574,8 +574,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "dfyn"
+            "dfyn",
+            "coingecko"
         ]
     },
     {
@@ -754,6 +754,18 @@
         "chainId": 59144,
         "logoURI": "https://assets.coingecko.com/coins/images/53060/thumb/frax.jpg?1735171829",
         "coingeckoId": "bridged-frax",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "EURE",
+        "name": "Monerium EUR emoney",
+        "address": "0x3ff47c5Bf409C86533FE1f4907524d304062428D",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "https://assets.coingecko.com/coins/images/54303/thumb/eure.jpg?1739167959",
+        "coingeckoId": "monerium-eur-money-2",
         "listedIn": [
             "coingecko"
         ]

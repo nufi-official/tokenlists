@@ -144,6 +144,18 @@
         ]
     },
     {
+        "symbol": "YNETHX",
+        "name": "ynETH MAX",
+        "address": "0xE231DB5F348d709239Ef1741EA30961B3B635a61",
+        "decimals": 18,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494",
+        "coingeckoId": "yneth-max",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "MNT",
         "name": "Mantle",
         "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
@@ -393,8 +405,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "dfyn"
+            "dfyn",
+            "coingecko"
         ]
     },
     {
