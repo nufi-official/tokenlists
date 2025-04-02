@@ -130,6 +130,10 @@ class CoinGeckoTokenLists(TokenListProvider):
         "81457": "blast",
         "5000": "mantle",
         "747": "flow-evm",
+        "80094": "berachain",
+        "2741": "abstract",
+        "130": "unichain",
+        "8453": "base",
         # sora
     }
     absent_chain_id = True
@@ -147,6 +151,14 @@ class UniswapTokenLists(TokenListProvider):
         "137": "polygon",
         "4": "rinkeby",
         "3": "ropsten",
+        "81457": "blast",
+        "42161": "arbitrum",
+        "43114": "avalanche",
+        "56": "bnb",
+        "42220": "celo",
+        "137": "polygon",
+        "10": "optimism",
+        "8453": "base",
     }
 
 
@@ -199,6 +211,7 @@ class OneInchTokenLists(TokenListProvider):
         "43114": "43114",
         "250": "250",
         "1313161554": "1313161554",
+        "8453": "8453",
     }
     _tokens_to_list = True
     absent_chain_id = True
@@ -252,6 +265,11 @@ class ElkFinanceTokenLists(TokenListProvider):
         "66": "okex",
         "40": "telos",
         "100": "xdai",
+        "8453": "base",
+        "80094": "berachain",
+        "81457": "blast",
+        "59144": "linea",
+        "10": "optimism",
     }
     # "all", "top"
 
