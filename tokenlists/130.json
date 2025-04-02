@@ -1,1 +1,28 @@
-[]
+[
+    {
+        "symbol": "UNI",
+        "name": "Uniswap",
+        "address": "0x8f187aA05619a017077f5308904739877ce9eA21",
+        "decimals": 18,
+        "chainId": 130,
+        "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "name": "USDC",
+        "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+        "decimals": 6,
+        "chainId": 130,
+        "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism",
+            "coingecko"
+        ]
+    }
+]

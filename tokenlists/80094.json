@@ -1,5 +1,96 @@
 [
     {
+        "symbol": "LBTC",
+        "name": "Lombard Staked Bitcoin",
+        "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+        "decimals": 8,
+        "chainId": 80094,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xecAc9C5F704e954931349Da37F60E39f515c11c1/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "iBGT",
+        "name": "Infrared BGT",
+        "address": "0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b",
+        "decimals": 18,
+        "chainId": 80094,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "HONEY",
+        "name": "HONEY",
+        "address": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
+        "decimals": 18,
+        "chainId": 80094,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SolvBTC.BBN",
+        "name": "SolvBTC Babylon",
+        "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+        "decimals": 18,
+        "chainId": 80094,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xCC0966D8418d412c599A6421b760a847eB169A8c/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "uniBTC",
+        "name": "uniBTC",
+        "address": "0xC3827A4BC8224ee2D116637023b124CED6db6e90",
+        "decimals": 8,
+        "chainId": 80094,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xC3827A4BC8224ee2D116637023b124CED6db6e90/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "iBERA",
+        "name": "Infrared BERA",
+        "address": "0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5",
+        "decimals": 18,
+        "chainId": 80094,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+        "decimals": 6,
+        "chainId": 80094,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x779Ded0c9e1022225f8E0630b35a9b54bE713736/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "WBERA",
         "name": "Wrapped Bera",
         "address": "0x6969696969696969696969696969696969696969",
@@ -8,8 +99,74 @@
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x6969696969696969696969696969696969696969/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "joe",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0x549943e04f40284185054145c6E4e9568C1D3241",
+        "decimals": 6,
+        "chainId": 80094,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x549943e04f40284185054145c6E4e9568C1D3241/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SolvBTC",
+        "name": "Solv BTC",
+        "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+        "decimals": 18,
+        "chainId": 80094,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x541FD749419CA806a8bc7da8ac23D346f2dF8B77/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+        "decimals": 18,
+        "chainId": 80094,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "NECT",
+        "name": "NECTAR",
+        "address": "0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3",
+        "decimals": 18,
+        "chainId": 80094,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "decimals": 8,
+        "chainId": 80094,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "coingecko"
         ]
     }
 ]
