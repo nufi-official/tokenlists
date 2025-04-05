@@ -60,6 +60,30 @@
         ]
     },
     {
+        "symbol": "SMT",
+        "name": "Swarm Markets",
+        "address": "0x2fcAb60dc6Ad65be5F2Aae6a1B2E2ecB93017888",
+        "decimals": 18,
+        "chainId": 1135,
+        "logoURI": "https://ethereum-optimism.github.io/data/SMT/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "IDRX",
+        "name": "IDRX",
+        "address": "0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22",
+        "decimals": 2,
+        "chainId": 1135,
+        "logoURI": "https://ethereum-optimism.github.io/data/IDRX/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "USDT",
         "name": "Tether USD",
         "address": "0x05D032ac25d322df992303dCa074EE7392C117b9",
