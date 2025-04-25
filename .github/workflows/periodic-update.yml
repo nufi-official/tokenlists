@@ -2,22 +2,22 @@ name: Periodic Update
 on:
   schedule:
     # Run every second day at 1:00 UTC
-     - cron:  '0 1 */2 * *'
+    - cron: "0 1 */2 * *"
   workflow_dispatch:
 jobs:
   periodic-auto-update:
-    runs-on: ubuntu-latest      
+    runs-on: ubuntu-latest
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
       # added or changed files to the repository.
       contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-          cache: 'pip'
+          python-version: "3.11"
+          cache: "pip"
       - run: pip install -r requirements.txt
 
       - name: Run script that collects tokens
