@@ -34,10 +34,10 @@
         "logoURI": "https://tokens.1inch.io/0xfe712251173a2cd5f5be2b46bb528328ea3565e1.png",
         "coingeckoId": "metaverse-index",
         "listedIn": [
+            "1inch",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -143,9 +143,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xfc39742Fe9420a7Af23757Fc7E78D1c3AE4A9474/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
+            "elkfinance",
             "lifinance",
-            "elkfinance"
+            "dfyn"
         ]
     },
     {
@@ -196,13 +196,13 @@
         "logoURI": "https://tokens.1inch.io/0xfa68fb4628dff1028cfec22b4162fccd0d45efb6.png",
         "coingeckoId": "stader-maticx",
         "listedIn": [
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "dfyn",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -348,8 +348,8 @@
         "listedIn": [
             "openocean",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -362,8 +362,8 @@
         "coingeckoId": "dawn-star-share",
         "listedIn": [
             "coingecko",
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -480,11 +480,11 @@
         "logoURI": "https://tokens.1inch.io/0xf50d05a1402d0adafa880d36050736f9f6ee7dee.png",
         "coingeckoId": "instadapp",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "sushiswap",
             "1inch",
-            "lifinance",
-            "coingecko",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -525,8 +525,8 @@
         "coingeckoId": "trufin-staked-matic",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -577,9 +577,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xf2ae0038696774d65E67892c9D301C5f2CbbDa58/logo.png",
         "coingeckoId": "cargox",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -670,8 +670,8 @@
         "coingeckoId": "blockv",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -696,9 +696,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xf153EfF70DC0bf3b085134928daeEA248d9B30d0/logo.png",
         "coingeckoId": "xmark",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -710,9 +710,9 @@
         "logoURI": "https://tokens.1inch.io/0xf1428850f92b87e629c6f3a3b75bffbc496f7ba6.png",
         "coingeckoId": "geopoly",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -765,8 +765,8 @@
         "coingeckoId": "shardus",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -927,10 +927,10 @@
         "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png",
         "coingeckoId": "elk-finance",
         "listedIn": [
-            "elkfinance",
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "elkfinance",
+            "lifinance"
         ]
     },
     {
@@ -943,8 +943,8 @@
         "coingeckoId": "the-doge-nft",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -955,6 +955,19 @@
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/17175/thumb/BED_Logo_-_No_border.png?1626833695",
         "coingeckoId": "bankless-bed-index",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "AITT",
+        "name": "Aittcoin",
+        "address": "0xeEC2e29FF5CD4ceCea61De09e9f28Fae74c70dDD",
+        "decimals": 8,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/36100/thumb/aittcoin.png?1710482811",
+        "coingeckoId": "aittcoin",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -996,10 +1009,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xeCf8f2FA183b1C4d2A269BF98A54fCe86C812d3e/logo.png",
         "coingeckoId": "cyberfi",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
             "rubic",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -1093,9 +1106,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xe86E8beb7340659DDDCE61727E500e3A5aD75a90/logo.png",
         "coingeckoId": "zero-utility-token",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -1120,10 +1133,10 @@
         "logoURI": "https://tokens.1inch.io/0xe8377a076adabb3f9838afb77bee96eac101ffb1.png",
         "coingeckoId": "metasoccer",
         "listedIn": [
+            "1inch",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -1135,12 +1148,12 @@
         "logoURI": "https://tokens.1inch.io/0x72f020f8f3e8fd9382705723cd26380f8d0c66bb.png",
         "coingeckoId": "plotx",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "1inch",
-            "quickswap",
-            "rubic",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -1180,13 +1193,13 @@
         "logoURI": "https://tokens.1inch.io/0xe6fc6c7cb6d2c31b359a49a33ef08ab87f4de7ce.png",
         "coingeckoId": "ig-gold",
         "listedIn": [
+            "coingecko",
+            "rubic",
+            "dfyn",
             "elkfinance",
             "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -1225,10 +1238,10 @@
         "logoURI": "https://assets.coingecko.com/coins/images/28600/thumb/bonk.jpg?1696527587",
         "coingeckoId": "bonk",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "xyfinance",
             "rubic",
-            "1inch"
+            "xyfinance"
         ]
     },
     {
@@ -1267,8 +1280,8 @@
         "coingeckoId": "dodo",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1281,8 +1294,8 @@
         "coingeckoId": "spiko-us-t-bills-money-market-fund",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1307,9 +1320,22 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27548/thumb/GU_yPtme_400x400.jpeg?1664442276",
         "coingeckoId": "partyfi",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "RENEW",
+        "name": "ReNeW",
+        "address": "0xe3FdD286e810A838da30E5872e841fe80729d101",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/55304/thumb/Logo_200_200.png?1745309291",
+        "coingeckoId": "renew",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -1347,9 +1373,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/24094/thumb/logo-footer-356.88b37f33.png?1646364881",
         "coingeckoId": "rebel-bots",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -1374,9 +1400,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xe20f7d1f0eC39C4d5DB01f53554F2EF54c71f613/logo.png",
         "coingeckoId": "matic-aave-yfi",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -1388,8 +1414,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/15600/small/BIOS_01.png?1621737736",
         "coingeckoId": "bios",
         "listedIn": [
-            "coingecko",
             "quickswap",
+            "coingecko",
             "lifinance"
         ]
     },
@@ -1547,10 +1573,10 @@
         "logoURI": "https://tokens.1inch.io/0xdb725f82818de83e99f1dac22a9b5b51d3d04dd4.png",
         "coingeckoId": "get-token",
         "listedIn": [
+            "1inch",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -1577,8 +1603,8 @@
         "listedIn": [
             "quickswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1590,11 +1616,11 @@
         "logoURI": "https://tokens.1inch.io/0xdab35042e63e93cc8556c9bae482e5415b5ac4b1.png",
         "coingeckoId": "iris-token-2",
         "listedIn": [
-            "1inch",
-            "dfyn",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "dfyn",
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -1619,14 +1645,14 @@
         "logoURI": "https://tokens.1inch.io/0x467bccd9d29f223bce8043b84e8c8b282827790f.png",
         "coingeckoId": "telcoin",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "openocean",
-            "1inch",
-            "quickswap",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "elkfinance",
+            "1inch",
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -1722,8 +1748,8 @@
         "coingeckoId": "binance-usd",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1761,10 +1787,10 @@
         "logoURI": "https://tokens.1inch.io/0xd99bafe5031cc8b345cb2e8c80135991f12d7130.png",
         "coingeckoId": "ferrum-network",
         "listedIn": [
+            "1inch",
             "coingecko",
             "dfyn",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -1789,10 +1815,10 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22876/thumb/SOL_wh_small.png?1644224316",
         "coingeckoId": "sol-wormhole",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "xyfinance",
             "lifinance",
-            "1inch"
+            "xyfinance"
         ]
     },
     {
@@ -1817,10 +1843,10 @@
         "logoURI": "https://tokens.1inch.io/0xd8ca34fd379d9ca3c6ee3b3905678320f5b45195.png",
         "coingeckoId": "governance-ohm",
         "listedIn": [
+            "1inch",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -1871,10 +1897,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xd7ecf95Cf7eF5256990BeAf4ac895cD9e64cb947/logo.png",
         "coingeckoId": "ptokens-btc-2",
         "listedIn": [
+            "elkfinance",
             "quickswap",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -2045,11 +2071,11 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12257/thumb/chain-logo-centered-500x500.png?1599617244",
         "coingeckoId": "chain-games",
         "listedIn": [
-            "1inch",
-            "quickswap",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -2165,11 +2191,11 @@
         "logoURI": "https://tokens.1inch.io/0xd28449bb9bb659725accad52947677cce3719fd7.png",
         "coingeckoId": "dark-matter",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "1inch",
-            "lifinance",
-            "coingecko",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -2208,8 +2234,8 @@
         "coingeckoId": "mimir-token",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2260,14 +2286,14 @@
         "logoURI": "https://tokens.1inch.io/0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f.png",
         "coingeckoId": "voxies",
         "listedIn": [
-            "sushiswap",
             "uniswap",
-            "openocean",
+            "coingecko",
             "xyfinance",
             "1inch",
-            "quickswap",
-            "coingecko",
-            "lifinance"
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -2321,8 +2347,8 @@
         "coingeckoId": "opacity",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2347,10 +2373,10 @@
         "logoURI": "https://tokens.1inch.io/0xcd7361ac3307d1c5a46b63086a90742ff44c63b3.png",
         "coingeckoId": "crypto-raiders",
         "listedIn": [
+            "1inch",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -2444,10 +2470,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xcE829A89d4A55a63418bcC43F00145adef0eDB8E/logo.png",
         "coingeckoId": "rendoge",
         "listedIn": [
+            "elkfinance",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -2460,8 +2486,8 @@
         "coingeckoId": "vyvo-smart-chain",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2527,10 +2553,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xcBce9f77921C2E90522d438dF4C5582F4c617768/logo.png",
         "coingeckoId": "aga-carbon-rewards",
         "listedIn": [
+            "elkfinance",
             "coingecko",
             "dfyn",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -2581,9 +2607,9 @@
         "logoURI": "https://tokens.1inch.io/0xc75ea0c71023c14952f3c7b9101ecbbaa14aa27a.png",
         "coingeckoId": "scalara-nft-index",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -2596,8 +2622,8 @@
         "coingeckoId": "human-protocol",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2696,8 +2722,8 @@
         "listedIn": [
             "quickswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2751,8 +2777,8 @@
         "coingeckoId": "crvusd",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2805,8 +2831,8 @@
         "coingeckoId": "rubic",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2818,14 +2844,14 @@
         "logoURI": "https://tokens.1inch.io/0xc3fdbadc7c795ef1d6ba111e06ff8f16a20ea539.png",
         "coingeckoId": "adamant",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "openocean",
-            "1inch",
-            "quickswap",
-            "dfyn",
             "coingecko",
-            "lifinance"
+            "elkfinance",
+            "1inch",
+            "dfyn",
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -2865,8 +2891,8 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "rubic",
-            "lifinance"
+            "lifinance",
+            "rubic"
         ]
     },
     {
@@ -2878,17 +2904,17 @@
         "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
         "coingeckoId": "tether",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
             "uniswap",
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "1inch",
+            "dfyn",
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -2900,9 +2926,9 @@
         "logoURI": "https://tokens.1inch.io/0xc1c93d475dc82fe72dbc7074d55f5a734f8ceeae.png",
         "coingeckoId": "pegaxy-stone",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -2981,8 +3007,8 @@
         "logoURI": "https://afksystem.finance/images/tokens/silver.svg",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -3033,8 +3059,8 @@
         "logoURI": "https://raw.githubusercontent.com/Palette-Finance/images/main/nebula.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -3046,10 +3072,10 @@
         "logoURI": null,
         "coingeckoId": "ox-fun",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
             "rubic",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -3063,8 +3089,8 @@
         "listedIn": [
             "quickswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3116,9 +3142,9 @@
         "coingeckoId": "glitch-protocol",
         "listedIn": [
             "coingecko",
+            "rubic",
             "dfyn",
-            "lifinance",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -3143,9 +3169,9 @@
         "logoURI": "https://tokens.1inch.io/0xbd1463f02f61676d53fd183c2b19282bff93d099.png",
         "coingeckoId": "jarvis-synthetic-swiss-franc",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -3210,9 +3236,9 @@
         "logoURI": "https://tokens.1inch.io/0xba3cb8329d442e6f9eb70fafe1e214251df3d275.png",
         "coingeckoId": "swash",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -3225,8 +3251,8 @@
         "coingeckoId": "ousg",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3304,8 +3330,8 @@
         "coingeckoId": "karmaverse",
         "listedIn": [
             "coingecko",
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -3318,8 +3344,8 @@
         "coingeckoId": "datamine",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3397,8 +3423,8 @@
         "coingeckoId": "real-usd",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3463,8 +3489,8 @@
         "coingeckoId": "port3-network",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3529,17 +3555,17 @@
         "logoURI": "https://tokens.1inch.io/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png",
         "coingeckoId": "uniswap",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
             "uniswap",
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "1inch",
+            "dfyn",
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -3669,9 +3695,9 @@
         "coingeckoId": "autonio",
         "listedIn": [
             "coingecko",
+            "rubic",
             "dfyn",
-            "lifinance",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -3749,12 +3775,12 @@
         "logoURI": "https://tokens.1inch.io/0xa0246c9032bc3a600820415ae600c6388619a14d.png",
         "coingeckoId": "ifarm",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "1inch",
-            "quickswap",
-            "rubic",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -3820,8 +3846,8 @@
         "listedIn": [
             "quickswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3898,8 +3924,8 @@
         "logoURI": "https://omni.ai/images/cf5b6ec4.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -3911,11 +3937,11 @@
         "logoURI": "https://tokens.1inch.io/0xaaa5b9e6c589642f98a1cda99b9d024b8407285a.png",
         "coingeckoId": "iron-titanium-token",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "1inch",
-            "dfyn",
             "coingecko",
+            "dfyn",
+            "elkfinance",
+            "sushiswap",
+            "1inch",
             "lifinance"
         ]
     },
@@ -3982,8 +4008,8 @@
         "listedIn": [
             "quickswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -4008,11 +4034,11 @@
         "logoURI": "https://tokens.1inch.io/0xa69d14d6369e414a32a5c7e729b7afbafd285965.png",
         "coingeckoId": "global-coin-research",
         "listedIn": [
-            "1inch",
-            "quickswap",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -4038,8 +4064,8 @@
         "coingeckoId": "sathosi-airlines-token",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -4092,9 +4118,9 @@
         "coingeckoId": "frontier-token",
         "listedIn": [
             "coingecko",
+            "rubic",
             "dfyn",
-            "lifinance",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -4106,16 +4132,16 @@
         "logoURI": "https://tokens.1inch.io/0xa3fa99a148fa48d14ed51d610c367c61876997f1.png",
         "coingeckoId": "mimatic",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
             "coingecko",
+            "xyfinance",
+            "elkfinance",
+            "1inch",
+            "dfyn",
+            "sushiswap",
+            "RouterProtocol",
+            "openocean",
             "lifinance",
-            "RouterProtocol"
+            "quickswap"
         ]
     },
     {
@@ -4155,9 +4181,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xa1C09C8F4f5D03fcC27b456475d53d988e98D7C5/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
+            "elkfinance",
             "lifinance",
-            "elkfinance"
+            "dfyn"
         ]
     },
     {
@@ -4169,11 +4195,11 @@
         "logoURI": "https://tokens.1inch.io/0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55.png",
         "coingeckoId": "superfarm",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "1inch",
-            "lifinance",
-            "coingecko",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -4185,10 +4211,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xa0E390e9ceA0D0e8cd40048ced9fA9EA10D71639/logo.png",
         "coingeckoId": "stacktical",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "quickswap",
-            "rubic",
-            "coingecko",
             "lifinance"
         ]
     },
@@ -4202,8 +4228,8 @@
         "coingeckoId": "eutbl",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -4229,10 +4255,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xFeD16c746CB5BFeD009730f9E3e6A673006105c7/logo.png",
         "coingeckoId": "digital-reserve-currency",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
             "rubic",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -4270,10 +4296,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xFdc26CDA2d2440d0E83CD1DeE8E8bE48405806DC/logo.png",
         "coingeckoId": "btu-protocol",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
             "rubic",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -4337,13 +4363,13 @@
         "logoURI": "https://tokens.1inch.io/0xca3f508b8e4dd382ee878a314789373d80a5190a.png",
         "coingeckoId": "beefy-finance",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
             "coingecko",
-            "lifinance"
+            "dfyn",
+            "elkfinance",
+            "sushiswap",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -4437,8 +4463,8 @@
         "listedIn": [
             "coingecko",
             "rubic",
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -4469,6 +4495,19 @@
         ]
     },
     {
+        "symbol": "PME",
+        "name": "PCO Metaverse",
+        "address": "0xFD1eEb2f3399872735f3Df735816c4FC607E12C4",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/37734/thumb/pme.png?1715337514",
+        "coingeckoId": "pco-metaverse",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ACPT",
         "name": "Crypto Accept (PoS)",
         "address": "0xFCf1E2fC0A398925ddb09222842b376E3A7D573B",
@@ -4491,8 +4530,8 @@
         "coingeckoId": "apollo-diversified-credit-securitize-fund",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -4610,8 +4649,8 @@
         "coingeckoId": "insure",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -4650,12 +4689,12 @@
         "logoURI": "https://tokens.1inch.io/0xb453f1f2ee776daf2586501361c457db70e1ca0f.png",
         "coingeckoId": "aga-rewards-2",
         "listedIn": [
-            "elkfinance",
-            "openocean",
-            "1inch",
-            "dfyn",
-            "rubic",
             "coingecko",
+            "rubic",
+            "dfyn",
+            "elkfinance",
+            "1inch",
+            "openocean",
             "lifinance"
         ]
     },
@@ -4748,9 +4787,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xF4b8888427b00d7caf21654408B7CBA2eCf4EbD9/logo.png",
         "coingeckoId": "matic-aave-tusd",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -4762,11 +4801,11 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xF4B0903774532AEe5ee567C02aaB681a81539e92/logo.png",
         "coingeckoId": "gaj",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "openocean",
-            "dfyn",
             "coingecko",
+            "dfyn",
+            "elkfinance",
+            "sushiswap",
+            "openocean",
             "lifinance"
         ]
     },
@@ -4807,8 +4846,8 @@
         "coingeckoId": "across-protocol",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -4846,9 +4885,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xF239E69ce434c7Fb408b05a0Da416b14917d934e/logo.png",
         "coingeckoId": "polyshield",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -4875,11 +4914,11 @@
         "logoURI": "https://tokens.1inch.io/0xee9801669c6138e84bd50deb500827b776777d28.png",
         "coingeckoId": "o3-swap",
         "listedIn": [
-            "1inch",
-            "quickswap",
-            "dfyn",
             "coingecko",
-            "lifinance"
+            "dfyn",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -4893,8 +4932,8 @@
         "listedIn": [
             "coingecko",
             "rubic",
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -5030,8 +5069,8 @@
         "listedIn": [
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -5232,8 +5271,8 @@
         "coingeckoId": "chimaera",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -5245,10 +5284,10 @@
         "logoURI": "https://tokens.1inch.io/0xe7804d91dfcde7f776c90043e03eaa6df87e6395.png",
         "coingeckoId": "dfx-finance",
         "listedIn": [
+            "coingecko",
+            "1inch",
             "sushiswap",
             "openocean",
-            "1inch",
-            "coingecko",
             "lifinance"
         ]
     },
@@ -5301,8 +5340,8 @@
         "coingeckoId": null,
         "listedIn": [
             "coingecko",
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -5315,8 +5354,8 @@
         "coingeckoId": "terrausd-wormhole",
         "listedIn": [
             "coingecko",
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -5342,8 +5381,8 @@
         "coingeckoId": "swarm-markets",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -5356,8 +5395,8 @@
         "coingeckoId": "bit2me",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -5408,14 +5447,14 @@
         "logoURI": "https://tokens.1inch.io/0xe5417af564e4bfda1c483642db72007871397896.png",
         "coingeckoId": "gains-network",
         "listedIn": [
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "dfyn",
+            "1inch",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -5520,8 +5559,8 @@
         "coingeckoId": "tellor",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -5559,9 +5598,9 @@
         "logoURI": "https://tokens.1inch.io/0xe2aa7db6da1dae97c5f5c6914d285fbfcc32a128.png",
         "coingeckoId": "par-stablecoin",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -5574,8 +5613,8 @@
         "coingeckoId": "dimo",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -5680,10 +5719,10 @@
         "logoURI": "https://tokens.1inch.io/0xe111178a87a3bff0c8d18decba5798827539ae99.png",
         "coingeckoId": "stasis-eurs",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
             "rubic",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -5695,9 +5734,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xE0b22E0037B130A9F56bBb537684E6fA18192341/logo.png",
         "coingeckoId": "matic-aave-dai",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -5722,11 +5761,11 @@
         "logoURI": "https://tokens.1inch.io/0xe0b52e49357fd4daf2c15e02058dce6bc0057db4.png",
         "coingeckoId": "ageur",
         "listedIn": [
+            "coingecko",
             "elkfinance",
             "1inch",
-            "quickswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -5755,8 +5794,8 @@
         "listedIn": [
             "quickswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -5781,11 +5820,11 @@
         "logoURI": "https://assets.coingecko.com/coins/images/26246/small/ATSRA_Token.png?1657276411",
         "coingeckoId": "astrafer",
         "listedIn": [
-            "1inch",
-            "quickswap",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -5836,10 +5875,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xDb3b3b147A030F032633f6C4BEBf9a2fB5a882B5/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
+            "elkfinance",
             "lifinance",
             "rubic",
-            "elkfinance"
+            "dfyn"
         ]
     },
     {
@@ -5930,8 +5969,8 @@
         "coingeckoId": null,
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -5956,9 +5995,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12832/thumb/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1633936813",
         "coingeckoId": "xsgd",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -5983,10 +6022,10 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xDBf31dF14B66535aF65AaC99C32e9eA844e14501/logo.png",
         "coingeckoId": "renbtc",
         "listedIn": [
+            "1inch",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -5998,9 +6037,9 @@
         "logoURI": "https://tokens.1inch.io/0xdb7cb471dd0b49b29cab4a1c14d070f27216a0ab.png",
         "coingeckoId": "bankless-dao",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -6052,11 +6091,11 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xDA537104D6A5edd53c6fBba9A898708E465260b6/logo.png",
         "coingeckoId": "yearn-finance",
         "listedIn": [
-            "elkfinance",
             "uniswap",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "elkfinance",
+            "lifinance"
         ]
     },
     {
@@ -6094,10 +6133,10 @@
         "logoURI": "https://tokens.1inch.io/0xd86b5923f3ad7b585ed81b448170ae026c65ae9a.png",
         "coingeckoId": "iron-stablecoin",
         "listedIn": [
+            "coingecko",
+            "dfyn",
             "sushiswap",
             "1inch",
-            "dfyn",
-            "coingecko",
             "lifinance"
         ]
     },
@@ -6110,12 +6149,12 @@
         "logoURI": "https://tokens.1inch.io/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d.png",
         "coingeckoId": "celsius-degree-token",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "openocean",
-            "1inch",
-            "rubic",
             "coingecko",
+            "rubic",
+            "elkfinance",
+            "1inch",
+            "sushiswap",
+            "openocean",
             "lifinance"
         ]
     },
@@ -6141,10 +6180,10 @@
         "logoURI": "https://tokens.1inch.io/0xd838290e877e0188a4a44700463419ed96c16107.png",
         "coingeckoId": "toucan-protocol-nature-carbon-tonne",
         "listedIn": [
+            "1inch",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -6156,8 +6195,8 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7846.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -6182,17 +6221,17 @@
         "logoURI": "https://tokens.1inch.io/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png",
         "coingeckoId": "aave",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
             "uniswap",
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "1inch",
+            "dfyn",
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -6243,9 +6282,9 @@
         "logoURI": "https://tokens.1inch.io/0xd52f6ca48882be8fbaa98ce390db18e1dbe1062d.png",
         "coingeckoId": "ptokens-ore",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -6257,9 +6296,9 @@
         "logoURI": "https://tokens.1inch.io/0xd4945a3d0de9923035521687d4bf18cc9b0c7c2a.png",
         "coingeckoId": "luxy",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -6421,8 +6460,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/16130/small/boty.PNG?1623052148",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -6476,8 +6515,8 @@
         "logoURI": "https://i.imgur.com/8ItdsvJ.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -6724,10 +6763,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828/logo.png",
         "coingeckoId": "razor-network",
         "listedIn": [
+            "elkfinance",
             "coingecko",
             "dfyn",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -6792,10 +6831,10 @@
         "logoURI": "https://tokens.1inch.io/0xc5b57e9a1e7914fda753a88f24e5703e617ee50c.png",
         "coingeckoId": "popcorn",
         "listedIn": [
+            "1inch",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -6846,13 +6885,13 @@
         "logoURI": "https://tokens.1inch.io/0x3593d125a4f7849a1b059e64f4517a86dd60c95d.png",
         "coingeckoId": "mantra-dao",
         "listedIn": [
+            "coingecko",
+            "rubic",
+            "dfyn",
             "elkfinance",
             "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -6864,12 +6903,12 @@
         "logoURI": "https://tokens.1inch.io/0xc3c7d422809852031b44ab29eec9f1eff2a58756.png",
         "coingeckoId": "lido-dao",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "xyfinance",
             "1inch",
-            "quickswap",
-            "rubic",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -6921,8 +6960,8 @@
         "coingeckoId": "gamebitcoin-power",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -6975,9 +7014,9 @@
         "logoURI": "https://tokens.1inch.io/0xc19669a405067927865b40ea045a2baabbbe57f5.png",
         "coingeckoId": "preon-star",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -7004,10 +7043,10 @@
         "logoURI": "https://tokens.1inch.io/0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97.png",
         "coingeckoId": "dfyn-network",
         "listedIn": [
-            "openocean",
-            "1inch",
-            "dfyn",
             "coingecko",
+            "dfyn",
+            "1inch",
+            "openocean",
             "lifinance"
         ]
     },
@@ -7073,11 +7112,11 @@
         "logoURI": "https://tokens.1inch.io/0xc004e2318722ea2b15499d6375905d75ee5390b8.png",
         "coingeckoId": "kommunitas",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "1inch",
-            "quickswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -7128,13 +7167,26 @@
         "logoURI": "https://tokens.1inch.io/0xbbba073c31bf03b8acf7c28ef0738decf3695683.png",
         "coingeckoId": "the-sandbox",
         "listedIn": [
+            "coingecko",
+            "rubic",
+            "xyfinance",
+            "dfyn",
+            "1inch",
             "sushiswap",
             "openocean",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
+            "lifinance",
+            "quickswap"
+        ]
+    },
+    {
+        "symbol": "FSTR",
+        "name": "Fourth Star",
+        "address": "0xBaB4286B2Bf88e070DA0aae411A168059B040E7f",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/55246/thumb/fstr.jpeg?1744959128",
+        "coingeckoId": "fourth-star",
+        "listedIn": [
             "coingecko",
             "lifinance"
         ]
@@ -7161,9 +7213,9 @@
         "logoURI": "https://tokens.1inch.io/0xbfa35599c7aebb0dace9b5aa3ca5f2a79624d8eb.png",
         "coingeckoId": "retro-finance",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -7228,8 +7280,8 @@
         "coingeckoId": "rigoblock",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -7281,10 +7333,10 @@
         "logoURI": "https://tokens.1inch.io/0xb9638272ad6998708de56bbc0a290a1de534a578.png",
         "coingeckoId": "everipedia",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
             "rubic",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -7336,8 +7388,8 @@
         "coingeckoId": "apecoin",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -7349,9 +7401,9 @@
         "logoURI": "https://tokens.1inch.io/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
             "quickswap",
             "lifinance",
+            "elkfinance",
             "1inch"
         ]
     },
@@ -7404,11 +7456,11 @@
         "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png",
         "coingeckoId": "quickswap",
         "listedIn": [
-            "1inch",
-            "quickswap",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -7502,11 +7554,11 @@
         "logoURI": "https://tokens.1inch.io/0xb25e20de2f2ebb4cffd4d16a55c7b395e8a94762.png",
         "coingeckoId": "request-network",
         "listedIn": [
-            "1inch",
-            "quickswap",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -7518,8 +7570,8 @@
         "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/polysafe_32.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -7532,8 +7584,8 @@
         "coingeckoId": "multibit",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -7546,8 +7598,8 @@
         "coingeckoId": "atari",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -7601,8 +7653,8 @@
         "coingeckoId": "edu-coin",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -7666,10 +7718,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "elkfinance",
             "sushiswap",
-            "dfyn",
             "lifinance",
-            "elkfinance"
+            "dfyn"
         ]
     },
     {
@@ -7695,9 +7747,9 @@
         "coingeckoId": "dinoswap",
         "listedIn": [
             "openocean",
+            "sushiswap",
             "coingecko",
-            "lifinance",
-            "sushiswap"
+            "lifinance"
         ]
     },
     {
@@ -7710,8 +7762,8 @@
         "coingeckoId": null,
         "listedIn": [
             "quickswap",
-            "dfyn",
             "lifinance",
+            "dfyn",
             "1inch"
         ]
     },
@@ -7725,8 +7777,8 @@
         "coingeckoId": "ioi-token",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -7778,8 +7830,8 @@
         "coingeckoId": "quantcheck",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -7791,9 +7843,9 @@
         "logoURI": "https://tokens.1inch.io/0xadac33f543267c4d59a8c299cf804c303bc3e4ac.png",
         "coingeckoId": "mimo-parallel-governance-token",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -7819,8 +7871,8 @@
         "coingeckoId": "ipmb",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -7848,8 +7900,8 @@
         "listedIn": [
             "quickswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -7901,11 +7953,11 @@
         "logoURI": "https://tokens.1inch.io/0xa9536b9c75a9e0fae3b56a96ac8edf76abc91978.png",
         "coingeckoId": "polygon-ecosystem-index",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "1inch",
-            "quickswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -7959,8 +8011,8 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "rubic",
-            "lifinance"
+            "lifinance",
+            "rubic"
         ]
     },
     {
@@ -7998,9 +8050,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xA79E0Bfc579c709819f4A0E95d4597f03093B011/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
+            "elkfinance",
             "lifinance",
-            "elkfinance"
+            "dfyn"
         ]
     },
     {
@@ -8039,9 +8091,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F/logo.png",
         "coingeckoId": "wbnb",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -8066,11 +8118,11 @@
         "logoURI": "https://tokens.1inch.io/0xa55870278d6389ec5b524553d03c04f5677c061e.png",
         "coingeckoId": "xcad-network",
         "listedIn": [
-            "1inch",
-            "quickswap",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -8108,9 +8160,9 @@
         "logoURI": "https://tokens.1inch.io/0xa486c6bc102f409180ccb8a94ba045d39f8fc7cb.png",
         "coingeckoId": "neon-exchange",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -8189,16 +8241,16 @@
         "logoURI": "https://tokens.1inch.io/0x0f5d2fb29fb7d3cfee444a200298f468908cc942.png",
         "coingeckoId": "decentraland",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
             "uniswap",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "dfyn",
+            "sushiswap",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -8317,8 +8369,8 @@
         "coingeckoId": "forta",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -8397,9 +8449,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x9e01e0A928588aE6E669b8d1F0f1fa4AB976f617/logo.png",
         "coingeckoId": "showcase-token",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -8437,8 +8489,8 @@
         "logoURI": "https://polygonscan.com/token/images/alphadune_32.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -8451,9 +8503,9 @@
         "coingeckoId": "openocean",
         "listedIn": [
             "openocean",
-            "quickswap",
             "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -8507,8 +8559,8 @@
         "coingeckoId": "1inch",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -8547,13 +8599,13 @@
         "logoURI": "https://tokens.1inch.io/0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3.png",
         "coingeckoId": "balancer",
         "listedIn": [
-            "sushiswap",
             "uniswap",
-            "openocean",
+            "coingecko",
+            "rubic",
             "xyfinance",
             "1inch",
-            "rubic",
-            "coingecko",
+            "sushiswap",
+            "openocean",
             "lifinance"
         ]
     },
@@ -8620,8 +8672,8 @@
         "coingeckoId": null,
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -8660,10 +8712,10 @@
         "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x9c9e5fd8bbc25984b178fdce6117defa39d2db39/588ad5043e23b6c46aeda945852c3273.png",
         "coingeckoId": null,
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
             "rubic",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -8675,12 +8727,12 @@
         "logoURI": "https://tokens.1inch.io/0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f.png",
         "coingeckoId": "must",
         "listedIn": [
-            "elkfinance",
-            "openocean",
-            "1inch",
-            "dfyn",
-            "rubic",
             "coingecko",
+            "rubic",
+            "dfyn",
+            "elkfinance",
+            "1inch",
+            "openocean",
             "lifinance"
         ]
     },
@@ -8694,8 +8746,8 @@
         "coingeckoId": "phoenix-token",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -8707,9 +8759,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22630/thumb/MB1aYO7T_400x400.jpg?1642342656",
         "coingeckoId": "btc-proxy",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -8749,8 +8801,8 @@
         "coingeckoId": "boson-protocol",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -8827,9 +8879,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x98ea609569bD25119707451eF982b90E3eb719cD/logo.png",
         "coingeckoId": "matic-aave-link",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -8881,10 +8933,10 @@
         "logoURI": "https://tokens.1inch.io/0x980111ae1b84e50222c8843e3a7a038f36fecd2b.png",
         "coingeckoId": "stackos",
         "listedIn": [
+            "1inch",
             "coingecko",
             "dfyn",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -8922,10 +8974,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x9719d867A500Ef117cC201206B8ab51e794d3F82/logo.png",
         "coingeckoId": "matic-aave-usdc",
         "listedIn": [
+            "elkfinance",
             "openocean",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -8950,8 +9002,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/9805/small/Tu1_NI3s_%281%29.png?1614745476",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -9004,8 +9056,8 @@
         "coingeckoId": null,
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -9256,8 +9308,8 @@
         "coingeckoId": "autosingle",
         "listedIn": [
             "coingecko",
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -9374,9 +9426,9 @@
         "logoURI": "https://tokens.1inch.io/0x90f3edc7d5298918f7bb51694134b07356f7d0c7.png",
         "coingeckoId": "defi-hunters-dao",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -9482,9 +9534,9 @@
         "logoURI": "https://tokens.1inch.io/0x8f6196901a4a153d8ee8f3fa779a042f6092d908.png",
         "coingeckoId": "dxsale-network",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -9496,17 +9548,17 @@
         "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
         "coingeckoId": "dai",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
             "uniswap",
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "1inch",
+            "dfyn",
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -9531,12 +9583,12 @@
         "logoURI": "https://tokens.1inch.io/0x8f18dc399594b451eda8c5da02d0563c0b2d0f16.png",
         "coingeckoId": "moonwolf-io",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "openocean",
-            "1inch",
-            "rubic",
             "coingecko",
+            "rubic",
+            "elkfinance",
+            "1inch",
+            "sushiswap",
+            "openocean",
             "lifinance"
         ]
     },
@@ -9576,10 +9628,10 @@
         "logoURI": "https://tokens.1inch.io/0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4.png",
         "coingeckoId": "aave-polygon-wmatic",
         "listedIn": [
-            "elkfinance",
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "elkfinance",
+            "lifinance"
         ]
     },
     {
@@ -9606,10 +9658,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x8d1566569d5b695d44a9a234540f68D393cDC40D/logo.png",
         "coingeckoId": "gamecredits",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "quickswap",
-            "rubic",
-            "coingecko",
             "lifinance"
         ]
     },
@@ -9714,11 +9766,11 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x8a2870fb69A90000D6439b7aDfB01d4bA383A415/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap",
+            "rubic",
             "elkfinance",
+            "sushiswap",
             "openocean",
-            "lifinance",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -9731,8 +9783,8 @@
         "coingeckoId": "vicicoin",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -9744,10 +9796,10 @@
         "logoURI": "https://tokens.1inch.io/0x8a0e8b4b0903929f47c3ea30973940d4a9702067.png",
         "coingeckoId": "insurace",
         "listedIn": [
+            "1inch",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -9838,8 +9890,8 @@
         "coingeckoId": "vanar-chain",
         "listedIn": [
             "uniswap",
-            "rubic",
             "coingecko",
+            "rubic",
             "lifinance"
         ]
     },
@@ -9866,10 +9918,10 @@
         "logoURI": "https://tokens.1inch.io/0x8c92e38eca8210f4fcbf17f0951b198dd7668292.png",
         "coingeckoId": "dhedge-dao",
         "listedIn": [
+            "1inch",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -9881,9 +9933,9 @@
         "logoURI": "https://tokens.1inch.io/0x8c4476dfec8e7eedf2de3e9e9461b7c14c828d46.png",
         "coingeckoId": "unix",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -9895,14 +9947,14 @@
         "logoURI": "https://tokens.1inch.io/0x8a953cfe442c5e8855cc6c61b1293fa648bae472.png",
         "coingeckoId": "polydoge",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "openocean",
-            "1inch",
-            "quickswap",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "elkfinance",
+            "1inch",
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -9914,9 +9966,9 @@
         "logoURI": "https://tokens.1inch.io/0x89ef0900b0a6b5548ab2ff58ef588f9433b5fcf5.png",
         "coingeckoId": "carbon",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -10008,9 +10060,9 @@
         "logoURI": "https://tokens.1inch.io/0x8839e639f210b80ffea73aedf51baed8dac04499.png",
         "coingeckoId": "decentraweb",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -10061,11 +10113,11 @@
         "logoURI": "https://tokens.1inch.io/0x8765f05adce126d70bcdf1b0a48db573316662eb.png",
         "coingeckoId": "playdapp",
         "listedIn": [
-            "openocean",
-            "1inch",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "1inch",
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -10156,8 +10208,8 @@
         "coingeckoId": "mad-meerkat-optimizer-polygon",
         "listedIn": [
             "coingecko",
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -10169,10 +10221,10 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png?1600051053",
         "coingeckoId": "defipulse-index",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "sushiswap",
             "quickswap",
-            "rubic",
-            "coingecko",
             "lifinance"
         ]
     },
@@ -10198,8 +10250,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14101/small/Group-423.png?1614317472",
         "coingeckoId": "wowswap",
         "listedIn": [
-            "sushiswap",
             "quickswap",
+            "sushiswap",
             "coingecko",
             "lifinance"
         ]
@@ -10213,15 +10265,15 @@
         "logoURI": "https://tokens.1inch.io/0xc00e94cb662c3520282e6f5717214004a7f26888.png",
         "coingeckoId": "compound-governance-token",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
             "uniswap",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "sushiswap",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -10299,13 +10351,13 @@
         "logoURI": "https://tokens.1inch.io/0x99fe3b1391503a1bc1788051347a1324bff41452.png",
         "coingeckoId": "sx-network",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "openocean",
-            "1inch",
-            "dfyn",
-            "rubic",
             "coingecko",
+            "rubic",
+            "dfyn",
+            "elkfinance",
+            "1inch",
+            "sushiswap",
+            "openocean",
             "lifinance"
         ]
     },
@@ -10344,8 +10396,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x839F1a22A59eAAf26c85958712aB32F80FEA23d9/logo.png",
         "coingeckoId": "axion",
         "listedIn": [
-            "sushiswap",
             "quickswap",
+            "sushiswap",
             "coingecko",
             "lifinance"
         ]
@@ -10360,8 +10412,8 @@
         "coingeckoId": null,
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -10399,11 +10451,11 @@
         "logoURI": "https://tokens.1inch.io/0x8346ab8d5ea7a9db0209aed2d1806afa0e2c4c21.png",
         "coingeckoId": "modefi",
         "listedIn": [
-            "1inch",
-            "quickswap",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -10441,15 +10493,15 @@
         "logoURI": "https://tokens.1inch.io/0x6c28aef8977c9b773996d0e8376d2ee379446f2f.png",
         "coingeckoId": "quick",
         "listedIn": [
-            "elkfinance",
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "1inch",
+            "dfyn",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -10461,11 +10513,11 @@
         "logoURI": "https://tokens.1inch.io/0x82a0e6c02b91ec9f6ff943c0a933c03dbaa19689.png",
         "coingeckoId": "wicrypt",
         "listedIn": [
-            "openocean",
-            "1inch",
-            "quickswap",
             "coingecko",
-            "lifinance"
+            "1inch",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -10517,8 +10569,8 @@
         "coingeckoId": "yield-guild-games",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -10530,10 +10582,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x823CD4264C1b951C9209aD0DeAea9988fE8429bF/logo.png",
         "coingeckoId": "matic-aave-aave",
         "listedIn": [
+            "elkfinance",
             "openocean",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -10561,8 +10613,8 @@
         "coingeckoId": "escoin-token",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -10680,8 +10732,8 @@
         "coingeckoId": "frax-usd",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -10811,10 +10863,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf/logo.png",
         "coingeckoId": "auto",
         "listedIn": [
+            "elkfinance",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -10868,17 +10920,17 @@
         "logoURI": "https://tokens.1inch.io/0x7ceb23fd6bc0add59e62ac25578270cff1b9f619.png",
         "coingeckoId": "weth",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
             "uniswap",
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "1inch",
+            "dfyn",
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -10943,8 +10995,8 @@
         "coingeckoId": "paint",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -10956,11 +11008,11 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x7FBc10850caE055B27039aF31bD258430e714c62/logo.png",
         "coingeckoId": "unibright",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "openocean",
-            "lifinance",
-            "coingecko",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -10999,8 +11051,8 @@
         "coingeckoId": "yfdai-finance",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -11028,8 +11080,8 @@
         "coingeckoId": null,
         "listedIn": [
             "quickswap",
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -11054,11 +11106,11 @@
         "logoURI": "https://tokens.1inch.io/0x910524678c0b1b23ffb9285a81f99c29c11cbaed.png",
         "coingeckoId": "azuki",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "1inch",
-            "lifinance",
-            "coingecko",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -11097,8 +11149,8 @@
         "coingeckoId": "zignaly",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -11124,8 +11176,8 @@
         "coingeckoId": null,
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -11255,10 +11307,10 @@
         "logoURI": "https://tokens.1inch.io/0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f.png",
         "coingeckoId": "open-exchange-token",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
             "rubic",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -11324,8 +11376,8 @@
         "coingeckoId": "coin98",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -11364,11 +11416,11 @@
         "logoURI": "https://tokens.1inch.io/0x76e63a3e7ba1e2e61d3da86a87479f983de89a7e.png",
         "coingeckoId": "augury-finance",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "1inch",
-            "quickswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -11393,8 +11445,8 @@
         "logoURI": "https://tokens.1inch.io/0x769434dca303597c8fc4997bf3dab233e961eda2.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "1inch"
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -11433,8 +11485,8 @@
         "coingeckoId": "pocket-network",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -11459,8 +11511,8 @@
         "logoURI": "https://raw.githubusercontent.com/dfyn/assets/main/vDFYN.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -11540,11 +11592,11 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x72d6066F486bd0052eefB9114B66ae40e0A6031a/logo.png",
         "coingeckoId": "wazirx",
         "listedIn": [
+            "coingecko",
+            "rubic",
+            "dfyn",
             "elkfinance",
             "quickswap",
-            "dfyn",
-            "rubic",
-            "coingecko",
             "lifinance"
         ]
     },
@@ -11716,8 +11768,8 @@
         "coingeckoId": "rocket-pool",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -11742,10 +11794,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x71B821aa52a49F32EEd535fCA6Eb5aa130085978/logo.png",
         "coingeckoId": "oxbitcoin",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
             "rubic",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -11758,8 +11810,8 @@
         "coingeckoId": "stepn",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -11851,11 +11903,11 @@
         "logoURI": "https://tokens.1inch.io/0x7075cab6bcca06613e2d071bd918d1a0241379e2.png",
         "coingeckoId": "gains-farm",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "1inch",
-            "rubic",
             "coingecko",
+            "rubic",
+            "elkfinance",
+            "sushiswap",
+            "1inch",
             "lifinance"
         ]
     },
@@ -11895,8 +11947,8 @@
         "coingeckoId": null,
         "listedIn": [
             "quickswap",
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -11908,12 +11960,12 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mkr.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap",
             "uniswap",
-            "xyfinance",
-            "1inch",
-            "rubic",
             "coingecko",
+            "rubic",
+            "xyfinance",
+            "sushiswap",
+            "1inch",
             "lifinance"
         ]
     },
@@ -11928,8 +11980,8 @@
         "listedIn": [
             "quickswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -11954,10 +12006,10 @@
         "logoURI": "https://tokens.1inch.io/0x6d5f5317308c6fe7d6ce16930353a8dfd92ba4d7.png",
         "coingeckoId": "abachi",
         "listedIn": [
+            "1inch",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -11970,8 +12022,8 @@
         "coingeckoId": "staked-frax-ether",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -12089,12 +12141,12 @@
         "logoURI": "https://tokens.1inch.io/0xf99d58e463a2e07e5692127302c20a191861b4d6.png",
         "coingeckoId": "anyswap",
         "listedIn": [
+            "coingecko",
+            "dfyn",
             "elkfinance",
             "1inch",
-            "quickswap",
-            "dfyn",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -12187,9 +12239,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x6E65Ae5572DF196FAe40Be2545Ebc2A9A24eAcE9/logo.png",
         "coingeckoId": "shack",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -12201,8 +12253,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/13629/small/COMBO_token_ol.png?1610701537",
         "coingeckoId": "furucombo",
         "listedIn": [
-            "sushiswap",
             "quickswap",
+            "sushiswap",
             "coingecko",
             "lifinance"
         ]
@@ -12295,10 +12347,10 @@
         "logoURI": "https://tokens.1inch.io/0x4104b135dbc9609fc1a9490e61369036497660c8.png",
         "coingeckoId": "apwine",
         "listedIn": [
-            "elkfinance",
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "elkfinance",
+            "lifinance"
         ]
     },
     {
@@ -12375,10 +12427,10 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17277/small/WoZ8rruL_400x400.png?1627016492",
         "coingeckoId": "jpyc",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "sushiswap",
             "quickswap",
-            "rubic",
-            "coingecko",
             "lifinance"
         ]
     },
@@ -12444,10 +12496,10 @@
         "coingeckoId": "layerzero",
         "listedIn": [
             "uniswap",
-            "1inch",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -12459,12 +12511,12 @@
         "logoURI": "https://tokens.1inch.io/0x275f5ad03be0fa221b4c6649b8aee09a42d9412a.png",
         "coingeckoId": "monavale",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "1inch",
-            "quickswap",
-            "rubic",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -12504,10 +12556,10 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10465.png",
         "coingeckoId": "polytrade",
         "listedIn": [
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
+            "rubic",
+            "dfyn",
+            "quickswap",
             "lifinance"
         ]
     },
@@ -12520,10 +12572,10 @@
         "logoURI": "https://tokens.1inch.io/0x692597b009d13c4049a947cab2239b7d6517875f.png",
         "coingeckoId": "wrapped-ust",
         "listedIn": [
+            "1inch",
             "coingecko",
             "dfyn",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -12604,8 +12656,8 @@
         "coingeckoId": "smardex",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -12617,9 +12669,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x6863BD30C9e313B264657B107352bA246F8Af8e0/logo.png",
         "coingeckoId": "blackpool-token",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -12686,8 +12738,8 @@
         "logoURI": "https://etherscan.io/token/images/unionprotocol_32.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -12752,8 +12804,8 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "rubic",
             "coingecko",
+            "rubic",
             "lifinance"
         ]
     },
@@ -12766,10 +12818,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x669ddc70273084Ea30e6cd4f28CA6e2C70735065/logo.png",
         "coingeckoId": "aga-carbon-credit",
         "listedIn": [
+            "elkfinance",
             "coingecko",
             "dfyn",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -12795,8 +12847,8 @@
         "coingeckoId": "dexioprotocol-v2",
         "listedIn": [
             "coingecko",
-            "xyfinance",
-            "elkfinance"
+            "elkfinance",
+            "xyfinance"
         ]
     },
     {
@@ -12835,11 +12887,11 @@
         "logoURI": "https://tokens.1inch.io/0x65a05db8322701724c197af82c9cae41195b0aa8.png",
         "coingeckoId": "shapeshift-fox-token",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "sushiswap",
             "1inch",
-            "lifinance",
-            "coingecko",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -12916,9 +12968,9 @@
         "logoURI": "https://tokens.1inch.io/0x64ca1571d1476b7a21c5aaf9f1a750a193a103c0.png",
         "coingeckoId": "bondly",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -12970,8 +13022,8 @@
         "coingeckoId": "allianceblock-nexera",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -13024,8 +13076,8 @@
         "coingeckoId": "dafi-protocol",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -13106,8 +13158,8 @@
         "coingeckoId": "karmaverse-zombie-serum",
         "listedIn": [
             "coingecko",
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -13200,11 +13252,11 @@
         "logoURI": "https://tokens.1inch.io/0x614389eaae0a6821dc49062d56bda3d9d45fa2ff.png",
         "coingeckoId": "orbs",
         "listedIn": [
-            "1inch",
-            "quickswap",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -13216,9 +13268,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x613a489785C95afEB3b404CC41565cCff107B6E0/logo.png",
         "coingeckoId": "radioshack",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -13243,13 +13295,13 @@
         "logoURI": "https://assets.coingecko.com/coins/images/11636/small/uTDd98ZN_400x400.jpg?1592200150",
         "coingeckoId": "render-token",
         "listedIn": [
-            "openocean",
+            "coingecko",
+            "rubic",
             "xyfinance",
             "1inch",
-            "quickswap",
-            "rubic",
-            "coingecko",
-            "lifinance"
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -13288,8 +13340,8 @@
         "logoURI": "https://drive.google.com/file/d/1yuahTv9deIVo5hRT01rTBApmmtftCYts/view",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -13341,10 +13393,10 @@
         "logoURI": "https://tokens.1inch.io/0x3ed3b47dd13ec9a98b44e6204a523e766b225811.png",
         "coingeckoId": "aave-polygon-usdt",
         "listedIn": [
-            "elkfinance",
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "elkfinance",
+            "lifinance"
         ]
     },
     {
@@ -13357,8 +13409,8 @@
         "coingeckoId": null,
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -13371,8 +13423,8 @@
         "coingeckoId": "aloha",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -13411,12 +13463,12 @@
         "logoURI": "https://tokens.1inch.io/0x5fe2b58c013d7601147dcdd68c143a77499f5531.png",
         "coingeckoId": "the-graph",
         "listedIn": [
-            "sushiswap",
             "uniswap",
-            "xyfinance",
-            "1inch",
-            "rubic",
             "coingecko",
+            "rubic",
+            "xyfinance",
+            "sushiswap",
+            "1inch",
             "lifinance"
         ]
     },
@@ -13508,9 +13560,9 @@
         "logoURI": "https://tokens.1inch.io/0x5f0197ba06860dac7e31258bdf749f92b6a636d4.png",
         "coingeckoId": "flare-token",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -13602,10 +13654,10 @@
         "logoURI": "https://tokens.1inch.io/0x5d47baba0d66083c52009271faf3f50dcc01023c.png",
         "coingeckoId": "apeswap-finance",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
             "rubic",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -13669,10 +13721,10 @@
         "logoURI": "https://tokens.1inch.io/0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656.png",
         "coingeckoId": "aave-polygon-wbtc",
         "listedIn": [
-            "elkfinance",
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "elkfinance",
+            "lifinance"
         ]
     },
     {
@@ -13751,8 +13803,8 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "rubic",
-            "lifinance"
+            "lifinance",
+            "rubic"
         ]
     },
     {
@@ -13764,8 +13816,8 @@
         "logoURI": "https://raw.githubusercontent.com/Palette-Finance/images/main/solar.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -13778,8 +13830,8 @@
         "coingeckoId": "farcana",
         "listedIn": [
             "coingecko",
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -13926,10 +13978,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x5C7F7Fe4766fE8f0fa9b41E2E4194d939488ff1C/logo.png",
         "coingeckoId": "doki-doki-finance",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
             "rubic",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -13955,9 +14007,9 @@
         "coingeckoId": "unlend-finance",
         "listedIn": [
             "coingecko",
+            "rubic",
             "dfyn",
-            "lifinance",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -14009,10 +14061,10 @@
         "logoURI": "https://assets.coingecko.com/coins/images/31719/thumb/usdm.png?1696530540",
         "coingeckoId": "mountain-protocol-usdm",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
             "rubic",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -14024,9 +14076,9 @@
         "logoURI": "https://tokens.1inch.io/0x59b5654a17ac44f3068b3882f298881433bb07ef.png",
         "coingeckoId": "coinpoker",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -14053,10 +14105,10 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/b8086dbc7040582d1412effe7a951914d4a96eef/blockchains/ethereum/assets/0x8A9C67fee641579dEbA04928c4BC45F66e26343A/logo.png",
         "coingeckoId": "jarvis-reward-token",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "sushiswap",
             "quickswap",
-            "rubic",
-            "coingecko",
             "lifinance"
         ]
     },
@@ -14135,13 +14187,13 @@
         "logoURI": "https://tokens.1inch.io/0x580a84c73811e1839f75d86d75d88cca0c241ff4.png",
         "coingeckoId": "qi-dao",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "xyfinance",
-            "1inch",
-            "quickswap",
             "coingecko",
-            "lifinance"
+            "xyfinance",
+            "elkfinance",
+            "sushiswap",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -14246,8 +14298,8 @@
         "logoURI": "https://i.ibb.co/YLYTVJ7/APOLLO-PNG2.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -14351,8 +14403,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/16825/small/logo200x200.png?1625834139",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap",
             "quickswap",
+            "sushiswap",
             "lifinance"
         ]
     },
@@ -14379,11 +14431,11 @@
         "logoURI": "https://assets.coingecko.com/coins/images/21541/small/xy.png?1639913622",
         "coingeckoId": "xy-finance",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "xyfinance",
             "1inch",
-            "lifinance",
-            "coingecko",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -14477,17 +14529,17 @@
         "logoURI": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png",
         "coingeckoId": "chainlink",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
             "uniswap",
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "1inch",
+            "dfyn",
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -14538,11 +14590,11 @@
         "logoURI": "https://tokens.1inch.io/0x5314ba045a459f63906aa7c76d9f337dcb7d6995.png",
         "coingeckoId": "fodl-finance",
         "listedIn": [
+            "coingecko",
             "xyfinance",
             "1inch",
-            "quickswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -14555,8 +14607,8 @@
         "coingeckoId": "0xmonero",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -14607,10 +14659,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x521CddC0CBa84F14c69C1E99249F781AA73Ee0BC/logo.png",
         "coingeckoId": "holyheld-2",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
             "rubic",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -14729,12 +14781,12 @@
         "logoURI": "https://tokens.1inch.io/0x50b728d8d964fd00c2d0aad81718b71311fef68a.png",
         "coingeckoId": "havven",
         "listedIn": [
-            "sushiswap",
             "uniswap",
-            "xyfinance",
-            "1inch",
-            "rubic",
             "coingecko",
+            "rubic",
+            "xyfinance",
+            "sushiswap",
+            "1inch",
             "lifinance"
         ]
     },
@@ -14761,9 +14813,9 @@
         "coingeckoId": "coreto",
         "listedIn": [
             "coingecko",
+            "rubic",
             "dfyn",
-            "lifinance",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -14801,9 +14853,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x4eBdE54ba404bE158262EDe801744b92b9878c61/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
+            "elkfinance",
             "lifinance",
-            "elkfinance"
+            "dfyn"
         ]
     },
     {
@@ -14829,11 +14881,11 @@
         "logoURI": "https://tokens.1inch.io/0x4e78011ce80ee02d2c3e649fb657e45898257815.png",
         "coingeckoId": "klima-dao",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "1inch",
-            "quickswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -14845,9 +14897,9 @@
         "logoURI": "https://tokens.1inch.io/0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c.png",
         "coingeckoId": "jarvis-synthetic-euro",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -14859,10 +14911,10 @@
         "logoURI": "https://tokens.1inch.io/0x4e1581f01046efdd7a1a2cdb0f82cdd7f71f2e59.png",
         "coingeckoId": "ice-token",
         "listedIn": [
+            "coingecko",
+            "1inch",
             "sushiswap",
             "openocean",
-            "1inch",
-            "coingecko",
             "lifinance"
         ]
     },
@@ -14914,10 +14966,10 @@
         "logoURI": "https://tokens.1inch.io/0x4c4bf319237d98a30a929a96112effa8da3510eb.png",
         "coingeckoId": "waultswap-polygon",
         "listedIn": [
-            "elkfinance",
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "elkfinance",
+            "lifinance"
         ]
     },
     {
@@ -14929,8 +14981,8 @@
         "logoURI": "https://cryptologos.cc/logos/matic-network-matic-logo.svg?v=006",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -14957,8 +15009,8 @@
         "listedIn": [
             "quickswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -14970,10 +15022,10 @@
         "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "quickswap",
-            "xyfinance",
-            "lifinance"
+            "coingecko",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -14986,8 +15038,8 @@
         "coingeckoId": "bilira",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -14999,9 +15051,9 @@
         "logoURI": "https://tokens.1inch.io/0x4ff0b68abc2b9e4e1401e9b691dba7d66b264ac8.png",
         "coingeckoId": "riot-racers",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -15105,8 +15157,8 @@
         "coingeckoId": "cobak-token",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -15145,8 +15197,8 @@
         "coingeckoId": "orderly-network",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -15172,8 +15224,8 @@
         "coingeckoId": "dexkit",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -15250,11 +15302,11 @@
         "logoURI": "https://raw.githubusercontent.com/PancakeBunny-finance/PolygonBUNNY/main/assets/token-bunny_32x32.png",
         "coingeckoId": "bunny-token-polygon",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "openocean",
-            "quickswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -15293,10 +15345,10 @@
         "logoURI": "https://tokens.1inch.io/0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef.png",
         "coingeckoId": "iron-finance",
         "listedIn": [
+            "1inch",
             "coingecko",
             "dfyn",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -15347,9 +15399,9 @@
         "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x49e6a20f1bbdfeec2a8222e052000bbb14ee6007/2f07fea3de4943f1b4b662a55dcfe084.png",
         "coingeckoId": null,
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -15363,8 +15415,8 @@
         "listedIn": [
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -15403,8 +15455,8 @@
         "coingeckoId": "polyswarm",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -15533,11 +15585,11 @@
         "logoURI": "https://tokens.1inch.io/0x46f48fbdedaa6f5500993bede9539ef85f4bee8e.png",
         "coingeckoId": "arianee",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "1inch",
-            "lifinance",
-            "coingecko",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -15577,8 +15629,8 @@
         "coingeckoId": null,
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -15603,9 +15655,9 @@
         "logoURI": "https://flowimage.flow.page/resize?img=https%3A%2F%2Fcdn.flow.page%2Fimages%2Fe5e655f1-421f-4948-be2e-c679ea1cdc2d-profile-picture%3Fm%3D1610401591&w=320",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
             "lifinance",
-            "rubic"
+            "rubic",
+            "dfyn"
         ]
     },
     {
@@ -15617,14 +15669,14 @@
         "logoURI": "https://tokens.1inch.io/0x45c32fa6df82ead1e2ef74d17b76547eddfaff89.png",
         "coingeckoId": "frax",
         "listedIn": [
-            "sushiswap",
-            "openocean",
+            "coingecko",
+            "rubic",
             "xyfinance",
             "1inch",
-            "quickswap",
-            "rubic",
-            "coingecko",
-            "lifinance"
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -15637,8 +15689,8 @@
         "coingeckoId": "circuits-of-value",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -15689,9 +15741,9 @@
         "logoURI": "https://tokens.1inch.io/0x44d09156c7b4acf0c64459fbcced7613f5519918.png",
         "coingeckoId": "kitsumon",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -15837,9 +15889,9 @@
         "logoURI": "https://tokens.1inch.io/0x431d5dff03120afa4bdf332c61a6e1766ef37bdb.png",
         "coingeckoId": "jpy-coin",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -15851,10 +15903,10 @@
         "logoURI": "https://tokens.1inch.io/0x431cd3c9ac9fc73644bf68bf5691f4b83f9e104f.png",
         "coingeckoId": "rainbow-token-2",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "xyfinance",
             "lifinance",
-            "1inch"
+            "xyfinance"
         ]
     },
     {
@@ -15879,11 +15931,11 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14770/small/1617088937196.png?1619414736",
         "coingeckoId": "vulcan-forged",
         "listedIn": [
-            "openocean",
-            "quickswap",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -15921,12 +15973,12 @@
         "logoURI": "https://tokens.1inch.io/0x42d61d766b85431666b39b89c43011f24451bff6.png",
         "coingeckoId": "paraswap",
         "listedIn": [
-            "openocean",
-            "1inch",
-            "quickswap",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "1inch",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -16035,8 +16087,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/25088/large/evoToken.png?1650269135",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
             "lifinance",
+            "dfyn",
             "RouterProtocol"
         ]
     },
@@ -16049,11 +16101,11 @@
         "logoURI": "https://cryptologos.cc/logos/nexo-nexo-logo.svg",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
+            "rubic",
+            "dfyn",
             "sushiswap",
             "quickswap",
-            "dfyn",
-            "rubic",
-            "coingecko",
             "lifinance"
         ]
     },
@@ -16158,8 +16210,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14585/small/AcNx2x6P_400x400.jpg?1617153476",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -16372,7 +16424,8 @@
         "listedIn": [
             "quickswap",
             "coingecko",
-            "lifinance"
+            "lifinance",
+            "1inch"
         ]
     },
     {
@@ -16425,14 +16478,14 @@
         "logoURI": "https://tokens.1inch.io/0x3c499c542cef5e3811e1192ce70d8cc03d5c3359.png",
         "coingeckoId": "usd-coin",
         "listedIn": [
-            "elkfinance",
             "uniswap",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -16470,9 +16523,9 @@
         "logoURI": "https://tokens.1inch.io/0x3a9a81d576d83ff21f26f325066054540720fc34.png",
         "coingeckoId": "streamr",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -16484,15 +16537,15 @@
         "logoURI": "https://tokens.1inch.io/0x3a3df212b7aa91aa0402b9035b098891d276572b.png",
         "coingeckoId": "polycat-finance",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "openocean",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "elkfinance",
+            "1inch",
+            "dfyn",
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -16557,8 +16610,8 @@
         "logoURI": "https://app.fluidy.fi/logo-xdo_origin.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -16612,8 +16665,8 @@
         "listedIn": [
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -16667,8 +16720,8 @@
         "logoURI": "https://maticpad.com/images/MaticPadLogoicon32x32.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -16749,11 +16802,11 @@
         "logoURI": "https://tokens.1inch.io/0x3ad707da309f3845cd602059901e39c4dcd66473.png",
         "coingeckoId": "index-coop-eth-2x-flexible-leverage-index",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "1inch",
-            "quickswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -16778,12 +16831,12 @@
         "logoURI": "https://tokens.1inch.io/0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4.png",
         "coingeckoId": "lido-staked-matic",
         "listedIn": [
-            "openocean",
+            "coingecko",
             "xyfinance",
             "1inch",
-            "quickswap",
-            "coingecko",
-            "lifinance"
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -16795,10 +16848,10 @@
         "logoURI": "https://tokens.1inch.io/0x3a3e7650f8b9f667da98f236010fbf44ee4b2975.png",
         "coingeckoId": "xdollar-stablecoin",
         "listedIn": [
+            "1inch",
             "coingecko",
             "dfyn",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -16891,16 +16944,16 @@
         "logoURI": "https://tokens.1inch.io/0x3f382dbd960e3a9bbceae22651e88158d2791550.png",
         "coingeckoId": "aavegotchi",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "1inch",
+            "dfyn",
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -16912,8 +16965,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/11102/small/rtk-logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -16951,10 +17004,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F/logo.png",
         "coingeckoId": "trustswap",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "quickswap",
-            "rubic",
-            "coingecko",
             "lifinance"
         ]
     },
@@ -17048,8 +17101,8 @@
         "coingeckoId": "stau",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -17126,11 +17179,11 @@
         "logoURI": "https://tokens.1inch.io/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f.png",
         "coingeckoId": "stake-dao",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "1inch",
-            "lifinance",
-            "coingecko",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -17194,10 +17247,10 @@
         "logoURI": "https://tokens.1inch.io/0x34d4ab47bee066f361fa52d792e69ac7bd05ee23.png",
         "coingeckoId": "raider-aurum",
         "listedIn": [
+            "1inch",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -17237,9 +17290,9 @@
         "logoURI": "https://tokens.1inch.io/0x34667ed7c36cbbbf2d5d5c5c8d6eb76a094edb9f.png",
         "coingeckoId": "genomesdao",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -17398,10 +17451,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x313d009888329C9d1cf4f75CA3f32566335bd604/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
+            "elkfinance",
             "lifinance",
             "rubic",
-            "elkfinance"
+            "dfyn"
         ]
     },
     {
@@ -17415,8 +17468,8 @@
         "listedIn": [
             "quickswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -17454,8 +17507,8 @@
         "logoURI": "https://tokens.1inch.io/0x30de46509dbc3a491128f97be0aaf70dc7ff33cb.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
-            "1inch"
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -17494,8 +17547,8 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "sushiswap",
-            "lifinance"
+            "lifinance",
+            "sushiswap"
         ]
     },
     {
@@ -17640,12 +17693,12 @@
         "logoURI": "https://tokens.1inch.io/0x2e1ad108ff1d8c782fcbbb89aad783ac49586756.png",
         "coingeckoId": "true-usd",
         "listedIn": [
-            "sushiswap",
-            "xyfinance",
-            "1inch",
-            "quickswap",
             "coingecko",
-            "lifinance"
+            "xyfinance",
+            "sushiswap",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -17723,9 +17776,9 @@
         "logoURI": "https://tokens.1inch.io/0x2c826035c1c36986117a0e949bd6ad4bab54afe2.png",
         "coingeckoId": "straitsx-indonesia-rupiah",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -17737,9 +17790,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png",
         "coingeckoId": "fsn",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -17766,10 +17819,10 @@
         "logoURI": "https://tokens.1inch.io/0x429881672b9ae42b8eba0e26cd9c73711b891ca5.png",
         "coingeckoId": "pickle-finance",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "1inch",
             "coingecko",
+            "elkfinance",
+            "sushiswap",
+            "1inch",
             "lifinance"
         ]
     },
@@ -17821,11 +17874,11 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4/logo.png",
         "coingeckoId": "decentral-games-old",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "elkfinance",
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -17837,8 +17890,8 @@
         "logoURI": "https://raw.githubusercontent.com/aion-ollie/new-host/icon/cirus_logo_256.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -17850,10 +17903,10 @@
         "logoURI": "https://tokens.1inch.io/0x2f800db0fdb5223b3c3f354886d907a671414a7f.png",
         "coingeckoId": "toucan-protocol-base-carbon-tonne",
         "listedIn": [
+            "1inch",
             "sushiswap",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -17865,12 +17918,12 @@
         "logoURI": "https://cloudstorage.openocean.finance/images/1648128003267_8819963035591498.png",
         "coingeckoId": "stargate-finance",
         "listedIn": [
-            "sushiswap",
-            "openocean",
+            "coingecko",
+            "rubic",
             "xyfinance",
             "1inch",
-            "rubic",
-            "coingecko",
+            "sushiswap",
+            "openocean",
             "lifinance"
         ]
     },
@@ -17915,6 +17968,19 @@
         ]
     },
     {
+        "symbol": "AAA",
+        "name": "Moon Rabbit",
+        "address": "0x2EBD50AE084e71eed419cB6C620B3BbD3927bF7e",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/17310/thumb/logo_moon_no_inscriptions-01.png?1627275874",
+        "coingeckoId": "moon-rabbit",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MM",
         "name": "MM Token",
         "address": "0x2E220744f9aC1BF3045B0588D339F5fD3bB8623A",
@@ -17950,9 +18016,9 @@
         "coingeckoId": "rocketx",
         "listedIn": [
             "coingecko",
+            "rubic",
             "dfyn",
-            "lifinance",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -17964,11 +18030,11 @@
         "logoURI": "https://tokens.1inch.io/0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b.png",
         "coingeckoId": "avalanche-2",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "1inch",
-            "quickswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -17993,12 +18059,12 @@
         "logoURI": "https://tokens.1inch.io/0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7.png",
         "coingeckoId": "mask-network",
         "listedIn": [
-            "openocean",
-            "1inch",
-            "quickswap",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "1inch",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -18036,9 +18102,9 @@
         "logoURI": "https://tokens.1inch.io/0x2ab4f9ac80f33071211729e45cfc346c1f8446d5.png",
         "coingeckoId": "chain-guardians",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -18132,8 +18198,8 @@
         "coingeckoId": "entropyfi",
         "listedIn": [
             "coingecko",
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -18159,8 +18225,8 @@
         "coingeckoId": "blackrock-usd-institutional-digital-liquidity-fund",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -18185,10 +18251,10 @@
         "logoURI": "https://tokens.1inch.io/0x030ba81f1c18d280636f32af80b9aad02cf0854e.png",
         "coingeckoId": "aave-polygon-weth",
         "listedIn": [
-            "elkfinance",
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "elkfinance",
+            "lifinance"
         ]
     },
     {
@@ -18200,12 +18266,12 @@
         "logoURI": "https://tokens.1inch.io/0x967da4048cd07ab37855c090aaf366e4ce1b9f48.png",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "1inch",
-            "quickswap",
-            "rubic",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -18256,9 +18322,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14091/thumb/DFX.png?1696513813",
         "coingeckoId": "dfx-finance",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -18270,10 +18336,10 @@
         "logoURI": "https://tokens.1inch.io/0x028171bca77440897b824ca71d1c56cac55b68a3.png",
         "coingeckoId": "aave-polygon-dai",
         "listedIn": [
-            "elkfinance",
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "elkfinance",
+            "lifinance"
         ]
     },
     {
@@ -18298,17 +18364,17 @@
         "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
         "coingeckoId": "usd-coin",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
             "uniswap",
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "1inch",
+            "dfyn",
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -18362,10 +18428,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B/logo.png",
         "coingeckoId": "cartesi",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
             "rubic",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -18562,10 +18628,10 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14003/small/PoolTogether.png?1613585632",
         "coingeckoId": "pooltogether",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "sushiswap",
             "quickswap",
-            "rubic",
-            "coingecko",
             "lifinance"
         ]
     },
@@ -18591,11 +18657,11 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17882/small/gradient_icon_926.png?1629707907",
         "coingeckoId": "tetu",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "1inch",
-            "quickswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -18634,9 +18700,9 @@
         "coingeckoId": "wrapped-terra",
         "listedIn": [
             "coingecko",
+            "rubic",
             "dfyn",
-            "lifinance",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -18715,12 +18781,12 @@
         "logoURI": "https://tokens.1inch.io/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39.png",
         "coingeckoId": "hex",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "1inch",
-            "quickswap",
-            "rubic",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -18732,11 +18798,11 @@
         "logoURI": "https://tokens.1inch.io/0x236eec6359fb44cce8f97e99387aa7f8cd5cde1f.png",
         "coingeckoId": "usd",
         "listedIn": [
-            "1inch",
-            "quickswap",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -18748,11 +18814,11 @@
         "logoURI": "https://i.imgur.com/zLHm2qE.png",
         "coingeckoId": "tbtc",
         "listedIn": [
-            "1inch",
-            "quickswap",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -18764,9 +18830,9 @@
         "logoURI": "https://tokens.1inch.io/0x235737dbb56e8517391473f7c964db31fa6ef280.png",
         "coingeckoId": "kasta",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -18805,8 +18871,8 @@
         "coingeckoId": "liquity-usd",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -18845,10 +18911,10 @@
         "logoURI": "https://assets.coingecko.com/coins/images/26840/small/1.png?1660352178",
         "coingeckoId": "mmfinance-polygon",
         "listedIn": [
-            "coingecko",
             "openocean",
-            "xyfinance",
-            "lifinance"
+            "coingecko",
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -18888,9 +18954,9 @@
         "logoURI": "https://tokens.1inch.io/0x228b5c21ac00155cf62c57bcc704c0da8187950b.png",
         "coingeckoId": "nexus-dubai",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -18981,9 +19047,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x20D3922b4a1A8560E1aC99FBA4faDe0c849e2142/logo.png",
         "coingeckoId": "matic-aave-weth",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -19061,9 +19127,9 @@
         "logoURI": "https://assets.coingecko.com/coins/images/24376/thumb/metal.png?1696523559",
         "coingeckoId": "drunk-robots",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -19102,8 +19168,8 @@
         "coingeckoId": null,
         "listedIn": [
             "quickswap",
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -19157,8 +19223,8 @@
         "listedIn": [
             "quickswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -19183,10 +19249,10 @@
         "logoURI": "https://tokens.1inch.io/0xffc97d72e13e01096502cb8eb52dee56f74dad7b.png",
         "coingeckoId": "aave-polygon-aave",
         "listedIn": [
-            "elkfinance",
-            "openocean",
-            "1inch",
             "coingecko",
+            "elkfinance",
+            "1inch",
+            "openocean",
             "lifinance"
         ]
     },
@@ -19264,11 +19330,11 @@
         "logoURI": "https://assets.coingecko.com/coins/images/13423/small/frax_share.png?1608478989",
         "coingeckoId": "frax-share",
         "listedIn": [
+            "coingecko",
+            "rubic",
+            "xyfinance",
             "sushiswap",
             "openocean",
-            "xyfinance",
-            "rubic",
-            "coingecko",
             "lifinance"
         ]
     },
@@ -19281,10 +19347,10 @@
         "logoURI": "https://tokens.1inch.io/0xbcca60bb61934080951369a648fb03df4f96263c.png",
         "coingeckoId": "aave-polygon-usdc",
         "listedIn": [
-            "elkfinance",
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "elkfinance",
+            "lifinance"
         ]
     },
     {
@@ -19348,10 +19414,10 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x1E42EDbe5376e717C1B22904C59e406426E8173F/logo.png",
         "coingeckoId": "surf-finance",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
             "rubic",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -19416,12 +19482,12 @@
         "logoURI": "https://tokens.1inch.io/0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c.png",
         "coingeckoId": "kyber-network-crystal",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "openocean",
-            "1inch",
-            "rubic",
             "coingecko",
+            "rubic",
+            "elkfinance",
+            "1inch",
+            "sushiswap",
+            "openocean",
             "lifinance"
         ]
     },
@@ -19460,17 +19526,17 @@
         "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
             "uniswap",
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "1inch",
+            "dfyn",
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -19495,10 +19561,10 @@
         "logoURI": "https://tokens.1inch.io/0x1ba17c639bdaecd8dc4aac37df062d17ee43a1b8.png",
         "coingeckoId": "ix-swap",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
             "rubic",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -19510,13 +19576,13 @@
         "logoURI": "https://tokens.1inch.io/0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603.png",
         "coingeckoId": "woo-network",
         "listedIn": [
+            "coingecko",
+            "rubic",
+            "1inch",
             "sushiswap",
             "openocean",
-            "1inch",
-            "quickswap",
-            "rubic",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -19555,8 +19621,8 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9783.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -19622,8 +19688,8 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "rubic",
-            "lifinance"
+            "lifinance",
+            "rubic"
         ]
     },
     {
@@ -19636,8 +19702,8 @@
         "coingeckoId": "telos",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -19795,14 +19861,14 @@
         "logoURI": "https://tokens.1inch.io/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
         "coingeckoId": "curve-dao-token",
         "listedIn": [
-            "sushiswap",
             "uniswap",
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "dfyn",
-            "rubic",
             "coingecko",
+            "rubic",
+            "xyfinance",
+            "dfyn",
+            "1inch",
+            "sushiswap",
+            "openocean",
             "lifinance"
         ]
     },
@@ -19815,12 +19881,12 @@
         "logoURI": "https://tokens.1inch.io/0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4.png",
         "coingeckoId": "route",
         "listedIn": [
-            "sushiswap",
-            "xyfinance",
-            "1inch",
-            "dfyn",
-            "rubic",
             "coingecko",
+            "rubic",
+            "xyfinance",
+            "dfyn",
+            "sushiswap",
+            "1inch",
             "lifinance"
         ]
     },
@@ -19912,8 +19978,8 @@
         "coingeckoId": "gelato",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -20057,11 +20123,11 @@
         "logoURI": "https://tokens.1inch.io/0x1379e8886a944d2d9d440b3d88df536aea08d9f3.png",
         "coingeckoId": "mysterium",
         "listedIn": [
-            "1inch",
-            "quickswap",
-            "lifinance",
             "coingecko",
-            "rubic"
+            "rubic",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -20180,11 +20246,11 @@
         "logoURI": "https://tokens.1inch.io/0x127984b5e6d5c59f81dacc9f1c8b3bdc8494572e.png",
         "coingeckoId": "pepedex",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "1inch",
-            "lifinance",
-            "coingecko",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -20369,11 +20435,11 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x104592a158490a9228070E0A8e5343B499e125D0/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
+            "rubic",
             "dfyn",
-            "lifinance",
-            "rubic"
+            "elkfinance",
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -20398,11 +20464,11 @@
         "logoURI": "https://cloudstorage.openocean.finance/images/1664246990204_3407976441131719.png",
         "coingeckoId": "ankr",
         "listedIn": [
-            "openocean",
-            "quickswap",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -20441,9 +20507,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x0e59D50adD2d90f5111aca875baE0a72D95B4762/logo.png",
         "coingeckoId": "darkbuild-v2",
         "listedIn": [
+            "elkfinance",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "lifinance"
         ]
     },
     {
@@ -20469,8 +20535,8 @@
         "coingeckoId": "automata",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -20495,8 +20561,8 @@
         "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/MLP.png",
         "coingeckoId": null,
         "listedIn": [
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -20508,17 +20574,17 @@
         "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
         "coingeckoId": "wmatic",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
             "uniswap",
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "quickswap",
-            "dfyn",
-            "rubic",
             "coingecko",
-            "lifinance"
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "1inch",
+            "dfyn",
+            "sushiswap",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -20530,9 +20596,9 @@
         "logoURI": "https://tokens.1inch.io/0x0d0b8488222f7f83b23e365320a4021b12ead608.png",
         "coingeckoId": "next-earth",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -20651,13 +20717,13 @@
         "logoURI": "https://tokens.1inch.io/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png",
         "coingeckoId": "sushi",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "openocean",
-            "xyfinance",
-            "1inch",
-            "rubic",
             "coingecko",
+            "rubic",
+            "xyfinance",
+            "elkfinance",
+            "1inch",
+            "sushiswap",
+            "openocean",
             "lifinance"
         ]
     },
@@ -20696,11 +20762,11 @@
         "logoURI": "https://assets.coingecko.com/coins/images/25742/small/a-matic-c-da4ec10dc9723e695700e25dbf8c8edf.png?1653462321",
         "coingeckoId": "ankr-reward-earning-matic",
         "listedIn": [
-            "openocean",
-            "1inch",
-            "quickswap",
             "coingecko",
-            "lifinance"
+            "1inch",
+            "openocean",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -20714,8 +20780,8 @@
         "listedIn": [
             "quickswap",
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -20741,8 +20807,8 @@
         "coingeckoId": null,
         "listedIn": [
             "coingecko",
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -20956,8 +21022,8 @@
         "coingeckoId": "realtoken-ecosystem-governance",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -21037,8 +21103,8 @@
         "coingeckoId": "dawn-star-token",
         "listedIn": [
             "coingecko",
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -21129,8 +21195,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12523/small/chartex.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -21196,8 +21262,8 @@
         "coingeckoId": "wagmi-2",
         "listedIn": [
             "coingecko",
-            "lifinance",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -21288,10 +21354,10 @@
         "logoURI": "https://tokens.1inch.io/0x071ac29d569a47ebffb9e57517f855cb577dcc4c.png",
         "coingeckoId": "galaxy-fight-club",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "xyfinance",
             "lifinance",
-            "1inch"
+            "xyfinance"
         ]
     },
     {
@@ -21330,8 +21396,8 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "rubic",
-            "lifinance"
+            "lifinance",
+            "rubic"
         ]
     },
     {
@@ -21396,11 +21462,11 @@
         "logoURI": "https://tokens.1inch.io/0x05089c9ebffa4f0aca269e32056b1b36b37ed71b.png",
         "coingeckoId": "polywhale",
         "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "openocean",
-            "1inch",
             "coingecko",
+            "elkfinance",
+            "1inch",
+            "sushiswap",
+            "openocean",
             "lifinance"
         ]
     },
@@ -21426,11 +21492,11 @@
         "logoURI": "https://tokens.1inch.io/0x04b33078ea1aef29bf3fb29c6ab7b200c58ea126.png",
         "coingeckoId": "safle",
         "listedIn": [
-            "1inch",
-            "quickswap",
-            "dfyn",
             "coingecko",
-            "lifinance"
+            "dfyn",
+            "1inch",
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -21457,6 +21523,19 @@
         "listedIn": [
             "coingecko",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "BTT",
+        "name": "BoughtThe.top",
+        "address": "0x04AE4aE7F9af802DE5A2Da9561948F6f24D4b043",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://api.rubic.exchange/assets/polygon/0x04ae4ae7f9af802de5a2da9561948f6f24d4b043/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "rubic"
         ]
     },
     {
@@ -21520,9 +21599,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x043A3Aa319B563aC25D4E342d32bFfb51298DB7b/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
+            "elkfinance",
             "lifinance",
-            "elkfinance"
+            "dfyn"
         ]
     },
     {
@@ -21560,12 +21639,12 @@
         "logoURI": "https://tokens.1inch.io/0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd.png",
         "coingeckoId": "wrapped-steth",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "xyfinance",
             "1inch",
-            "quickswap",
-            "rubic",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -21630,12 +21709,12 @@
         "logoURI": "https://tokens.1inch.io/0x034b2090b579228482520c589dbd397c53fc51cc.png",
         "coingeckoId": "apy-vision",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "elkfinance",
             "1inch",
-            "quickswap",
-            "rubic",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -21647,12 +21726,12 @@
         "logoURI": "https://tokens.1inch.io/0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20.png",
         "coingeckoId": "aga-token",
         "listedIn": [
-            "elkfinance",
-            "openocean",
-            "1inch",
-            "dfyn",
-            "rubic",
             "coingecko",
+            "rubic",
+            "dfyn",
+            "elkfinance",
+            "1inch",
+            "openocean",
             "lifinance"
         ]
     },
@@ -21665,8 +21744,8 @@
         "logoURI": "https://raw.githubusercontent.com/attrace/assets/main/images/attrace_logo_v2_256.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "lifinance",
+            "dfyn"
         ]
     },
     {
@@ -21704,9 +21783,9 @@
         "logoURI": "https://elk.finance/tokens/logos/matic/0x03247a4368A280bEc8133300cD930A3a61d604f6/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
+            "elkfinance",
             "lifinance",
-            "elkfinance"
+            "dfyn"
         ]
     },
     {
@@ -21772,8 +21851,8 @@
         "listedIn": [
             "coingecko",
             "rubic",
-            "xyfinance",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -21785,11 +21864,11 @@
         "logoURI": "https://tokens.1inch.io/0x02649c1ff4296038de4b9ba8f491b42b940a8252.png",
         "coingeckoId": "exchange-genesis-ethlas-medium",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "1inch",
-            "quickswap",
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "quickswap"
         ]
     },
     {
@@ -21853,10 +21932,10 @@
         "logoURI": "https://assets.coingecko.com/coins/images/19580/small/13211.png?1635469023",
         "coingeckoId": "algebra",
         "listedIn": [
+            "coingecko",
+            "rubic",
             "sushiswap",
             "quickswap",
-            "rubic",
-            "coingecko",
             "lifinance"
         ]
     },
@@ -21909,9 +21988,9 @@
         "logoURI": "https://tokens.1inch.io/0x00e5646f60ac6fb446f621d146b6e1886f002905.png",
         "coingeckoId": "rai",
         "listedIn": [
+            "1inch",
             "coingecko",
-            "lifinance",
-            "1inch"
+            "lifinance"
         ]
     },
     {
@@ -21989,11 +22068,11 @@
         "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
         "coingeckoId": "matic-network",
         "listedIn": [
-            "openocean",
+            "coingecko",
+            "rubic",
             "xyfinance",
             "1inch",
-            "rubic",
-            "coingecko",
+            "openocean",
             "lifinance"
         ]
     }
