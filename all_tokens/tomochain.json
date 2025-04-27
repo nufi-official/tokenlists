@@ -156,6 +156,18 @@
         ]
     },
     {
+        "symbol": "WUSD",
+        "name": "Worldwide USD",
+        "address": "0xBA73E59F11597c1c13B0D9114688Efb6A6D430F6",
+        "decimals": 18,
+        "chainId": 88,
+        "logoURI": "https://assets.coingecko.com/coins/images/35358/thumb/WUSD%282%29.png?1715042139",
+        "coingeckoId": "worldwide-usd",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "SAROS",
         "name": "Saros",
         "address": "0xB786D9c8120D311b948cF1e5Aa48D8fBacf477E2",
@@ -175,6 +187,18 @@
         "chainId": 88,
         "logoURI": "https://assets.coingecko.com/coins/images/27618/thumb/tomochain.jpeg?1664874783",
         "coingeckoId": "wrapped-tomo",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "DEF",
+        "name": "deFusion",
+        "address": "0xAa6F3E52cb0571b88E58A93FD1Cc0744254909D2",
+        "decimals": 18,
+        "chainId": 88,
+        "logoURI": "https://assets.coingecko.com/coins/images/55382/thumb/200x200_DF_logo.png?1745702918",
+        "coingeckoId": "defusion",
         "listedIn": [
             "coingecko"
         ]
