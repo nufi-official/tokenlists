@@ -452,7 +452,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "optimism"
         ]
     },
     {
@@ -586,6 +587,18 @@
         "coingeckoId": null,
         "listedIn": [
             "optimism"
+        ]
+    },
+    {
+        "symbol": "KBTC",
+        "name": "Kraken Wrapped BTC",
+        "address": "0x73E0C0d45E048D25Fc26Fa3159b0aA04BfA4Db98",
+        "decimals": 8,
+        "chainId": 130,
+        "logoURI": "https://assets.coingecko.com/coins/images/50879/thumb/kBTC.png?1730321084",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
