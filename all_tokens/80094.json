@@ -61,6 +61,18 @@
         ]
     },
     {
+        "symbol": "BR",
+        "name": "Bedrock",
+        "address": "0xd352dc6e5F0c45E2F2b38eb5565EB286A1ea4087",
+        "decimals": 18,
+        "chainId": 80094,
+        "logoURI": "https://assets.coingecko.com/coins/images/54908/thumb/BR_200px.png?1742453499",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "WGC",
         "name": "Wild Goat Coin",
         "address": "0xc53ac24320E3A54C7211e4993c8095078a0Cb3Cf",
@@ -483,8 +495,8 @@
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x6969696969696969696969696969696969696969/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
             "coingecko",
+            "elkfinance",
             "joe"
         ]
     },
