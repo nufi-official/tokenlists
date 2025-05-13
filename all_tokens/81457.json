@@ -368,7 +368,19 @@
         "logoURI": "https://assets.coingecko.com/coins/images/35494/thumb/Blast.jpg?1719385662",
         "coingeckoId": "blast",
         "listedIn": [
-            "uniswap",
+            "coingecko",
+            "uniswap"
+        ]
+    },
+    {
+        "symbol": "FWBLAST",
+        "name": "Few Wrapped Blast",
+        "address": "0xb1E4E8B433C76C1fD42Bd3099a5E5817fff69fE4",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/55675/thumb/blast-logo.png?1746978286",
+        "coingeckoId": "few-wrapped-blast",
+        "listedIn": [
             "coingecko"
         ]
     },
@@ -733,6 +745,18 @@
         ]
     },
     {
+        "symbol": "FWDETH",
+        "name": "Few Wrapped Duo ETH",
+        "address": "0xB0de93a54dA8a2cfCDe44a06F797aB2fb9d39fB8",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/55680/thumb/duo-eth-logo.png?1746978931",
+        "coingeckoId": "few-wrapped-duo-eth",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "WALRFD",
         "name": "Dinari WALRF",
         "address": "0xAc402DB779eEabcC6c88F0478bB381Cd2d0E15F7",
@@ -860,6 +884,18 @@
         "chainId": 81457,
         "logoURI": "https://assets.coingecko.com/coins/images/53951/thumb/d-token-200.png?1737788564",
         "coingeckoId": "dinari-jnj",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FWWBTC",
+        "name": "Few Wrapped Wrapped BTC",
+        "address": "0x97eCAD323F63060DF37FF0Cf05350803dB4D17Bd",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/55679/thumb/wrapped-btc-logo.png?1746978816",
+        "coingeckoId": "few-wrapped-wrapped-btc",
         "listedIn": [
             "coingecko"
         ]
@@ -1076,6 +1112,18 @@
         "chainId": 81457,
         "logoURI": "https://assets.coingecko.com/coins/images/53945/thumb/d-token-200.png?1737787680",
         "coingeckoId": "dinari-arkk",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FWUSDB",
+        "name": "Few Wrapped USDB",
+        "address": "0x866f2C06B83Df2ed7Ca9C2D044940E7CD55a06d6",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/55673/thumb/usdb-logo.png?1746977964",
+        "coingeckoId": "few-wrapped-usdb",
         "listedIn": [
             "coingecko"
         ]
@@ -1328,6 +1376,18 @@
         "chainId": 81457,
         "logoURI": "https://assets.coingecko.com/coins/images/36231/thumb/crypto-valleys.jpeg?1710906095",
         "coingeckoId": "crypto-valleys-yield-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FWWETH",
+        "name": "Few Wrapped Wrapped Ether",
+        "address": "0x66714DB8F3397c767d0A602458B5b4E3C0FE7dd1",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/55674/thumb/wrapped-eth-logo.png?1746978129",
+        "coingeckoId": "few-wrapped-wrapped-ether",
         "listedIn": [
             "coingecko"
         ]
@@ -1593,8 +1653,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/blast/0x4300000000000000000000000000000000000004/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "coingecko"
+            "coingecko",
+            "elkfinance"
         ]
     },
     {
@@ -1694,6 +1754,18 @@
         ]
     },
     {
+        "symbol": "FWORBIT",
+        "name": "Few Wrapped Orbit Protocol",
+        "address": "0x35b1cd11B684C7A9e1aA8d34e6B2a500310Ec35c",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/55676/thumb/orbit-protocol-logo.png?1746978419",
+        "coingeckoId": "few-wrapped-orbit-protocol",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "ANKR",
         "name": "Ankr Network",
         "address": "0x3580ac35BED2981d6bDD671a5982c2467d301241",
@@ -1725,6 +1797,18 @@
         "chainId": 81457,
         "logoURI": "https://assets.coingecko.com/coins/images/54396/thumb/d-token-200.png?1739485820",
         "coingeckoId": "dinari-vxx",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FWJUICE",
+        "name": "Few Wrapped Juice",
+        "address": "0x30c7b9F4CD589203d250aD165651e82E338CB5bB",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/55677/thumb/juice-logo.png?1746978537",
+        "coingeckoId": "few-wrapped-juice",
         "listedIn": [
             "coingecko"
         ]
@@ -2013,6 +2097,18 @@
         "chainId": 81457,
         "logoURI": "https://assets.coingecko.com/coins/images/34653/thumb/SquadSwap_Logo_-_main.png?1705599291",
         "coingeckoId": "squadswap",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FWDUSD",
+        "name": "Few Wrapped Duo USD",
+        "address": "0x04d4fd245aCD3d7b3a1126ae27173FCa354f658B",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/55678/thumb/usdb-logo.png?1746978644",
+        "coingeckoId": "few-wrapped-duo-usd",
         "listedIn": [
             "coingecko"
         ]
