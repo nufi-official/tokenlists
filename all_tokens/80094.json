@@ -220,6 +220,18 @@
         ]
     },
     {
+        "symbol": "MEAD",
+        "name": "Mead",
+        "address": "0xEDB5180661F56077292C92Ab40B1AC57A279a396",
+        "decimals": 18,
+        "chainId": 80094,
+        "logoURI": "https://assets.coingecko.com/coins/images/55743/thumb/MEAD.jpg?1747287719",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "YNETHX",
         "name": "ynETH MAX",
         "address": "0xE231DB5F348d709239Ef1741EA30961B3B635a61",
@@ -508,9 +520,9 @@
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x6969696969696969696969696969696969696969/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
             "joe",
-            "coingecko"
+            "coingecko",
+            "elkfinance"
         ]
     },
     {
