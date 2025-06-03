@@ -420,6 +420,18 @@
         ]
     },
     {
+        "symbol": "rETH",
+        "name": "Rocket Pool ETH",
+        "address": "0x94Cac393f3444cEf63a651FfC18497E7e8bd036a",
+        "decimals": 18,
+        "chainId": 130,
+        "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "WBTC",
         "name": "Wrapped BTC",
         "address": "0x927B51f251480a681271180DA4de28D44EC4AfB8",
@@ -452,8 +464,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "optimism"
+            "optimism",
+            "coingecko"
         ]
     },
     {
@@ -477,8 +489,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "optimism"
+            "optimism",
+            "coingecko"
         ]
     },
     {
@@ -1054,8 +1066,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "optimism"
+            "optimism",
+            "coingecko"
         ]
     },
     {
