@@ -134,9 +134,122 @@ class CoinGeckoTokenLists(TokenListProvider):
         "2741": "abstract",
         "130": "unichain",
         "8453": "base",
+        "-3": "ordinals",
         # sora
     }
     absent_chain_id = True
+
+
+class CoinGeckoOrdinalsTokenLists(TokenListProvider):
+    name = "coingecko_ordinals"
+    base_url = "https://api.coingecko.com/api/v3/coins/list?include_platform=true&x_cg_api_key=CG-Jw3SbMTpURV2M4CZ2b1pvrRS"
+    chains = {"-3": "ordinals"}  # Using -3 as chain ID for ordinals
+    absent_chain_id = True
+
+    @classmethod
+    async def get_tokenlists(cls) -> dict[str, dict[ChainId, list[Token]]]:
+        res: dict[ChainId, list[Token]] = defaultdict(list)
+
+        try:
+            # Get list of all tokens
+            num_retries = 0
+            while True:
+                try:
+                    resp = await httpx.AsyncClient().get(f"{cls.base_url}")
+                except httpx.ReadTimeout:
+                    await asyncio.sleep(0.5)
+                    continue
+
+                if resp.status_code == 200:
+                    break
+
+                if num_retries > 60:
+                    raise Exception(
+                        f"failed to get tokenlits {cls.base_url} after {num_retries} retries"
+                    )
+                sleep_time = int(resp.headers.get("Retry-After", 1))
+                num_retries += 1
+                log.info(f"[{cls.name}] waiting {sleep_time} seconds")
+                await asyncio.sleep(sleep_time)
+
+            tokens = resp.json()
+
+            # Filter tokens with ordinals platform
+            ordinals_tokens = [
+                t for t in tokens if "platforms" in t and "ordinals" in t["platforms"]
+            ]
+
+            # Fetch detailed info for each token
+            for token in ordinals_tokens:
+                log.info(f"[{cls.name}] {token['id']} start")
+                try:
+                    # Get detailed token info
+                    num_retries = 0
+                    while True:
+                        try:
+                            detail_resp = await httpx.AsyncClient().get(
+                                f"https://api.coingecko.com/api/v3/coins/{token['id']}?x_cg_api_key=CG-Jw3SbMTpURV2M4CZ2b1pvrRS"
+                            )
+                        except httpx.ReadTimeout:
+                            await asyncio.sleep(0.5)
+                            continue
+
+                        if detail_resp.status_code == 200:
+                            break
+
+                        if num_retries > 60:
+                            log.error(
+                                f"[{cls.name}] {token['id']} failed after {num_retries} retries"
+                            )
+                            break
+
+                        sleep_time = int(detail_resp.headers.get("Retry-After", 1))
+                        num_retries += 1
+                        log.info(
+                            f"[{cls.name}] {token['id']} waiting {sleep_time} seconds"
+                        )
+                        await asyncio.sleep(sleep_time)
+
+                    if detail_resp.status_code != 200:
+                        log.error(f"[{cls.name}] {token['id']} failed")
+                        continue
+
+                    detail = detail_resp.json()
+
+                    # Create token object
+                    token_data = {
+                        "symbol": token["symbol"],
+                        "name": token["name"],
+                        "address": detail["platforms"]["ordinals"],
+                        "decimals": detail["detail_platforms"]["ordinals"].get(
+                            "decimal_place", 0
+                        )
+                        or 0,
+                        "chainId": "-3",  # Using -3 for ordinals
+                        "logoURI": (
+                            detail["image"]["small"] if "image" in detail else None
+                        ),
+                        "coingeckoId": token["id"],
+                        "listedIn": ["coingecko"],
+                    }
+
+                    parsed_token = Token.parse_obj(token_data)
+                    res[parsed_token.chainId].append(parsed_token)
+
+                    log.info(f"[{cls.name}] {token['id']} OK")
+
+                    await asyncio.sleep(3)
+
+                except Exception as e:
+                    log.error(f"Error processing token {token['id']}: {str(e)}")
+                    continue
+
+        except Exception as e:
+            log.error(f"Error in CoinGeckoOrdinalsTokenLists: {str(e)}")
+
+        log.info(f"[{cls.name}] OK")
+
+        return {cls.name: res}
 
 
 class UniswapTokenLists(TokenListProvider):
@@ -496,6 +609,7 @@ class RouterProtocol(TokenListProvider):
 
 tokenlists_providers = [
     CoinGeckoTokenLists,
+    CoinGeckoOrdinalsTokenLists,
     OneInchTokenLists,
     UniswapTokenLists,
     SushiswapTokenLists,

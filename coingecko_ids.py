@@ -72,6 +72,7 @@ def get_coingecko_ids() -> dict[str, dict[Address, str]]:
         "32659": "fusion-network",
         "40": "telos",
         "-1": "solana",
+        "-3": "ordinals",
         "9001": "evmos",
         "59144": "linea",
         "81457": "blast",

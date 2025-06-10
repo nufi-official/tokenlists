@@ -51,6 +51,7 @@ CHAIN_NAMES_BY_ID = {
     "88": "tomochain",
     "97": "bsc-testnet",
     "9001": "evmos",
+    "-3": "bitcoin",
 }
 
 Address = NewType("Address", str)
