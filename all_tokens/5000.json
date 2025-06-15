@@ -368,8 +368,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mantle/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -409,6 +409,18 @@
         ]
     },
     {
+        "symbol": "MI4",
+        "name": "Mantle Index Four Fund",
+        "address": "0x671642Ac281C760e34251d51bC9eEF27026F3B7a",
+        "decimals": 6,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929",
+        "coingeckoId": "mantle-index-four-fund",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "DUSD",
         "name": "Davos xyz USD",
         "address": "0x62A509BA95c75Cabc7190469025E5aBeE4eDdb2a",
@@ -429,8 +441,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "dfyn"
+            "dfyn",
+            "coingecko"
         ]
     },
     {
