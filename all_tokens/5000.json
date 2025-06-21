@@ -441,8 +441,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "dfyn"
+            "dfyn",
+            "coingecko"
         ]
     },
     {
@@ -453,6 +453,18 @@
         "chainId": 5000,
         "logoURI": "https://assets.coingecko.com/coins/images/29455/thumb/MINTY.png?1706817774",
         "coingeckoId": "minterest",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "USDE",
+        "name": "Mantle Bridged USDe  Mantle ",
+        "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+        "decimals": 18,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/66730/thumb/usde.jpg?1750321863",
+        "coingeckoId": "mantle-bridged-usde-mantle",
         "listedIn": [
             "coingecko"
         ]

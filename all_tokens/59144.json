@@ -610,8 +610,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "dfyn"
+            "dfyn",
+            "coingecko"
         ]
     },
     {
@@ -862,6 +862,18 @@
         "chainId": 59144,
         "logoURI": "https://assets.coingecko.com/coins/images/22075/thumb/Logo_COIN_-_Gradiente.png?1696521419",
         "coingeckoId": "metalswap",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "ALINUSDC",
+        "name": "Aave USDC  Linea ",
+        "address": "0x374D7860c4f2f604De0191298dD393703Cce84f3",
+        "decimals": 6,
+        "chainId": 59144,
+        "logoURI": "https://assets.coingecko.com/coins/images/66757/thumb/usdc.png?1750409829",
+        "coingeckoId": "aave-usdc-linea",
         "listedIn": [
             "coingecko"
         ]

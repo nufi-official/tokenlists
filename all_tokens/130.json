@@ -440,6 +440,7 @@
         "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "optimism"
         ]
     },
@@ -599,6 +600,18 @@
         "coingeckoId": null,
         "listedIn": [
             "optimism"
+        ]
+    },
+    {
+        "symbol": "WEETH",
+        "name": "Ether fi Bridged weETH  Unichain ",
+        "address": "0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7",
+        "decimals": 18,
+        "chainId": 130,
+        "logoURI": "https://assets.coingecko.com/coins/images/66721/thumb/eeth.jpg?1750313748",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -778,6 +791,7 @@
         "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "optimism"
         ]
     },
@@ -1080,6 +1094,18 @@
         "listedIn": [
             "coingecko",
             "optimism"
+        ]
+    },
+    {
+        "symbol": "WBTC",
+        "name": "LayerZero Bridged WBTC  Unichain ",
+        "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "decimals": 8,
+        "chainId": 130,
+        "logoURI": "https://assets.coingecko.com/coins/images/66720/thumb/wbtc.jpg?1750312819",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
