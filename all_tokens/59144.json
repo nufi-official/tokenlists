@@ -68,8 +68,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -489,8 +489,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0x7d43AABC515C356145049227CeE54B608342c0ad/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -610,8 +610,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "dfyn"
+            "dfyn",
+            "coingecko"
         ]
     },
     {
@@ -706,6 +706,18 @@
         "chainId": 59144,
         "logoURI": "https://assets.coingecko.com/coins/images/15075/thumb/wrapped-avax.png?1696514734",
         "coingeckoId": "wrapped-avax",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "WFRAX",
+        "name": "Wrapped FRAX",
+        "address": "0x5217Ab28ECE654Aab2C68efedb6A22739df6C3D5",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
+        "coingeckoId": "wrapped-frax",
         "listedIn": [
             "coingecko"
         ]
@@ -1007,8 +1019,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0x176211869cA2b568f2A7D4EE941E073a821EE1ff/logo.png",
         "coingeckoId": "bridged-usd-coin-linea",
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
