@@ -229,6 +229,18 @@
         ]
     },
     {
+        "symbol": "REX",
+        "name": "Etherex",
+        "address": "0xEfD81eeC32B9A8222D1842ec3d99c7532C31e348",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "https://assets.coingecko.com/coins/images/68009/thumb/etherex.jpg?1754560098",
+        "coingeckoId": "etherex",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "AXLFRXETH",
         "name": "Axelar Bridged Frax Ether",
         "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
@@ -634,8 +646,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "dfyn"
+            "dfyn",
+            "coingecko"
         ]
     },
     {
