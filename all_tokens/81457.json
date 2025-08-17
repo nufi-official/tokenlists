@@ -1453,6 +1453,18 @@
         ]
     },
     {
+        "symbol": "USDE",
+        "name": "Blast Bridged USDE  Blast ",
+        "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/68281/thumb/usde.jpg?1755239722",
+        "coingeckoId": "blast-bridged-usde-blast",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "INETH",
         "name": "Inception Restaked ETH",
         "address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
@@ -1653,8 +1665,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/blast/0x4300000000000000000000000000000000000004/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "coingecko"
+            "coingecko",
+            "elkfinance"
         ]
     },
     {
