@@ -368,8 +368,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/35494/thumb/Blast.jpg?1719385662",
         "coingeckoId": "blast",
         "listedIn": [
-            "uniswap",
-            "coingecko"
+            "coingecko",
+            "uniswap"
         ]
     },
     {
@@ -956,6 +956,18 @@
         "chainId": 81457,
         "logoURI": "https://assets.coingecko.com/coins/images/54187/thumb/d-token-200.png?1738682583",
         "coingeckoId": "dinari-pho",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "LINK",
+        "name": "Chainlink",
+        "address": "0x93202eC683288a9EA75BB829c6baCFb2BfeA9013",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+        "coingeckoId": "chainlink",
         "listedIn": [
             "coingecko"
         ]
@@ -1665,8 +1677,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/blast/0x4300000000000000000000000000000000000004/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "coingecko"
+            "coingecko",
+            "elkfinance"
         ]
     },
     {
@@ -1917,6 +1929,18 @@
         "chainId": 81457,
         "logoURI": "https://assets.coingecko.com/coins/images/35676/thumb/pump_%281%29.jpg?1709520871",
         "coingeckoId": "pump",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SUSDE",
+        "name": "Ethena Staked USDe",
+        "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680",
+        "coingeckoId": "ethena-staked-usde",
         "listedIn": [
             "coingecko"
         ]
