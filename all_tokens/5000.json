@@ -1,5 +1,17 @@
 [
     {
+        "symbol": "LINK",
+        "name": "Chainlink",
+        "address": "0xfe36cF0B43aAe49fBc5cFC5c0AF22a623114E043",
+        "decimals": 18,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+        "coingeckoId": "chainlink",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "ELK",
         "name": "Elk",
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -368,8 +380,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mantle/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -441,8 +453,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "dfyn"
+            "dfyn",
+            "coingecko"
         ]
     },
     {

@@ -68,8 +68,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -229,6 +229,18 @@
         ]
     },
     {
+        "symbol": "LINK",
+        "name": "Chainlink",
+        "address": "0xa18152629128738a5c081eb226335FEd4B9C95e9",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+        "coingeckoId": "chainlink",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "CADC",
         "name": "CAD Coin",
         "address": "0xa0b18e70387BA72d1C7038Bc0BD3A05e5a2287f6",
@@ -380,6 +392,18 @@
         "chainId": 59144,
         "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/xSolvBTC.png?1744170824",
         "coingeckoId": "solv-protocol-solvbtc-bbn",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FRXUSD",
+        "name": "Frax USD",
+        "address": "0xC7346783f5e645aa998B106Ef9E7f499528673D8",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
+        "coingeckoId": "frax-usd",
         "listedIn": [
             "coingecko"
         ]
@@ -585,8 +609,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0x7d43AABC515C356145049227CeE54B608342c0ad/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -706,8 +730,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "dfyn"
+            "dfyn",
+            "coingecko"
         ]
     },
     {
@@ -1139,8 +1163,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0x176211869cA2b568f2A7D4EE941E073a821EE1ff/logo.png",
         "coingeckoId": "bridged-usd-coin-linea",
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
