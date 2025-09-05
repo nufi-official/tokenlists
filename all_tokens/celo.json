@@ -441,11 +441,11 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cBTC.png",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
-            "ubeswap",
             "sushiswap",
+            "uniswap",
+            "ubeswap",
             "coingecko",
-            "lifinance",
-            "uniswap"
+            "lifinance"
         ]
     },
     {
@@ -834,11 +834,11 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSD.png",
         "coingeckoId": "celo-dollar",
         "listedIn": [
-            "ubeswap",
             "sushiswap",
+            "ubeswap",
             "coingecko",
-            "lifinance",
-            "elkfinance"
+            "elkfinance",
+            "lifinance"
         ]
     },
     {
@@ -1136,12 +1136,12 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png",
         "coingeckoId": "celo",
         "listedIn": [
-            "ubeswap",
             "sushiswap",
-            "coingecko",
-            "lifinance",
             "uniswap",
-            "elkfinance"
+            "ubeswap",
+            "coingecko",
+            "elkfinance",
+            "lifinance"
         ]
     },
     {
