@@ -759,6 +759,18 @@
         ]
     },
     {
+        "symbol": "USDE",
+        "name": "Ethena USDe",
+        "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "https://assets.coingecko.com/coins/images/33613/thumb/usde.png?1733810059",
+        "coingeckoId": "ethena-usde",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "XRGB",
         "name": "XRGB",
         "address": "0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a",
@@ -1095,6 +1107,18 @@
         ]
     },
     {
+        "symbol": "SUSDE",
+        "name": "Ethena Staked USDe",
+        "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680",
+        "coingeckoId": "ethena-staked-usde",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "LUBE",
         "name": "LUBE",
         "address": "0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf",
@@ -1150,6 +1174,18 @@
         "chainId": 59144,
         "logoURI": "https://assets.coingecko.com/coins/images/37842/thumb/weETH_%281%29.png?1715747077",
         "coingeckoId": "bridged-weeth-linea",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "LINEA",
+        "name": "Linea",
+        "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "https://assets.coingecko.com/coins/images/68507/thumb/linea-logo.jpeg?1756025484",
+        "coingeckoId": "linea",
         "listedIn": [
             "coingecko"
         ]
