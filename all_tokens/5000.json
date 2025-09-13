@@ -392,8 +392,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mantle/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -530,6 +530,18 @@
         ]
     },
     {
+        "symbol": "ENA",
+        "name": "Ethena",
+        "address": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+        "decimals": 18,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436",
+        "coingeckoId": "ethena",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "CDFI",
         "name": "CeDeFiAi",
         "address": "0x527856315a4bCD2F428EA7fA05ea251f7e96A50A",
@@ -597,6 +609,18 @@
         "chainId": 5000,
         "logoURI": "https://assets.coingecko.com/coins/images/53060/thumb/frax.jpg?1735171829",
         "coingeckoId": "bridged-frax",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "BOX",
+        "name": "DeBox",
+        "address": "0x3d142CDb27B537AF57a55eE8f54adA953b4b9Ecd",
+        "decimals": 18,
+        "chainId": 5000,
+        "logoURI": "https://assets.coingecko.com/coins/images/50224/thumb/v6TSd2dN_400x400.jpg?1726521525",
+        "coingeckoId": "debox",
         "listedIn": [
             "coingecko"
         ]

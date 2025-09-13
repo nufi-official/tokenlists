@@ -368,8 +368,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/35494/thumb/Blast.jpg?1719385662",
         "coingeckoId": "blast",
         "listedIn": [
-            "coingecko",
-            "uniswap"
+            "uniswap",
+            "coingecko"
         ]
     },
     {
@@ -1525,6 +1525,18 @@
         ]
     },
     {
+        "symbol": "ENA",
+        "name": "Ethena",
+        "address": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436",
+        "coingeckoId": "ethena",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "DUSD",
         "name": "Davos xyz USD",
         "address": "0x578122317baCa7A3C7BB5301460d2f4F96E9394A",
@@ -1677,8 +1689,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/blast/0x4300000000000000000000000000000000000004/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
