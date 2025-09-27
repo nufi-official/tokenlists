@@ -36,12 +36,36 @@
         ]
     },
     {
+        "symbol": "WIT",
+        "name": "Wrapped WIT",
+        "address": "0xFABADA3D500B84B1AeD07b9B6d5651BA91a10beD",
+        "decimals": 9,
+        "chainId": 11155420,
+        "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "ETH",
         "name": "Ether",
         "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
         "decimals": 18,
         "chainId": 11155420,
         "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "LITKEY",
+        "name": "Lit Protocol",
+        "address": "0x841Fb6a6893f48164a52CFbFc69462385688B0c1",
+        "decimals": 18,
+        "chainId": 11155420,
+        "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "optimism"

@@ -264,6 +264,18 @@
         ]
     },
     {
+        "symbol": "BRBTC",
+        "name": "Bedrock BTC",
+        "address": "0xa161132371C94299D215915D4Cbc3B629E2059Be",
+        "decimals": 8,
+        "chainId": 130,
+        "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "FORTH",
         "name": "Ampleforth Governance",
         "address": "0xFa004fa2ad8Ef993C2B0412baB776b182220F12e",
@@ -524,6 +536,7 @@
         "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "optimism"
         ]
     },

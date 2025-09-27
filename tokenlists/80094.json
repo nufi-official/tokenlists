@@ -91,6 +91,19 @@
         ]
     },
     {
+        "symbol": "rswETH",
+        "name": "rswETH",
+        "address": "0x850CDF416668210ED0c36bfFF5d21921C7adA3b8",
+        "decimals": 18,
+        "chainId": 80094,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x850CDF416668210ED0c36bfFF5d21921C7adA3b8/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "weETH",
         "name": "Wrapped eETH",
         "address": "0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7",
@@ -125,8 +138,8 @@
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x6969696969696969696969696969696969696969/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "elkfinance",
+            "coingecko",
             "joe"
         ]
     },
