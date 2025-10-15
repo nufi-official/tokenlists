@@ -322,8 +322,6 @@ class OneInchTokenLists(TokenListProvider):
         "42161": "42161",
         "100": "100",
         "43114": "43114",
-        "250": "250",
-        "1313161554": "1313161554",
         "8453": "8453",
     }
     _tokens_to_list = True
