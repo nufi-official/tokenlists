@@ -481,6 +481,18 @@
         ]
     },
     {
+        "symbol": "AXLUSDC",
+        "name": "Axelar Bridged USDC (Blast)",
+        "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+        "decimals": 6,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/69736/thumb/usdc.jpg?1759466653",
+        "coingeckoId": "axelar-bridged-usdc-blast",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "EEMD",
         "name": "Dinari EEM",
         "address": "0xE99292Ca55f6e01765b900dAdd471c63136E6760",
@@ -1177,6 +1189,18 @@
         ]
     },
     {
+        "symbol": "FRXUSD",
+        "name": "Frax USD",
+        "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
+        "coingeckoId": "frax-usd",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "RKLBD",
         "name": "Dinari RKLB",
         "address": "0x771952e0d7701f9D9eeeAF69C51bfdD57cBd6a6A",
@@ -1424,6 +1448,18 @@
         "chainId": 81457,
         "logoURI": "https://assets.coingecko.com/coins/images/54052/thumb/d-token-200.png?1738103629",
         "coingeckoId": "dinari-defi",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "WFRAX",
+        "name": "Wrapped FRAX",
+        "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a",
+        "decimals": 18,
+        "chainId": 81457,
+        "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
+        "coingeckoId": "wrapped-frax",
         "listedIn": [
             "coingecko"
         ]
@@ -1689,8 +1725,8 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/blast/0x4300000000000000000000000000000000000004/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
