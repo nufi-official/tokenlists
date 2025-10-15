@@ -307,7 +307,7 @@ class SushiswapTokenLists(TokenListProvider):
         "4": "rinkeby",
         "3": "ropsten",
         "40": "telos",
-        "100": "xdai",
+        # "100": "xdai",
     }
 
 
@@ -341,7 +341,7 @@ class OpenOceanTokenLists(TokenListProvider):
         "10": "optimistic-ethereum",
         "137": "polygon-pos",
         "288": "boba",
-        "100": "xdai-gnosis",
+        # "100": "xdai-gnosis",
         "128": "heco",
         "1": "ethereum",
     }
@@ -375,7 +375,7 @@ class ElkFinanceTokenLists(TokenListProvider):
         "80001": "mumbai",
         "66": "okex",
         "40": "telos",
-        "100": "xdai",
+        # "100": "xdai",
         "8453": "base",
         "80094": "berachain",
         "81457": "blast",
@@ -426,7 +426,7 @@ class RubicLists(TokenListProvider):
         # "25": "cronos",
         "40": "telos",
         "56": "binance-smart-chain",
-        "100": "xdai",
+        # "100": "xdai",
         "137": "polygon",
         "250": "fantom",
         "1284": "moonbeam",
