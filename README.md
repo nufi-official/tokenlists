@@ -40,9 +40,9 @@ or in API.
 Here are chains presented in our tokenlists with current token count. You can find out more in `/tokenlists` folder.
 Token counts are approximate and may vary as providers update their tokenlists.
 
-- Ethereum, 5972 tokens
+- Ethereum, 5976 tokens
 - Polygon, 1682 tokens
-- Bsc, 1614 tokens
+- Bsc, 1615 tokens
 - Solana, 639 tokens
 - Avax, 551 tokens
 - 101, 507 tokens
@@ -60,8 +60,8 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Celo, 76 tokens
 - Harmony, 76 tokens
 - Okex, 48 tokens
-- Fuse, 23 tokens
 - Evmos, 23 tokens
+- Fuse, 23 tokens
 - 80094, 19 tokens
 - Astar, 15 tokens
 - Boba, 14 tokens
