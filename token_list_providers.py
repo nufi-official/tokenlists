@@ -102,30 +102,14 @@ class CoinGeckoTokenLists(TokenListProvider):
     name = "coingecko"
     base_url = "https://tokens.coingecko.com/{}/all.json"
     chains = {
-        "592": "astar",
-        "1284": "moonbeam",
-        "361": "theta",
-        "70": "hoo-smart-chain",
         "42161": "arbitrum-one",
         "56": "binance-smart-chain",
-        "66": "okex-chain",
-        "250": "fantom",
-        "88": "tomochain",
-        "82": "meter",
-        "42220": "celo",
         "10": "optimistic-ethereum",
         "137": "polygon-pos",
         "43114": "avalanche",
-        "1285": "moonriver",
-        "25": "cronos",
-        "288": "boba",
-        "10000": "smartbch",
-        "1313161554": "aurora",
-        "1666600000": "harmony-shard-0",
         "100": "xdai",
         "1": "ethereum",
         "-1": "solana",
-        "9001": "evmos",
         "59144": "linea",
         "81457": "blast",
         "5000": "mantle",
@@ -256,19 +240,13 @@ class UniswapTokenLists(TokenListProvider):
     name = "uniswap"
     base_url = "https://raw.githubusercontent.com/Uniswap/default-token-list/main/src/tokens/{}.json"
     chains = {
-        "5": "goerli",
-        "11155111": "sepolia",
-        "42": "kovan",
         "1": "mainnet",
         "80001": "mumbai",
         "137": "polygon",
-        "4": "rinkeby",
-        "3": "ropsten",
         "81457": "blast",
         "42161": "arbitrum",
         "43114": "avalanche",
         "56": "bnb",
-        "42220": "celo",
         "137": "polygon",
         "10": "optimism",
         "8453": "base",
@@ -281,33 +259,9 @@ class SushiswapTokenLists(TokenListProvider):
     chains = {
         "42161": "arbitrum",
         "43114": "avalanche",
-        "97": "bsc-testnet",
         "56": "bsc",
-        "42220": "celo",
-        "1024": "clover",
-        "4002": "fantom-testnet",
-        "250": "fantom",
-        "43113": "fuji",
-        "122": "fuse",
-        "5": "goerli",
-        "1666700000": "harmony-testnet",
-        "1666600000": "harmony",
-        "256": "heco-testnet",
-        "128": "heco",
-        "42": "kovan",
         "1": "mainnet",
-        "80001": "matic-testnet",
         "137": "matic",
-        "1287": "moonbase",
-        "1285": "moonriver",
-        "1284": "moonbeam",
-        "65": "okex-testnet",
-        "66": "okex",
-        "11297108109": "palm",
-        "4": "rinkeby",
-        "3": "ropsten",
-        "40": "telos",
-        # "100": "xdai",
     }
 
 
@@ -336,13 +290,8 @@ class OpenOceanTokenLists(TokenListProvider):
         "42161": "arbitrum-one",
         "43114": "avalanche",
         "56": "binance-smart-chain",
-        "66": "okex-chain",
-        "250": "fantom",
         "10": "optimistic-ethereum",
         "137": "polygon-pos",
-        "288": "boba",
-        # "100": "xdai-gnosis",
-        "128": "heco",
         "1": "ethereum",
     }
     _by_chain_id = True
@@ -355,27 +304,12 @@ class ElkFinanceTokenLists(TokenListProvider):
         "https://raw.githubusercontent.com/elkfinance/tokens/main/{}.tokenlist.json"
     )
     chains = {
-        "42161": "farms",
         "43114": "avax",
         "56": "bsc",
-        "25": "cronos",
-        "20": "elastos",
         "1": "ethereum",
-        "250": "ftm",
-        "4002": "ftmtest",
-        "43113": "fuji",
-        "122": "fuse",
-        "1666600000": "harmony",
-        "128": "heco",
-        "70": "hoo",
-        "4689": "iotex",
-        "321": "kcc",
         "137": "matic",
         "1285": "moonriver",
         "80001": "mumbai",
-        "66": "okex",
-        "40": "telos",
-        # "100": "xdai",
         "8453": "base",
         "80094": "berachain",
         "81457": "blast",
@@ -402,100 +336,18 @@ class QuickSwapTokenLists(TokenListProvider):
     chains = {"137": "polygon"}
 
 
-class FuseSwapTokenLists(TokenListProvider):
-    name = "fuseswap"
-    base_url = "https://raw.githubusercontent.com/fuseio/fuseswap-default-token-list/master/src/tokens/fuse.json"
-    chains = {"122": "fuse"}
-
-
-class TrisolarisLabsLists(TokenListProvider):
-    name = "trisolaris"
-    base_url = "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/lists/tokens.json"
-    chains = {
-        "1313161554": "1313161554",
-    }
-
-
 class RubicLists(TokenListProvider):
     name = "rubic"
     base_url = "https://tokens.rubic.exchange/api/v1/tokens/?network={}"
     chains = {
-        "-2": "near",
         "-1": "solana",
         "1": "ethereum",
-        # "25": "cronos",
-        "40": "telos",
         "56": "binance-smart-chain",
-        # "100": "xdai",
         "137": "polygon",
-        "250": "fantom",
-        "1284": "moonbeam",
-        "1285": "moonriver",
         "42161": "arbitrum",
         "43114": "avalanche",
-        "1313161554": "aurora",
-        "1666600000": "harmony",
     }
     absent_chain_id = True
-
-
-class CronaSwapLists(TokenListProvider):
-    name = "cronaswap"
-    base_url = "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos.json"
-    chains = {"25": "cronos"}
-
-
-class Ubeswap(TokenListProvider):
-    name = "ubeswap"
-    base_url = "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap.token-list.json"
-    chains = {"42220": "celo"}
-
-
-class OolongSwap(TokenListProvider):
-    name = "oolongswap"
-    base_url = "https://raw.githubusercontent.com/OolongSwap/boba-community-token-list/main/src/tokens/boba.json"
-    chains = {"288": "boba"}
-
-
-class Multichain(TokenListProvider):
-    name = "multichain"
-    base_url = "https://bridgeapi.anyswap.exchange/v4/poollist/{}"
-    chains = {"592": "592"}
-    _tokens_to_list = True
-
-
-class XyFinance(TokenListProvider):
-    name = "xyfinance"
-    base_url = "https://open-api.xy.finance/v1/recommendedTokens?chainId={}"
-    chains = {
-        "1": "1",
-        "56": "56",
-        "137": "137",
-        "250": "250",
-        "25": "25",
-        "43114": "43114",
-        "42161": "42161",
-        "10": "10",
-        "1285": "1285",
-        "592": "592",
-        "321": "321",
-        "1818": "1818",
-    }
-
-
-class MojitoSwap(TokenListProvider):
-    name = "mojitoswap"
-    base_url = "https://raw.githubusercontent.com/MojitoFinance/mjtTokenList/461d2ca814d12c37516b986fabfcd21446283ed7/mjtTokenList.json"
-    chains = {"321": "321"}
-    absent_chain_id = True
-
-
-class CapricornFinance(TokenListProvider):
-    name = "capricorn_finance"
-    base_url = (
-        "https://raw.githubusercontent.com/capricorn-finance/info-blist/main/list.json"
-    )
-    chains = {"1818": "1818"}
 
 
 class Lifinance(TokenListProvider):
@@ -506,20 +358,7 @@ class Lifinance(TokenListProvider):
     chains = {
         "1": "1",  # eth
         "10": "10",  # optimism
-        # "25": "25", // cronos mainnet
-        # "56": "56",
-        # "66": "66",
-        # "100": "100",
-        # "122": "122",
         "137": "137",  # polygon
-        # "250": "250",
-        # "1284": "1284",
-        # "1285": "1285",
-        # "9001": "9001",
-        # "42161": "42161",
-        # "42220": "42220",
-        # "43114": "43114",
-        # "1666600000": "1666600000",
     }
 
 
@@ -532,12 +371,9 @@ class Dfyn(TokenListProvider):
     chains = {
         "1": "1",
         "10": "10",
-        "25": "25",
         "56": "56",
         "137": "137",
-        "250": "250",
         "43114": "43114",
-        "1666600000": "1666600000",
     }
 
 
@@ -581,13 +417,6 @@ class Optimism(TokenListProvider):
     }
 
 
-class SpookySwap(TokenListProvider):
-    name = "SpookySwap"
-    base_url = "https://raw.githubusercontent.com/SpookySwap/spooky-info/master/src/constants/token/spookyswap.json"
-
-    chains = {"250": "250"}
-
-
 class RouterProtocol(TokenListProvider):
     name = "RouterProtocol"
     base_url = "https://raw.githubusercontent.com/router-protocol/reserve-asset-list/main/router-reserve-asset.json"
@@ -595,13 +424,9 @@ class RouterProtocol(TokenListProvider):
     chains = {
         "1": "1",
         "10": "10",
-        "25": "25",
         "56": "56",
         "137": "137",
-        "250": "250",
         "42161": "42161",
-        "1313161554": "1313161554",
-        "1666600000": "1666600000",
     }
 
 
@@ -611,27 +436,13 @@ tokenlists_providers = [
     OneInchTokenLists,
     UniswapTokenLists,
     SushiswapTokenLists,
-    # OpenOceanTokenLists,
-    # OneSolTokenLists,  started failing at some point
     QuickSwapTokenLists,
-    FuseSwapTokenLists,
-    TrisolarisLabsLists,
-    Dfyn,
     RouterProtocol,
-    SpookySwap,
     Optimism,
     ArbitrumBridge,
     TraderJoe,
-    # Pangolin,  started failing at some point
     PancakeSwap,
-    MojitoSwap,
     RubicLists,
     Lifinance,
-    XyFinance,
     ElkFinanceTokenLists,
-    Multichain,
-    CronaSwapLists,
-    Ubeswap,
-    OolongSwap,
-    CapricornFinance,
 ]
