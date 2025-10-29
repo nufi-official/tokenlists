@@ -53,7 +53,7 @@ def merge_tokens(
 
 
 def filter_ignored_tokens(
-    tokens: dict[int, dict[Address, Token]]
+    tokens: dict[int, dict[Address, Token]],
 ) -> dict[int, dict[Address, Token]]:
     # {chain_id: set(addresses)}
     IGNORE_LIST = {
