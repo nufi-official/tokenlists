@@ -205,11 +205,11 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
-            "coingecko",
+            "1inch",
             "elkfinance",
-            "1inch"
+            "coingecko",
+            "uniswap"
         ]
     },
     {
@@ -1606,11 +1606,11 @@
         "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
-            "coingecko",
+            "1inch",
             "elkfinance",
-            "1inch"
+            "coingecko",
+            "uniswap"
         ]
     },
     {
@@ -2161,10 +2161,23 @@
         "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
-            "coingecko",
+            "1inch",
             "elkfinance",
+            "coingecko",
+            "uniswap"
+        ]
+    },
+    {
+        "symbol": "jesse",
+        "name": "jesse",
+        "address": "0x50F88fe97f72CD3E75b9Eb4f747F59BcEBA80d59",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://tokens-data.1inch.io/images/8453/0x50f88fe97f72cd3e75b9eb4f747f59bceba80d59_0xa1bff79a194ffc35110e1b7065343be410ca25b31e7ce320995a8aa482660b8e.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko",
             "1inch"
         ]
     },
@@ -2324,11 +2337,11 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x4200000000000000000000000000000000000006/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
-            "coingecko",
+            "1inch",
             "elkfinance",
-            "1inch"
+            "coingecko",
+            "uniswap"
         ]
     },
     {
