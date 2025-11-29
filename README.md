@@ -41,7 +41,7 @@ Here are chains presented in our tokenlists with current token count. You can fi
 Token counts are approximate and may vary as providers update their tokenlists.
 
 - Ethereum, 6051 tokens
-- Bsc, 1763 tokens
+- Bsc, 1766 tokens
 - Polygon, 1687 tokens
 - Solana, 643 tokens
 - Avax, 558 tokens
