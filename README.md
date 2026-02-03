@@ -48,7 +48,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Arbitrum, 502 tokens
 - Gnosis, 374 tokens
 - Optimism, 361 tokens
-- 8453, 263 tokens
+- 8453, 264 tokens
 - Bitcoin, 96 tokens
 - Fuse, 23 tokens
 - 80094, 20 tokens
