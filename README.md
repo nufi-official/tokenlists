@@ -52,7 +52,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Bitcoin, 96 tokens
 - Fuse, 23 tokens
 - 80094, 20 tokens
-- 130, 6 tokens
+- 130, 7 tokens
 
 Testnets:
 
