@@ -32,8 +32,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -311,8 +311,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/PRIME/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -2360,6 +2360,18 @@
         ]
     },
     {
+        "symbol": "ZAB",
+        "name": "Wazabi AI",
+        "address": "0xdB88C481aF72731FCDC7eAf37bE0d4d15B734e69",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102172576/thumb/-6181256193435700765_120.png?1773989431",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "RIVER",
         "name": "River",
         "address": "0xdA7AD9dea9397cffdDAE2F8a052B82f1484252B3",
@@ -2404,11 +2416,11 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "uniswap",
-            "elkfinance",
             "1inch",
-            "coingecko"
+            "coingecko",
+            "elkfinance",
+            "uniswap",
+            "optimism"
         ]
     },
     {
@@ -3428,8 +3440,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/GHST/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -3780,8 +3792,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/1INCH/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -3953,8 +3965,8 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "optimism",
-            "1inch"
+            "1inch",
+            "optimism"
         ]
     },
     {
@@ -4098,8 +4110,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -5716,6 +5728,18 @@
         ]
     },
     {
+        "symbol": "FISH",
+        "name": "Angland FISH",
+        "address": "0xaB646Ee997975B97851A923e4E8DaF4EA36D1e9b",
+        "decimals": 4,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102172557/thumb/common_icon_coin_fish.png?1773891264",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "RSR",
         "name": "Reserve Rights",
         "address": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a",
@@ -5724,8 +5748,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/RSR/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "uniswap",
+            "optimism",
             "coingecko"
         ]
     },
@@ -5992,8 +6016,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/RNBW/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "uniswap",
+            "optimism",
             "coingecko"
         ]
     },
@@ -6453,8 +6477,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/RSC/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "uniswap",
+            "optimism",
             "coingecko"
         ]
     },
@@ -8666,8 +8690,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/superOETH/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "1inch"
+            "1inch",
+            "optimism"
         ]
     },
     {
@@ -8961,6 +8985,18 @@
         ]
     },
     {
+        "symbol": "HISTORY",
+        "name": "Ethereum History",
+        "address": "0xD67A9266D0ae84839f62197713B2D2A9f3a62Ba3",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102172584/thumb/history.jpg?1774031148",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "UETC",
         "name": "Wrapped Ethereum Classic  Universal ",
         "address": "0xD61BCF79b26787AE993f75B064d2e3b3cc738C5d",
@@ -9054,6 +9090,18 @@
         "coingeckoId": null,
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "KAT",
+        "name": "Katana",
+        "address": "0xD5390300c5DB71F80d46f0fA9983Fc72D4d1e3da",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38769.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "uniswap"
         ]
     },
     {
@@ -9404,8 +9452,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/FARM/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "1inch"
+            "1inch",
+            "optimism"
         ]
     },
     {
@@ -10796,8 +10844,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -11063,8 +11111,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -12065,8 +12113,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -12740,8 +12788,8 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -13057,8 +13105,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/YFI/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -14947,8 +14995,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -15032,6 +15080,18 @@
         "decimals": 9,
         "chainId": 8453,
         "logoURI": "https://assets.coingecko.com/coins/images/33283/thumb/Besa_Gaming_Company_BESA_200.png?1701363231",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "OVPP",
+        "name": "OpenVPP",
+        "address": "0x8C0d3ADCF8Ce094E1aE437557Ec90A6374dC9BDD",
+        "decimals": 9,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102172562/thumb/openvpp.jpg?1773902230",
         "coingeckoId": null,
         "listedIn": [
             "coingecko"
@@ -15914,11 +15974,11 @@
         "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "uniswap",
-            "elkfinance",
             "1inch",
-            "coingecko"
+            "coingecko",
+            "elkfinance",
+            "uniswap",
+            "optimism"
         ]
     },
     {
@@ -16615,8 +16675,8 @@
         "logoURI": "https://tokens-data.1inch.io/images/8453/0x7fcd174e80f264448ebee8c88a7c4476aaf58ea6.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -16774,8 +16834,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/SUSHI/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -18228,8 +18288,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/OGN/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -20203,8 +20263,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "coingecko"
+            "coingecko",
+            "dfyn"
         ]
     },
     {
@@ -22208,8 +22268,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/SPX/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "uniswap",
+            "optimism",
             "coingecko"
         ]
     },
@@ -22246,11 +22306,11 @@
         "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "uniswap",
-            "elkfinance",
             "1inch",
-            "coingecko"
+            "coingecko",
+            "elkfinance",
+            "uniswap",
+            "optimism"
         ]
     },
     {
@@ -23314,8 +23374,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/WAMPL/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -23569,8 +23629,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -24186,11 +24246,11 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x4200000000000000000000000000000000000006/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "uniswap",
-            "elkfinance",
             "1inch",
-            "coingecko"
+            "coingecko",
+            "elkfinance",
+            "uniswap",
+            "optimism"
         ]
     },
     {
@@ -24287,8 +24347,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -24821,8 +24881,8 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "optimism",
-            "1inch"
+            "1inch",
+            "optimism"
         ]
     },
     {
@@ -25352,8 +25412,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/OM/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -25814,8 +25874,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -27047,8 +27107,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/BITCOIN/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "uniswap",
+            "optimism",
             "coingecko"
         ]
     },
@@ -27170,8 +27230,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/MOG/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -27380,8 +27440,8 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -28302,8 +28362,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/tBTC/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -28388,8 +28448,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -29553,8 +29613,8 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -29844,8 +29904,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/PRO/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "1inch",
+            "optimism",
             "coingecko"
         ]
     },
@@ -30730,8 +30790,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/69122/thumb/synd.png?1757576144",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "uniswap",
+            "optimism",
             "coingecko"
         ]
     },
@@ -31868,8 +31928,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/TEL/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "uniswap",
+            "optimism",
             "coingecko"
         ]
     },
@@ -33407,8 +33467,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/TOWNS/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
             "uniswap",
+            "optimism",
             "coingecko"
         ]
     },
