@@ -119,6 +119,7 @@ class CoinGeckoTokenLists(TokenListProvider):
         "130": "unichain",
         "8453": "base",
         "-3": "ordinals",
+        "999": "hyperevm",
         # sora
     }
     absent_chain_id = True
