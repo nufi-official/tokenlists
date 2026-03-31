@@ -12,7 +12,6 @@ CHAIN_NAMES_BY_ID = {
     "42161": "arbitrum",
     "43114": "avax",
     "56": "bsc",
-    "999": "hyperevm",
     "-3": "bitcoin",
 }
 
