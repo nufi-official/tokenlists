@@ -120,7 +120,7 @@ class CoinGeckoTokenLists(TokenListProvider):
         "8453": "base",
         "-3": "ordinals",
         "999": "hyperevm",
-        # sora
+        "143": "monad",
     }
     absent_chain_id = True
 
