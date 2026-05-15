@@ -40,8 +40,8 @@ or in API.
 Here are chains presented in our tokenlists with current token count. You can find out more in `/tokenlists` folder.
 Token counts are approximate and may vary as providers update their tokenlists.
 
-- Ethereum, 6530 tokens
-- Bsc, 2076 tokens
+- Ethereum, 6532 tokens
+- Bsc, 2077 tokens
 - Polygon, 1753 tokens
 - Solana, 705 tokens
 - Avax, 574 tokens
