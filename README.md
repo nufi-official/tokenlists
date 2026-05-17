@@ -42,10 +42,10 @@ Token counts are approximate and may vary as providers update their tokenlists.
 
 - Ethereum, 6532 tokens
 - Bsc, 2077 tokens
-- Polygon, 1753 tokens
+- Polygon, 1754 tokens
 - Solana, 705 tokens
 - Avax, 574 tokens
-- Arbitrum, 521 tokens
+- Arbitrum, 522 tokens
 - Gnosis, 374 tokens
 - Optimism, 366 tokens
 - 8453, 286 tokens
