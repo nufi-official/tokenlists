@@ -118,6 +118,7 @@ class CoinGeckoTokenLists(TokenListProvider):
         "2741": "abstract",
         "130": "unichain",
         "8453": "base",
+        "4663": "robinhood",
         "-3": "ordinals",
         "999": "hyperevm",
         "143": "monad",
@@ -278,6 +279,7 @@ class OneInchTokenLists(TokenListProvider):
         "100": "100",
         "43114": "43114",
         "8453": "8453",
+        "4663": "4663",
     }
     _tokens_to_list = True
     absent_chain_id = True

@@ -49,6 +49,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Gnosis, 374 tokens
 - Optimism, 369 tokens
 - 8453, 301 tokens
+- Robinhood, 156 tokens
 - Bitcoin, 98 tokens
 - Fuse, 23 tokens
 - 80094, 20 tokens

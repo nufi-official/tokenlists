@@ -20,6 +20,7 @@ CHAIN_ID_TO_NATIVE_COIN_COINGECKO_ID = {
     69: "ethereum",
     42161: "ethereum",
     421611: "ethereum",
+    4663: "ethereum",
     1666600000: "harmony",
     1313161554: "ethereum",
     288: "ethereum",
