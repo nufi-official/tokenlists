@@ -10,7 +10,6 @@ CHAIN_NAMES_BY_ID = {
     "-1": "solana",
     "137": "polygon",
     "42161": "arbitrum",
-    "4663": "robinhood",
     "43114": "avax",
     "56": "bsc",
     "-3": "bitcoin",
