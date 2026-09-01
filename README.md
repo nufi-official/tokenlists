@@ -47,7 +47,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Arbitrum, 649 tokens
 - Avax, 588 tokens
 - Gnosis, 374 tokens
-- Optimism, 372 tokens
+- Optimism, 373 tokens
 - 8453, 307 tokens
 - 4663, 159 tokens
 - Bitcoin, 98 tokens
