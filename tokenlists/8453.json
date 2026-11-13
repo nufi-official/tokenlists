@@ -388,11 +388,11 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "1inch",
-            "coingecko",
             "uniswap",
-            "elkfinance"
+            "1inch",
+            "optimism",
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -671,8 +671,9 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
+            "optimism",
             "1inch",
-            "optimism"
+            "coingecko"
         ]
     },
     {
@@ -802,6 +803,19 @@
         "decimals": 18,
         "chainId": 8453,
         "logoURI": "https://assets.coingecko.com/coins/images/54665/thumb/IMG_1010.jpeg?1740898964",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "KNTQ",
+        "name": "Kinetiq",
+        "address": "0xb80194e3868511b8f43E1D5d6E255cD9e7c3e7dD",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/70252/thumb/kntq.png?1761279547",
         "coingeckoId": null,
         "listedIn": [
             "1inch",
@@ -1568,8 +1582,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/FARM/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "1inch",
-            "optimism"
+            "optimism",
+            "1inch"
         ]
     },
     {
@@ -2561,11 +2575,11 @@
         "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "1inch",
-            "coingecko",
             "uniswap",
-            "elkfinance"
+            "1inch",
+            "optimism",
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -3065,8 +3079,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "coingecko"
+            "coingecko",
+            "dfyn"
         ]
     },
     {
@@ -3302,11 +3316,11 @@
         "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "1inch",
-            "coingecko",
             "uniswap",
-            "elkfinance"
+            "1inch",
+            "optimism",
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -3518,11 +3532,11 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x4200000000000000000000000000000000000006/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "1inch",
-            "coingecko",
             "uniswap",
-            "elkfinance"
+            "1inch",
+            "optimism",
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -3642,8 +3656,8 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "1inch",
-            "optimism"
+            "optimism",
+            "1inch"
         ]
     },
     {
@@ -4353,6 +4367,19 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "HYPE",
+        "name": "HYPE",
+        "address": "0x15D0e0c55a3E7eE67152aD7E89acf164253Ff68d",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/68481/small/hype.png?1755878697",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
             "coingecko"
         ]
     },

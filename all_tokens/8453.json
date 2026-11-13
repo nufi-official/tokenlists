@@ -1939,6 +1939,18 @@
         ]
     },
     {
+        "symbol": "PAXG",
+        "name": "PAX Gold",
+        "address": "0xe904AEA5E1b110c9174728fA2efFc8aeD19E98Ef",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/9519/thumb/asset-paxg.png?1785284785",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "MVTT10F",
         "name": "MarketVector Token Terminal Fundamental",
         "address": "0xe8b46b116D3BdFA787CE9CF3f5aCC78dc7cA380E",
@@ -3172,11 +3184,11 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "1inch",
-            "coingecko",
             "uniswap",
-            "elkfinance"
+            "1inch",
+            "optimism",
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -5111,8 +5123,9 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
+            "optimism",
             "1inch",
-            "optimism"
+            "coingecko"
         ]
     },
     {
@@ -6313,6 +6326,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/70252/thumb/kntq.png?1761279547",
         "coingeckoId": null,
         "listedIn": [
+            "1inch",
             "coingecko"
         ]
     },
@@ -13292,8 +13306,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/FARM/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "1inch",
-            "optimism"
+            "optimism",
+            "1inch"
         ]
     },
     {
@@ -18998,6 +19012,18 @@
         ]
     },
     {
+        "symbol": "INFI",
+        "name": "InfiniFi Token",
+        "address": "0x9f4c76F421f47b3C234f841F477897f1D895177D",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102180232/thumb/photo_2026-11-09_14-06-39.jpg?1794424791",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "ARCX",
         "name": "Architex",
         "address": "0x9f44218d487BFF2f81bEf45202601DF4Bd4d1055",
@@ -23381,11 +23407,11 @@
         "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "1inch",
-            "coingecko",
             "uniswap",
-            "elkfinance"
+            "1inch",
+            "optimism",
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -28985,8 +29011,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "coingecko"
+            "coingecko",
+            "dfyn"
         ]
     },
     {
@@ -31514,11 +31540,11 @@
         "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "1inch",
-            "coingecko",
             "uniswap",
-            "elkfinance"
+            "1inch",
+            "optimism",
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -34190,11 +34216,11 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x4200000000000000000000000000000000000006/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "optimism",
-            "1inch",
-            "coingecko",
             "uniswap",
-            "elkfinance"
+            "1inch",
+            "optimism",
+            "elkfinance",
+            "coingecko"
         ]
     },
     {
@@ -34318,6 +34344,18 @@
         "listedIn": [
             "optimism",
             "1inch",
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "JEUR",
+        "name": "Jarvis Synthetic Euro",
+        "address": "0x4154550f4Db74Dc38d1FE98e1F3F28ed6daD627d",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/15725/thumb/jEUR.png?1696515352",
+        "coingeckoId": null,
+        "listedIn": [
             "coingecko"
         ]
     },
@@ -34974,8 +35012,8 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "1inch",
-            "optimism"
+            "optimism",
+            "1inch"
         ]
     },
     {
@@ -41901,7 +41939,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/68481/small/hype.png?1755878697",
         "coingeckoId": null,
         "listedIn": [
-            "1inch"
+            "1inch",
+            "coingecko"
         ]
     },
     {
