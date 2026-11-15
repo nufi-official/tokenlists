@@ -49,7 +49,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Avax, 593 tokens
 - Gnosis, 374 tokens
 - 8453, 368 tokens
-- 4663, 264 tokens
+- 4663, 266 tokens
 - Bitcoin, 99 tokens
 - Fuse, 23 tokens
 - 80094, 20 tokens

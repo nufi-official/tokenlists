@@ -3184,9 +3184,9 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "optimism",
             "uniswap",
             "1inch",
-            "optimism",
             "elkfinance",
             "coingecko"
         ]
@@ -5122,8 +5122,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "1inch",
             "coingecko"
         ]
@@ -7584,6 +7584,30 @@
         ]
     },
     {
+        "symbol": "NEMC",
+        "name": "Newmont Corporation (Coinbase Tokenized Stock)",
+        "address": "0xb2000000000000000000003AA0410688bAf4Da88",
+        "decimals": 8,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102180254/thumb/NEMc-icon-200.png?1794538049",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "TGTXC",
+        "name": "TG Therapeutics, Inc. (Coinbase Tokenized Stock)",
+        "address": "0xb2000000000000000000003A67b9f116f25513d6",
+        "decimals": 8,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102180259/thumb/TGTXc-icon-200_%281%29.png?1794538799",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "SNDKC",
         "name": "SanDisk (Coinbase Tokenized Stock)",
         "address": "0xb200000000000000000000397293Cb8cda9a10c5",
@@ -7837,6 +7861,18 @@
         ]
     },
     {
+        "symbol": "OMERC",
+        "name": "Omeros Corporation (Coinbase Tokenized Stock)",
+        "address": "0xb200000000000000000000178D4c37485ea47eF6",
+        "decimals": 8,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102180258/thumb/OMERc-icon-200.png?1794538668",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "AEHRC",
         "name": "Aehr Test Systems (Coinbase Tokenized Stock)",
         "address": "0xb2000000000000000000001775Bd17f2289DE527",
@@ -7891,6 +7927,18 @@
         "decimals": 8,
         "chainId": 8453,
         "logoURI": "https://assets.coingecko.com/coins/images/102179265/thumb/PLNTc-icon-200.png?1791375824",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "ABSIC",
+        "name": "Absci Corporation (Coinbase Tokenized Stock)",
+        "address": "0xb20000000000000000000010718397ACA876A20a",
+        "decimals": 8,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102180249/thumb/ABSIc-official.png?1794537365",
         "coingeckoId": null,
         "listedIn": [
             "coingecko"
@@ -8622,8 +8670,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/RSR/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "coingecko"
         ]
     },
@@ -8951,8 +8999,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/RNBW/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "coingecko"
         ]
     },
@@ -9595,8 +9643,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/RSC/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "coingecko"
         ]
     },
@@ -11920,8 +11968,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/ICNT/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "1inch",
             "coingecko"
         ]
@@ -16940,6 +16988,18 @@
         ]
     },
     {
+        "symbol": "ITC",
+        "name": "Gartner, Inc. (Coinbase Tokenized Stock)",
+        "address": "0xB20000000000000000000042CBbae483635C3774",
+        "decimals": 8,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102180252/thumb/ITc-icon-200.png?1794537657",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "TEAMC",
         "name": "Atlassian Corporation (Coinbase Tokenized Stock)",
         "address": "0xB2000000000000000000004217B9b4f6f6aCb7B8",
@@ -17194,12 +17254,36 @@
         ]
     },
     {
+        "symbol": "PINSC",
+        "name": "Pinterest, Inc. (Coinbase Tokenized Stock)",
+        "address": "0xB2000000000000000000001dFD8c413Ecd6EC630",
+        "decimals": 8,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102180255/thumb/PINSc-icon-200.png?1794538155",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "CHPTC",
         "name": "ChargePoint Holdings, Inc. (Coinbase Tokenized Stock)",
         "address": "0xB2000000000000000000001cA01a48688eC7D3CC",
         "decimals": 8,
         "chainId": 8453,
         "logoURI": "https://assets.coingecko.com/coins/images/102179611/thumb/CHPTc-icon-200.png?1792396656",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "DHRC",
+        "name": "Danaher Corporation (Coinbase Tokenized Stock)",
+        "address": "0xB2000000000000000000001bcF0441201d513Fa5",
+        "decimals": 8,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102180250/thumb/DHRc-icon-200.png?1794537430",
         "coingeckoId": null,
         "listedIn": [
             "coingecko"
@@ -17398,12 +17482,60 @@
         ]
     },
     {
+        "symbol": "QXOC",
+        "name": "QXO, Inc. (Coinbase Tokenized Stock)",
+        "address": "0xB2000000000000000000000Cd31253817b36f88a",
+        "decimals": 8,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102180256/thumb/QXOc-icon-200.png?1794538215",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SLSC",
+        "name": "SELLAS Life Sciences Group, Inc. (Coinbase Tokenized Stock)",
+        "address": "0xB2000000000000000000000C431e2a7c0CE7Ea31",
+        "decimals": 8,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102180257/thumb/SLSc-icon-200_%281%29.png?1794538279",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "BJC",
         "name": "BJ's Wholesale Club Holdings, Inc. (Coinbase Tokenized Stock",
         "address": "0xB200000000000000000000082f7FEA8F2eE8f438",
         "decimals": 8,
         "chainId": 8453,
         "logoURI": "https://assets.coingecko.com/coins/images/102179276/thumb/BJc-icon-200.png?1791375854",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "DOCNC",
+        "name": "DigitalOcean Holdings, Inc. (Coinbase Tokenized Stock)",
+        "address": "0xB20000000000000000000005bEFA57b9B871E737",
+        "decimals": 8,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102180251/thumb/DOCNc-icon-200.png?1794537575",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "LYFTC",
+        "name": "Lyft, Inc. (Coinbase Tokenized Stock)",
+        "address": "0xB20000000000000000000005717Baa337022c782",
+        "decimals": 8,
+        "chainId": 8453,
+        "logoURI": "https://assets.coingecko.com/coins/images/102180253/thumb/LYFTc-icon-200.png?1794537713",
         "coingeckoId": null,
         "listedIn": [
             "coingecko"
@@ -19140,8 +19272,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/COMP/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "1inch",
             "coingecko"
         ]
@@ -23407,9 +23539,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "optimism",
             "uniswap",
             "1inch",
-            "optimism",
             "elkfinance",
             "coingecko"
         ]
@@ -26929,8 +27061,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/GAIA/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "coingecko"
         ]
     },
@@ -29011,8 +29143,8 @@
         "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "dfyn"
+            "dfyn",
+            "coingecko"
         ]
     },
     {
@@ -31502,8 +31634,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/SPX/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "coingecko"
         ]
     },
@@ -31540,9 +31672,9 @@
         "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
         "coingeckoId": null,
         "listedIn": [
+            "optimism",
             "uniswap",
             "1inch",
-            "optimism",
             "elkfinance",
             "coingecko"
         ]
@@ -34216,9 +34348,9 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x4200000000000000000000000000000000000006/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "optimism",
             "uniswap",
             "1inch",
-            "optimism",
             "elkfinance",
             "coingecko"
         ]
@@ -35011,8 +35143,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "1inch"
         ]
     },
@@ -36101,8 +36233,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/OMI/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "coingecko"
         ]
     },
@@ -37840,8 +37972,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/BITCOIN/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "coingecko"
         ]
     },
@@ -38246,8 +38378,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "1inch",
             "coingecko"
         ]
@@ -40920,8 +41052,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "1inch",
             "coingecko"
         ]
@@ -42498,8 +42630,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/69122/thumb/synd.png?1757576144",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "coingecko"
         ]
     },
@@ -43992,8 +44124,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/TEL/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "coingecko"
         ]
     },
@@ -45968,8 +46100,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/TOWNS/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "uniswap",
             "optimism",
+            "uniswap",
             "coingecko"
         ]
     },
